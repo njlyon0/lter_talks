@@ -15,8 +15,8 @@ format:
 
 ## Presentation Outline
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ### [LTER Network Background]{.brown}
 
@@ -30,13 +30,13 @@ format:
 
 ## [LTER Site Locations]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [LTER Site Longevity]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 <p align="center">
 <img src="images/graph-timeline.jpg" alt="Timeline of LTER sites' existence showing that many sites have existed for several decades" width="80%">
@@ -44,42 +44,44 @@ format:
 
 ## [LTER Core Research Areas]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [Network Office Structure]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
+
+\
 
 <p align="center">
-<img src="images/diagram-lno.png" alt="Organization chart of the LTER network office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="60%">
+<img src="images/diagram-lno.png" alt="Organization chart of the LTER network office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="85%">
 </p>
 
 ## [Synthesis Research]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [Working Groups & Synthesis]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [Grad Course & Working Groups]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [Diversity, Equity, and Inclusion]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [Course Goals]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 - Surface and test new synthesis ideas for feasibility
 - Prepare more graduate students to be effective participants in/leaders of the synthesis project
@@ -88,41 +90,58 @@ format:
 
 ## [Course Structure]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 - Participants: ~27 (approx. 1 graduate students from each LTER site)
 - Time frame: Biweekly meetings (1 session / 2 weeks) over the course of 9 months
 - Course management: LTER Network Office (LNO)
 - Instruction: LNO staff, guest speakers, LTER Network-recruited mentors
 
-## [Module Categories]{.dark-green}
+## [Module Categories]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
+All 15 proposed modules fall under one of two categories
+
+\
+
+::::{.columns}
+
+:::{.column width="50%"}
+### Team Science
+
+X
+:::
+:::{.column width="50%"}
+### Quantitative Skills
+
+Y
+:::
+::::
 
 ## [Team Science Modules]{.dark-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 ## [Quantitative Modules]{.dark-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 ## [Projects Overview]{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 ## [Project Idea Sources]{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 - application
@@ -132,28 +151,28 @@ format:
 
 ## [Project Mentors]{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 
 ## ['Menu of Ideas']{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 
 ## [Ongoing Plans]{.light-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 ## [Want to be Involved?]{.light-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
 
 
