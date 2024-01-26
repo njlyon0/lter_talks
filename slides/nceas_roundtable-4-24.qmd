@@ -67,6 +67,21 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- <span style="color:#C0D13A">**Primary Production** {{< fa seedling >}}</span> 
+
+- [**Populations & Communities** {{< fa bugs >}}]{.light-green}
+
+- [**Disturbance** {{< fa tornado >}}]{.dark-green}
+
+- [**Organic Matter** {{< fa poo >}}]{.dark-blue} 
+
+- <span style="color:#09A7C9">**Inorganic Nutrients** {{< fa flask >}}</span> 
+
+- [**Land Use/Cover Change** {{< fa sun-plant-wilt >}}]{.light-blue} 
+
+- [**Human-Environment Interactions** {{< fa industry >}}]{.brown} 
+
+
 ## [Network Office Structure]{.brown}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
