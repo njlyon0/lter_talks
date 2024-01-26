@@ -1,0 +1,18 @@
+{
+  "hash": "a2408e312323879e4c4cc08cda99d228",
+  "result": {
+    "markdown": "---\ntitle: \"Synthesis Skills for Early Career Researchers (SSECR)\"\nauthor: \"NCEAS Roundtable | Nick J Lyon\"\nengine: knitr\nformat: \n  revealjs: \n    slide-number: c\n    scrollable: false\n    code-overflow: wrap\n    code-line-numbers: false\n    code-copy: hover\n    theme: [night, lter.scss]\n    reference-location: document\n---\n\n\n## A Guide to Your Process\n\n### [Scheduling]{.blue}\n\n### [Learning Objectives]{.purple}\n\n### [Practice]{.pink}\n\n### [Supporting Information]{.orange}\n\n### [Class Discussion]{.gold}\n\n## [Presentation Outline]{.blue}\n\n- X\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-after-body": [
+        "\n<script>\n  // htmlwidgets need to know to resize themselves when slides are shown/hidden.\n  // Fire the \"slideenter\" event (handled by htmlwidgets.js) when the current\n  // slide changes (different for each slide format).\n  (function () {\n    // dispatch for htmlwidgets\n    function fireSlideEnter() {\n      const event = window.document.createEvent(\"Event\");\n      event.initEvent(\"slideenter\", true, true);\n      window.document.dispatchEvent(event);\n    }\n\n    function fireSlideChanged(previousSlide, currentSlide) {\n      fireSlideEnter();\n\n      // dispatch for shiny\n      if (window.jQuery) {\n        if (previousSlide) {\n          window.jQuery(previousSlide).trigger(\"hidden\");\n        }\n        if (currentSlide) {\n          window.jQuery(currentSlide).trigger(\"shown\");\n        }\n      }\n    }\n\n    // hookup for slidy\n    if (window.w3c_slidy) {\n      window.w3c_slidy.add_observer(function (slide_num) {\n        // slide_num starts at position 1\n        fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);\n      });\n    }\n\n  })();\n</script>\n\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
