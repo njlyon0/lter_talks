@@ -10,9 +10,7 @@ website:
   navbar:
     left:
       - text: "SSECR"
-        menu: 
-          - text: "NCEAS - April 2024 Roundtable"
-            href: home_ssecr.qmd
+        href: home_ssecr.qmd
     right:
       - text: "Profile"
         href: https://njlyon0.github.io/
