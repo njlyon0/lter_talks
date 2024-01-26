@@ -1,12 +1,14 @@
 ---
-title: "Synthesis Skills for Early Career Researchers (SSECR)"
+title: "Synthesis Skills for Early Career Researchers"
 ---
 
 ## Overview
 
-
+As part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis _requires_ a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at [lter.github.io/ssecr](https://lter.github.io/ssecr/) though they will likely be under construction/revision until late 2024/early 2025.
 
 ## NCEAS Roundtable
+
+Invited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly "roundtable" presentation.
 
 ```{=html}
 <iframe class="slide-deck" src="slides/nceas_roundtable-4-24.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
