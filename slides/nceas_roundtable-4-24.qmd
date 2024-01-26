@@ -36,12 +36,15 @@ format:
 ::::{.columns}
 :::{.column width="60%"}
 
+- Established in 1980
+
 - 27 sites in the network
 
-\
+- Thousands of investigators
 
-- a
-
+- **Hugely** productive!
+    - \>7000 public datasets
+    - \>17000 journal articles
 
 :::
 :::{.column width="40%"}
@@ -49,9 +52,6 @@ format:
 
 :::
 ::::
-
-
-
 
 ## [LTER Site Longevity]{.brown}
 
