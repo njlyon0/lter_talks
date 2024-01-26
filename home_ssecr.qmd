@@ -1,0 +1,15 @@
+---
+title: "Synthesis Skills for Early Career Researchers (SSECR)"
+---
+
+## Overview
+
+
+
+## NCEAS Roundtable
+
+```{=html}
+<iframe class="slide-deck" src="slides/nceas_roundtable-4-24.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+```
+
+[Roundtable Slides -- Full Screen](slides/nceas_roundtable-4-24.qmd)

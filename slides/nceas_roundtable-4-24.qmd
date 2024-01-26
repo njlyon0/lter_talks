@@ -1,0 +1,31 @@
+---
+title: "Synthesis Skills for Early Career Researchers (SSECR)"
+author: "NCEAS Roundtable | Nick J Lyon"
+engine: knitr
+format: 
+  revealjs: 
+    slide-number: c
+    scrollable: false
+    code-overflow: wrap
+    code-line-numbers: false
+    code-copy: hover
+    theme: [night, lter.scss]
+    reference-location: document
+---
+
+## A Guide to Your Process
+
+### [Scheduling]{.blue}
+
+### [Learning Objectives]{.purple}
+
+### [Practice]{.pink}
+
+### [Supporting Information]{.orange}
+
+### [Class Discussion]{.gold}
+
+## [Presentation Outline]{.blue}
+
+- X
+
