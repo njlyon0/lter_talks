@@ -39,11 +39,20 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Interior parts of Quarto
+/.quarto/
+
+# Add DS_Store
+.DS_Store
+
+# .Rproj file
+*.Rproj
+
+# Rendered docs folder
+docs/
