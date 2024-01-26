@@ -15,8 +15,8 @@ $charcoal: #222222;
 $black: #000000;
 
 // Define Defaults
-$body-bg: $charcoal;
-$body-color: $cream;
+$body-bg: $cream;
+$body-color: $charcoal;
 $link-color: $blue-1;
 
 /*-- scss:rules --*/
@@ -24,10 +24,10 @@ $link-color: $blue-1;
 // Quick refs for core palette
 .brown { color: $brown; }
 .yellow { color: $yellow; }
+.light-green { color: $green-2; }
+.dark-green { color: $green-3; }
 .dark-blue { color: $blue-3; }
 .light-blue { color: $blue-1; }
-.dark-green { color: $green-4; }
-.light-green { color: $green-2; }
 
 //Underline URLs
 .reveal .slide a { text-decoration: underline; }

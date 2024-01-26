@@ -1,7 +1,7 @@
 {
-  "hash": "a2408e312323879e4c4cc08cda99d228",
+  "hash": "8bc7aaa06e0ba84657bf1fc677a3863a",
   "result": {
-    "markdown": "---\ntitle: \"Synthesis Skills for Early Career Researchers (SSECR)\"\nauthor: \"NCEAS Roundtable | Nick J Lyon\"\nengine: knitr\nformat: \n  revealjs: \n    slide-number: c\n    scrollable: false\n    code-overflow: wrap\n    code-line-numbers: false\n    code-copy: hover\n    theme: [night, lter.scss]\n    reference-location: document\n---\n\n\n## A Guide to Your Process\n\n### [Scheduling]{.blue}\n\n### [Learning Objectives]{.purple}\n\n### [Practice]{.pink}\n\n### [Supporting Information]{.orange}\n\n### [Class Discussion]{.gold}\n\n## [Presentation Outline]{.blue}\n\n- X\n\n",
+    "markdown": "---\ntitle: \"LTER Synthesis Course\"\nauthor: \"NCEAS Roundtable | Nick J Lyon\"\nengine: knitr\nformat: \n  revealjs: \n    slide-number: c\n    scrollable: false\n    code-overflow: wrap\n    code-line-numbers: false\n    code-copy: hover\n    theme: [simple, lter.scss]\n    reference-location: document\n---\n\n\n## Presentation Outline\n\n### [LTER Network Background]{.brown}\n\n### [Course Rationale]{.light-green}\n\n### [Course Topics]{.dark-green}\n\n### [Student Projects]{.dark-blue}\n\n### [What's Next]{.light-blue}\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

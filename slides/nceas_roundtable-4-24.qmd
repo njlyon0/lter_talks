@@ -1,5 +1,5 @@
 ---
-title: "Synthesis Skills for Early Career Researchers (SSECR)"
+title: "LTER Synthesis Course"
 author: "NCEAS Roundtable | Nick J Lyon"
 engine: knitr
 format: 
@@ -9,23 +9,19 @@ format:
     code-overflow: wrap
     code-line-numbers: false
     code-copy: hover
-    theme: [night, lter.scss]
+    theme: [simple, lter.scss]
     reference-location: document
 ---
 
-## A Guide to Your Process
+## Presentation Outline
 
-### [Scheduling]{.blue}
+### [LTER Network Background]{.brown}
 
-### [Learning Objectives]{.purple}
+### [Course Rationale]{.light-green}
 
-### [Practice]{.pink}
+### [Course Topics]{.dark-green}
 
-### [Supporting Information]{.orange}
+### [Student Projects]{.dark-blue}
 
-### [Class Discussion]{.gold}
-
-## [Presentation Outline]{.blue}
-
-- X
+### [What's Next]{.light-blue}
 
