@@ -28,10 +28,14 @@ format:
 
 ### [What's Next]{.light-blue}
 
-## [LTER Site Locations]{.brown}
+## [LTER Sites]{.brown}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
+
+
+
+
 
 ## [LTER Site Longevity]{.brown}
 
@@ -103,6 +107,8 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=950 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=100 left=962 width="10%"}
 
+\
+
 All 15 proposed modules fall under one of two categories
 
 \
@@ -110,12 +116,12 @@ All 15 proposed modules fall under one of two categories
 ::::{.columns}
 
 :::{.column width="50%"}
-### Team Science
+### Team Science {{< fa people-group >}}
 
 X
 :::
 :::{.column width="50%"}
-### Quantitative Skills
+### Quantitative Skills {{< fa screwdriver-wrench >}}
 
 Y
 :::
