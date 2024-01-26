@@ -1,31 +1,32 @@
 /*-- scss:defaults --*/
 
 // Color Definitions
-$blue: #588FF9;
-$purple: #725EEC;
-$pink: #DF227C;
-$orange: #FF6018;
-$gold: #FFB02F;
-$cream: #F4F3EE;
+$brown: #8B5E3A;
+$yellow: #FFDE15;
+$green-1: #C0D13A;
+$green-2: #94AA3B;
+$green-3: #4B7838;
+$green-4: #305B2C;
+$blue-1: #66CAD3;
+$blue-2: #09A7C9;
+$blue-3: #197FC2;
 $charcoal: #222222;
 $black: #000000;
-$url-blue: #01BAEF;
 
 // Define Defaults
 $body-bg: $charcoal;
 $body-color: $cream;
-$link-color: $url_blue;
+$link-color: $blue-1;
 
 /*-- scss:rules --*/
 
 // Quick refs for core palette
-.blue { color: $blue; }
-.purple { color: $purple; }
-.pink { color: $pink; }
-.orange { color: $orange; }
-.gold { color: $gold; }
+.brown { color: $brown; }
+.yellow { color: $yellow; }
+.dark-blue { color: $blue-3; }
+.light-blue { color: $blue-1; }
+.dark-green { color: $green-4; }
+.light-green { color: $green-2; }
 
 //Underline URLs
-.reveal .slide a {
-  text-decoration: underline;
-}
+.reveal .slide a { text-decoration: underline; }
