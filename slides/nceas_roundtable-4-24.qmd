@@ -15,6 +15,9 @@ format:
 
 ## Presentation Outline
 
+![NCEAS logo](images/logo-nceas.png){.absolute top=-15 left=1050 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=100 left=1062 width="10%"}
+
 ### [LTER Network Background]{.brown}
 
 ### [Course Rationale]{.light-green}
