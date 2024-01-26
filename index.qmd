@@ -1,0 +1,8 @@
+---
+title: "LTER Presentations"
+format: html
+---
+
+## Site Description
+
+This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations.

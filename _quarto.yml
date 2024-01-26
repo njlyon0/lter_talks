@@ -1,0 +1,39 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+
+website:
+  title: "Lyon - LTER Presentations"
+  repo-url: https://github.com/njlyon0/lter_talks
+  repo-actions: [issue]
+  navbar:
+    left:
+      - text: "SSECR"
+        menu: 
+          - text: "NCEAS - April 2024 Roundtable"
+            href: home_ssecr.qmd
+    right:
+      - text: "Profile"
+        href: https://njlyon0.github.io/
+      - icon: github
+        href: https://github.com/njlyon0/lter_talks
+        aria-label: GitHub
+  page-footer:
+    center: "Copyright 2024, Nicholas J Lyon"
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    code-overflow: wrap
+    code-line-numbers: false
+    code-copy: hover
+    theme:
+      light: lyonlight.scss
+      dark: lyondark.scss
+    mainfont: Open Sans
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
