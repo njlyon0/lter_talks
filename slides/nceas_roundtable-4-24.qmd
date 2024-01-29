@@ -324,52 +324,130 @@ format:
 
 - Quality control requires an in-depth examination of _each_ primary project's metadata
 
-## [Projects Overview]{.dark-blue}
+## [Projects Overview]{.dark-blue} {.smaller}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Students will work on projects outside of class sessions with their peers
+
+\
+
+- Projects offer a real world context to apply the content covered in modules
+
+\
+
+- Deliverables produced by project teams will be valuable entries in student portfolios
+    - Dissertation/thesis chapters
+    - Published papers
+    - Data packages & software
+    - Websites
+    - SPARC group / working group / other grant application fodder
 
 ## [Project Idea Sources]{.dark-blue}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- Students' prior work / course applications
+- Past working group / SPARC group members
+- Project mentors
 
-- application
-- past working group members/PIs
-- project mentors
-- _eventually_: past cohorts of students!
+\
 
-## [Project Mentors]{.dark-blue}
+. . .
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+### _In future iterations of the course:_
 
-
+- 'Next Steps' synthesis ideas developed by previous cohorts!
 
 ## ['Menu of Ideas']{.dark-blue}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- Project ideas from all sources will be retained in a 'menu of ideas'
 
+\
+
+- Each LTER network synthesis activity will have the chance to add to this menu
+    - Working groups / SPARC groups
+    - Cohorts of SSECR students
+    - All Scientists' Meeting presentations
+
+\
+
+- Subsequent cohorts of students can adopt and/or adapt ideas from this menu
+
+## [Project Mentors]{.dark-blue} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Each project group will be paired with a discipline-relevant mentor with synthesis experience
+
+\
+
+- Groups and mentors meet at least 5 times throughout the course
+
+\
+
+- Content and structure of those meetings is up to those involved
+    - Suggesting readings or collaborators
+    - Discussing analytical approaches
+    - Sharing prior and current experience
 
 ## [Ongoing Plans]{.light-blue}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- Continuing to recruit project mentors
+
+\
+
+- Designing module learning objectives and aligned activities/readings
+
+\
+
+## [On the Horizon]{.light-blue} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+**Soon** - Call for mentors & announcement of course (to students)
+
+\
+
+. . .
+
+**Spring 2024** - Student applications & application review (by LNO Staff)
+
+\
+
+. . .
+
+**Summer 2024** - Application decisions
+
+\
+
+. . .
+
+**Fall 2024** - Start of inaugural SSECR course offering!
 
 ## [Want to be Involved?]{.light-blue}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- 
+
 ## [Thanks!]{.cream} {background-image="images/pic-flea-beetle.jpg"}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+\
 \
 \
 \
