@@ -22,7 +22,7 @@ format:
 
 ### [Course Rationale]{.light-green}
 
-### [Course Topics]{.dark-green}
+### [Course Structure & Content]{.dark-green}
 
 ### [Student Projects]{.dark-blue}
 
@@ -73,7 +73,6 @@ format:
 
 - [**Human-Environment Interactions** {{< fa industry >}}]{.brown} 
 
-
 ## [Network Office Structure]{.brown}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
@@ -90,22 +89,59 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-## [Working Groups & Synthesis]{.light-green}
+> Synthesis definition (according to LNO)
+
+- LTER is hypothesis driven
+
+\
+
+- Means many disparate data are collected
+
+\
+
+- Useful backdrop for innovative synthesis work!
+
+## [Working Groups & Synthesis]{.light-green} {.smaller}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Since 2016, funded 14 full working groups (\~4 meetings / 2 years)
+
+\
+
+- In 2023, funded 4 SPARC groups (1 meeting + 1 year support)
+    - <u>S</u>cientific <u>P</u>eers <u>A</u>dvancing <u>R</u>esearch <u>C</u>ollaboration
+
+\
+
+- Proposals center around 1-3 synthesis hypotheses that use LTER data
+
+\
+
+- Groups are immensely productive (often **\~X** publications / group)
 
 ## [Grad Course & Working Groups]{.light-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- Early career researcher (ECR) demand for synthesis training **_far_** outstrips working group capacity
+
+\
+
+- This course will help train ECRs in the quantitative _and_ inclusive facilitation skills that are the hallmark of synthesis research
+
+\
+
+- Course offerings are timed to leave students well prepared to apply for SPARC group funding
+
 ## [Diversity, Equity, and Inclusion]{.light-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-## [Course Goals]{.light-green}
+## [Course Goals]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -115,7 +151,7 @@ format:
 - Connect LTER graduate students across sites
 - Develop intergenerational linkages around synthesis research
 
-## [Course Structure]{.light-green}
+## [Course Structure]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
