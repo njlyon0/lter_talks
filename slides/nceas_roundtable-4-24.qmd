@@ -110,7 +110,7 @@ format:
 
 \
 
-- In 2023, funded 4 SPARC groups (1 meeting + 1 year support)
+- In 2022, funded 4 SPARC groups (1 meeting + 1 year support)
     - <u>S</u>cientific <u>P</u>eers <u>A</u>dvancing <u>R</u>esearch <u>C</u>ollaboration
 
 \
@@ -177,20 +177,74 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- We have the following strategic goals for the course:
+
+:::{.incremental}
+
 - Surface and test new synthesis ideas for feasibility
-- Prepare more graduate students to be effective participants in/leaders of the synthesis project
+- Prepare more graduate students to be effective participants in/leaders of synthesis projects
 - Connect LTER graduate students across sites
-- Develop intergenerational linkages around synthesis research
+- Develop intergenerational linkages around synthesis research 
+
+:::
 
 ## [Course Structure]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Participants: ~27 (approx. 1 graduate students from each LTER site)
-- Time frame: Biweekly meetings (1 session / 2 weeks) over the course of 9 months
-- Course management: LTER Network Office (LNO)
-- Instruction: LNO staff, guest speakers, LTER Network-recruited mentors
+- Course split into two major components
+    1. Instructional modules
+    2. Student-led synthesis projects
+
+\ 
+
+. . .
+
+- Module order reflects typical synthesis project evolution
+
+\
+
+- More on [projects]{.dark-blue} shortly!
+
+## [Course Logistics]{.dark-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Course runs for 9 months (Sept - May)
+    - Biweekly synchronous virtual meetings
+
+\
+
+. . . 
+
+- First full week in-person at NCEAS
+    - Facilitate cohort sense of community
+    - Students form groups of 5-6 with interest in shared project idea
+
+\
+
+. . . 
+
+- \~30 students per cohort
+    - \~1 / LTER site
+
+\
+
+## [Classes]{.dark-green}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Class meetings consist of **_inspiration_** and **_instruction_**
+    - Inspiration = experienced synthesis scientist lends insight (60 min)
+    - Instruction = work on topic of the week (120 min)
+
+\
+
+- Instruction by: LNO staff, guest speakers, LTER Network-recruited mentors
+    - Likely including other NCEAS folx!
 
 ## [Module Categories]{.dark-green} {.smaller}
 
@@ -199,9 +253,11 @@ format:
 
 \
 
-All 15 proposed modules fall under one of two categories
+15 proposed modules from two categories
 
 \
+
+. . .
 
 ::::{.columns}
 
@@ -236,17 +292,37 @@ All 15 proposed modules fall under one of two categories
 
 ::::
 
-## [Team Science Modules]{.dark-green}
+## [Team Science Emphasis]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 
-## [Quantitative Modules]{.dark-green}
+- Synthesis work _requires_ meaningful teamwork
+
+\
+
+- Modules focus on these "soft skills"
+    - Consistent inclusivity angle to modules in this category
+
+\
+
+- Many of these skills are particularly absent from graduate school curricula
+
+## [Quantitative Emphasis]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- Synthesis work typically has **significant** data wrangling needs
+
+\
+
+- Extensive harmonizing often pre-requisite to the most fundamental exploration
+
+\
+
+- Quality control requires an in-depth examination of _each_ primary project's metadata
 
 ## [Projects Overview]{.dark-blue}
 
