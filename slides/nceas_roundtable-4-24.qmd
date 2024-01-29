@@ -33,8 +33,7 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-::::{.columns}
-:::{.column width="60%"}
+![](images/map-lter-sites.png){.absolute top=100 left=600 width="38%"}
 
 - Established in 1980
 
@@ -45,13 +44,6 @@ format:
 - **Hugely** productive!
     - \>7000 public datasets
     - \>17000 journal articles
-
-:::
-:::{.column width="40%"}
-<img src="images/map-lter-sites.png" alt="Map of the 28 LTER sites" width="100%">
-
-:::
-::::
 
 ## [LTER Site Longevity]{.brown}
 
@@ -147,6 +139,7 @@ All 15 proposed modules fall under one of two categories
 ::::{.columns}
 
 :::{.column width="50%"}
+
 ### Team Science {{< fa people-group >}}
 
 - Team Science Practices
@@ -158,7 +151,9 @@ All 15 proposed modules fall under one of two categories
 - Communicating Findings
 
 :::
+
 :::{.column width="50%"}
+
 ### Quantitative Skills {{< fa screwdriver-wrench >}}
 
 - Reproducibility Best Practices
@@ -171,6 +166,7 @@ All 15 proposed modules fall under one of two categories
 - Reproducible Reports
 
 :::
+
 ::::
 
 ## [Team Science Modules]{.dark-green}
