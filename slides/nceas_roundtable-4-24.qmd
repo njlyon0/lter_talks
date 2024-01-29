@@ -141,6 +141,37 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+- The network has two primary justice goals heading into our next funding cycle:
+
+. . .
+
+1. Greater cultural, socioeconomic, and gender diversity throughout the LTER network
+    
+. . .
+
+2. More rapid and innovative synthesis
+
+\
+
+. . .
+
+- This course is built--in part--to support these goals
+
+
+## [DEI Plan]{.light-green}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+:::{.r-stack}
+
+![](images/diagram-justice-full.png){.fragment .fade-out}
+
+
+![](images/diagram-justice-ssecr.png){.fragment}
+
+:::
+
 ## [Course Goals]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
