@@ -89,7 +89,9 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-> Synthesis definition (according to LNO)
+We define synthesis as:
+
+>  bringing together the results of multiple studies to test novel hypotheses
 
 - LTER is hypothesis driven
 
