@@ -21,6 +21,20 @@
     "text": "NCEAS Roundtable\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LTER Presentations",
+    "section": "",
+    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
+  },
+  {
+    "objectID": "index.html#site-description",
+    "href": "index.html#site-description",
+    "title": "LTER Presentations",
+    "section": "",
+    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
+  },
+  {
     "objectID": "slides/nceas_roundtable-4-24.html#presentation-outline",
     "href": "slides/nceas_roundtable-4-24.html#presentation-outline",
     "title": "LTER Synthesis Course",
@@ -60,7 +74,7 @@
     "href": "slides/nceas_roundtable-4-24.html#synthesis-research",
     "title": "LTER Synthesis Course",
     "section": "Synthesis Research",
-    "text": "Synthesis Research\n \n\nSynthesis definition (according to LNO)\n\n\nLTER is hypothesis driven\n\n\n\n\nMeans many disparate data are collected\n\n\n\n\nUseful backdrop for innovative synthesis work!"
+    "text": "Synthesis Research\n \nWe define synthesis as:\n\nbringing together the results of multiple studies to test novel hypotheses\n\n\nLTER is hypothesis driven\n\n\n\n\nMeans many disparate data are collected\n\n\n\n\nUseful backdrop for innovative synthesis work!"
   },
   {
     "objectID": "slides/nceas_roundtable-4-24.html#working-groups-synthesis",
@@ -194,19 +208,5 @@
     "title": "LTER Synthesis Course",
     "section": "Thanks!",
     "text": "Thanks!\n \n\n\n\n\n\n\n\n\n\nQuestions?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LTER Presentations",
-    "section": "",
-    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
-  },
-  {
-    "objectID": "index.html#site-description",
-    "href": "index.html#site-description",
-    "title": "LTER Presentations",
-    "section": "",
-    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
   }
 ]
