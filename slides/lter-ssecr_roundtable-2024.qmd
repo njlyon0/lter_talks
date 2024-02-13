@@ -51,7 +51,7 @@ format:
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 <p align="center">
-<img src="images/graph-timeline.jpg" alt="Timeline of LTER sites' existence showing that many sites have existed for several decades" width="80%">
+<img src="images/graph-timeline.jpg" alt="Timeline of LTER sites showing that many sites have existed for several decades" width="80%">
 </p>
 
 ## [LTER Core Research Areas]{.brown}
