@@ -98,53 +98,81 @@
     "text": "DEI Plan"
   },
   {
-    "objectID": "slides/lter-ssecr_roundtable-2024.html#course-goals",
-    "href": "slides/lter-ssecr_roundtable-2024.html#course-goals",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ssecr-goals",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ssecr-goals",
     "title": "LTER Synthesis Course",
-    "section": "Course Goals",
-    "text": "Course Goals\n \n\nWe have the following strategic goals for the course:\n\n\n\nSurface and test new synthesis ideas for feasibility\nPrepare more graduate students to be effective participants in/leaders of synthesis projects\nConnect LTER graduate students across sites\nDevelop intergenerational linkages around synthesis research"
+    "section": "SSECR Goals",
+    "text": "SSECR Goals\n \n\nWe have the following strategic goals for the course:\n\n\n\nSurface and test new synthesis ideas for feasibility\nPrepare more ECRs to be synthesis project leaders\nConnect LTER-affiliated ECRs across sites\nDevelop intergenerational linkages around synthesis"
   },
   {
-    "objectID": "slides/lter-ssecr_roundtable-2024.html#course-structure",
-    "href": "slides/lter-ssecr_roundtable-2024.html#course-structure",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#target-audience",
+    "href": "slides/lter-ssecr_roundtable-2024.html#target-audience",
     "title": "LTER Synthesis Course",
-    "section": "Course Structure",
-    "text": "Course Structure\n \n\nCourse split into two major components\n\nInstructional modules\nStudent-led synthesis projects\n\n\n \n\n\nModule order reflects typical synthesis project evolution\n\n\n\n\nMore on projects shortly!"
+    "section": "Target Audience",
+    "text": "Target Audience\n \n\nWe’re looking to recruit graduate students actively working at/with LTER sites\n\n\n\n\n\n~30 students per cohort (about 1 per LTER site)\n\n\n\n\n\n\nIdeally have some primary research experience\n\nNo requirement for prior synthesis experience\n\n\n\n\n\n\n\nEstimated time commitment is 3 hours per week\n\nProducts of student projects hopefully persuasive to PIs / graduate committees"
+  },
+  {
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ssecr-structure",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ssecr-structure",
+    "title": "LTER Synthesis Course",
+    "section": "SSECR Structure",
+    "text": "SSECR Structure\n \n\nCourse split into two major components:\n\n\n\n\nInstructional Modules\n\nStudent-Led Projects\n\n\n\n\n\n\n\nModule order reflects typical synthesis project evolution\n\nBased on working group model\n\n\n\n\n\n\n\nMore on projects shortly!"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#course-logistics",
     "href": "slides/lter-ssecr_roundtable-2024.html#course-logistics",
     "title": "LTER Synthesis Course",
     "section": "Course Logistics",
-    "text": "Course Logistics\n \n\nCourse runs for 9 months (Sept - May)\n\nBiweekly synchronous virtual meetings\n\n\n\n\n\n\nFirst full week in-person at NCEAS\n\nFacilitate cohort sense of community\nStudents form groups of 5-6 with interest in shared project idea\n\n\n\n\n\n\n\n~30 students per cohort\n\n~1 / LTER site"
+    "text": "Course Logistics\n \n\nCourse runs for 9 months (Sept - May)\n\n\n\n\n\nFirst full week in-person at NCEAS\n\nFacilitate cohort sense of community\nStudents form groups of 5-6 with interest in shared project idea\n\n\n\n\n\n\n\nBiweekly synchronous virtual meetings\n\nIn “off” weeks groups meet together / with project mentors"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#classes",
     "href": "slides/lter-ssecr_roundtable-2024.html#classes",
     "title": "LTER Synthesis Course",
     "section": "Classes",
-    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\nInspiration = experienced synthesis scientist lends insight (60 min)\nInstruction = work on topic of the week (120 min)\n\n\n\n\n\nInstruction by: LNO staff, guest speakers, LTER Network-recruited mentors\n\nLikely including other NCEAS folx!"
+    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc."
+  },
+  {
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#classes-1",
+    "href": "slides/lter-ssecr_roundtable-2024.html#classes-1",
+    "title": "LTER Synthesis Course",
+    "section": "Classes",
+    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc.\n\n\nInstruction\n\nApprox. 120 minutes\n\n\n\n\nLed by LNO staff, guest speakers, LTER Network-recruited mentors\n\nLikely including other NCEAS folx!\n\n\n\n\n\nFocus on content module of the week"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories",
     "href": "slides/lter-ssecr_roundtable-2024.html#module-categories",
     "title": "LTER Synthesis Course",
     "section": "Module Categories",
-    "text": "Module Categories\n \n\n\n15 proposed modules from two categories\n\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills \n\nReproducibility Best Practices\nVersion Control\nData Discovery & Management\nData Visualization and Exploration\nData Wrangling\nAnalysis & Modeling\nSpatial Data & Interactivity\nReproducible Reports"
+    "text": "Module Categories\n \n15 proposed modules from two categories\n\n\n\n\n\nTeam Science \n\nQuantitative Skills"
+  },
+  {
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories-1",
+    "href": "slides/lter-ssecr_roundtable-2024.html#module-categories-1",
+    "title": "LTER Synthesis Course",
+    "section": "Module Categories",
+    "text": "Module Categories\n \n15 proposed modules from two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills"
+  },
+  {
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories-2",
+    "href": "slides/lter-ssecr_roundtable-2024.html#module-categories-2",
+    "title": "LTER Synthesis Course",
+    "section": "Module Categories",
+    "text": "Module Categories\n \n15 proposed modules from two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills \n\nReproducibility Best Practices\nVersion Control\nData Discovery & Management\nData Visualization and Exploration\nData Wrangling\nAnalysis & Modeling\nSpatial Data & Interactivity\nReproducible Reports"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#team-science-emphasis",
     "href": "slides/lter-ssecr_roundtable-2024.html#team-science-emphasis",
     "title": "LTER Synthesis Course",
     "section": "Team Science Emphasis",
-    "text": "Team Science Emphasis\n \n\nSynthesis work requires meaningful teamwork\n\n\n\n\nModules focus on these “soft skills”\n\nConsistent inclusivity angle to modules in this category\n\n\n\n\n\nMany of these skills are particularly absent from graduate school curricula"
+    "text": "Team Science Emphasis\n \n\nSynthesis work requires meaningful teamwork\n\n\n\n\n\nModules focus on these “soft skills”\n\nConsistent inclusivity angle to modules in this category\n\n\n\n\n\n\n\nMany of these skills are particularly absent from graduate school curricula"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
     "href": "slides/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
     "title": "LTER Synthesis Course",
     "section": "Quantitative Emphasis",
-    "text": "Quantitative Emphasis\n \n\nSynthesis work typically has significant data wrangling needs\n\n\n\n\nExtensive harmonizing often pre-requisite to the most fundamental exploration\n\n\n\n\nQuality control requires an in-depth examination of each primary project’s metadata"
+    "text": "Quantitative Emphasis\n \n\nSynthesis work usually has significant quantitative needs\n\n\n\n\n\nExtensive harmonizing often pre-requisite to the most fundamental exploration\n\n\n\n\n\n\nQuality control requires an in-depth examination of each primary project’s metadata"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#projects-overview",
