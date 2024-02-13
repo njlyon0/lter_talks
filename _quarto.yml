@@ -4,13 +4,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Lyon - LTER Presentations"
+  title: "Lyon Presentations"
   repo-url: https://github.com/njlyon0/lter_talks
   repo-actions: [issue]
   navbar:
     left:
-      - text: "SSECR"
-        href: home_ssecr.qmd
+      - text: "LTER"
+        href: home_lter.qmd
     right:
       - text: "Profile"
         href: https://njlyon0.github.io/
