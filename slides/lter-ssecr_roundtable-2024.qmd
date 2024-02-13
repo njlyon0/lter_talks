@@ -248,7 +248,7 @@ format:
 
 :::
 
-## [Course Goals]{.dark-green}
+## [SSECR Goals]{.dark-green}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -257,29 +257,70 @@ format:
 
 :::{.incremental}
 
-- Surface and test new synthesis ideas for feasibility
-- Prepare more graduate students to be effective participants in/leaders of synthesis projects
-- Connect LTER graduate students across sites
-- Develop intergenerational linkages around synthesis research 
+1. Surface and test new synthesis ideas for feasibility
+2. Prepare more ECRs to be synthesis project leaders
+3. Connect LTER-affiliated ECRs across sites
+4. Develop intergenerational linkages around synthesis
 
 :::
 
-## [Course Structure]{.dark-green}
+## [Target Audience]{.dark-green} {.smaller}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Course split into two major components
-    1. Instructional modules
-    2. Student-led synthesis projects
+- We're looking to recruit graduate students actively working at/with LTER sites
 
-\ 
+\
+
+. . . 
+
+- \~30 students per cohort (about 1 per LTER site)
+
+\
+
+. . . 
+
+- Ideally have some primary research experience
+    - <u>No requirement</u> for prior _synthesis_ experience
+
+\
+
+. . . 
+
+- Estimated time commitment is 3 hours per week
+    - Products of [student projects]{.dark-blue} hopefully persuasive to PIs / graduate committees
+
+## [SSECR Structure]{.dark-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Course split into two major components:
+
+. . . 
+
+::::{.columns}
+:::{.column width="50%"}
+### Instructional Modules
+
+:::
+:::{.column width="50%"}
+### Student-Led Projects
+
+:::
+::::
+
+\
 
 . . .
 
 - Module order reflects typical synthesis project evolution
+    - Based on working group model
 
 \
+
+. . .
 
 - More on [projects]{.dark-blue} shortly!
 
@@ -289,7 +330,6 @@ format:
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Course runs for 9 months (Sept - May)
-    - Biweekly synchronous virtual meetings
 
 \
 
@@ -301,33 +341,85 @@ format:
 
 \
 
-. . . 
+. . .
 
-- \~30 students per cohort
-    - \~1 / LTER site
+- Biweekly synchronous virtual meetings
+    - In "off" weeks groups meet together / with project mentors
 
-\
-
-## [Classes]{.dark-green}
+## [Classes]{.dark-green} {.smaller}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Class meetings consist of **_inspiration_** and **_instruction_**
-    - Inspiration = experienced synthesis scientist lends insight (60 min)
-    - Instruction = work on topic of the week (120 min)
+
+. . .
+
+::::{.columns}
+:::{.column width="50%"}
+### Inspiration
+
+- Approx. 60 minutes
 
 \
 
-- Instruction by: LNO staff, guest speakers, LTER Network-recruited mentors
+- Led by experienced synthesis scientist(s)
+
+\
+\
+\
+
+- Describe experience, lend insight, provide guidance, etc.
+:::
+:::{.column width="50%"}
+
+:::
+::::
+
+## [Classes]{.dark-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Class meetings consist of **_inspiration_** and **_instruction_**
+
+::::{.columns}
+:::{.column width="50%"}
+### Inspiration
+
+- Approx. 60 minutes
+
+\
+
+- Led by experienced synthesis scientist(s)
+
+\
+\
+\
+
+- Describe experience, lend insight, provide guidance, etc.
+:::
+:::{.column width="50%"}
+### Instruction
+
+- Approx. 120 minutes
+
+\
+
+- Led by LNO staff, guest speakers, LTER Network-recruited mentors
     - Likely including other NCEAS folx!
+
+\
+
+- Focus on content module of the week
+
+:::
+::::
 
 ## [Module Categories]{.dark-green} {.smaller}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-\
 
 15 proposed modules from two categories
 
@@ -336,7 +428,28 @@ format:
 . . .
 
 ::::{.columns}
+:::{.column width="50%"}
 
+### Team Science {{< fa people-group >}}
+
+:::
+:::{.column width="50%"}
+
+### Quantitative Skills {{< fa screwdriver-wrench >}}
+
+:::
+::::
+
+## [Module Categories]{.dark-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+15 proposed modules from two categories
+
+\
+
+::::{.columns}
 :::{.column width="50%"}
 
 ### Team Science {{< fa people-group >}}
@@ -350,7 +463,36 @@ format:
 - Communicating Findings
 
 :::
+:::{.column width="50%"}
 
+### Quantitative Skills {{< fa screwdriver-wrench >}}
+
+:::
+::::
+
+## [Module Categories]{.dark-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+15 proposed modules from two categories
+
+\
+
+::::{.columns}
+:::{.column width="50%"}
+
+### Team Science {{< fa people-group >}}
+
+- Team Science Practices
+- Inclusive Facilitation
+- Supporting Divergent, Emergent, and Convergent Thinking
+- Authorship & Intellectual Credit
+- Project Management
+- Logic Models
+- Communicating Findings
+
+:::
 :::{.column width="50%"}
 
 ### Quantitative Skills {{< fa screwdriver-wrench >}}
@@ -365,7 +507,6 @@ format:
 - Reproducible Reports
 
 :::
-
 ::::
 
 ## [Team Science Emphasis]{.dark-green}
@@ -378,10 +519,14 @@ format:
 
 \
 
+. . .
+
 - Modules focus on these "soft skills"
     - Consistent inclusivity angle to modules in this category
 
 \
+
+. . .
 
 - Many of these skills are particularly absent from graduate school curricula
 
@@ -390,13 +535,17 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Synthesis work typically has **significant** data wrangling needs
+- Synthesis work usually has **significant** quantitative needs
 
 \
+
+. . .
 
 - Extensive harmonizing often pre-requisite to the most fundamental exploration
 
 \
+
+. . .
 
 - Quality control requires an in-depth examination of _each_ primary project's metadata
 
