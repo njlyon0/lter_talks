@@ -1,1 +1,1 @@
-Sitemap: https://njlyon0.github.io/lter_talks/sitemap.xml
+Sitemap: https://njlyon0.github.io/lyon_talks/sitemap.xml

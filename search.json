@@ -1,212 +1,212 @@
 [
   {
-    "objectID": "home_ssecr.html",
-    "href": "home_ssecr.html",
-    "title": "Synthesis Skills for Early Career Researchers",
-    "section": "",
-    "text": "As part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025."
-  },
-  {
-    "objectID": "home_ssecr.html#overview",
-    "href": "home_ssecr.html#overview",
-    "title": "Synthesis Skills for Early Career Researchers",
-    "section": "",
-    "text": "As part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025."
-  },
-  {
-    "objectID": "home_ssecr.html#nceas-roundtable",
-    "href": "home_ssecr.html#nceas-roundtable",
-    "title": "Synthesis Skills for Early Career Researchers",
-    "section": "NCEAS Roundtable",
-    "text": "NCEAS Roundtable\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LTER Presentations",
-    "section": "",
-    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
-  },
-  {
-    "objectID": "index.html#site-description",
-    "href": "index.html#site-description",
-    "title": "LTER Presentations",
-    "section": "",
-    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
-  },
-  {
-    "objectID": "slides/nceas_roundtable-4-24.html#presentation-outline",
-    "href": "slides/nceas_roundtable-4-24.html#presentation-outline",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#presentation-outline",
+    "href": "slides/lter-ssecr_roundtable-2024.html#presentation-outline",
     "title": "LTER Synthesis Course",
     "section": "Presentation Outline",
     "text": "Presentation Outline\n \nLTER Network Background\nCourse Rationale\nCourse Structure & Content\nStudent Projects\nWhat’s Next"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#lter-sites",
-    "href": "slides/nceas_roundtable-4-24.html#lter-sites",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-sites",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-sites",
     "title": "LTER Synthesis Course",
     "section": "LTER Sites",
     "text": "LTER Sites\n \n\n\nEstablished in 1980\n27 sites in the network\nThousands of investigators\nHugely productive!\n\n&gt;7000 public datasets\n&gt;17000 journal articles"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#lter-site-longevity",
-    "href": "slides/nceas_roundtable-4-24.html#lter-site-longevity",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-site-longevity",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-site-longevity",
     "title": "LTER Synthesis Course",
     "section": "LTER Site Longevity",
     "text": "LTER Site Longevity"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#lter-core-research-areas",
-    "href": "slides/nceas_roundtable-4-24.html#lter-core-research-areas",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-core-research-areas",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-core-research-areas",
     "title": "LTER Synthesis Course",
     "section": "LTER Core Research Areas",
     "text": "LTER Core Research Areas\n \n\nPrimary Production \nPopulations & Communities \nDisturbance \nOrganic Matter \nInorganic Nutrients \nLand Use/Cover Change \nHuman-Environment Interactions"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#network-office-structure",
-    "href": "slides/nceas_roundtable-4-24.html#network-office-structure",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#network-office-structure",
+    "href": "slides/lter-ssecr_roundtable-2024.html#network-office-structure",
     "title": "LTER Synthesis Course",
     "section": "Network Office Structure",
     "text": "Network Office Structure"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#synthesis-research",
-    "href": "slides/nceas_roundtable-4-24.html#synthesis-research",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#synthesis-research",
+    "href": "slides/lter-ssecr_roundtable-2024.html#synthesis-research",
     "title": "LTER Synthesis Course",
     "section": "Synthesis Research",
     "text": "Synthesis Research\n \nWe define synthesis as:\n\nbringing together the results of multiple studies to test novel hypotheses\n\n\nLTER is hypothesis driven\n\n\n\n\nMeans many disparate data are collected\n\n\n\n\nUseful backdrop for innovative synthesis work!"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#working-groups-synthesis",
-    "href": "slides/nceas_roundtable-4-24.html#working-groups-synthesis",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#working-groups-synthesis",
+    "href": "slides/lter-ssecr_roundtable-2024.html#working-groups-synthesis",
     "title": "LTER Synthesis Course",
     "section": "Working Groups & Synthesis",
     "text": "Working Groups & Synthesis\n \n\nSince 2016, funded 14 full working groups (~4 meetings / 2 years)\n\n\n\n\nIn 2022, funded 4 SPARC groups (1 meeting + 1 year support)\n\nScientific Peers Advancing Research Collaboration\n\n\n\n\n\nProposals center around 1-3 synthesis hypotheses that use LTER data\n\n\n\n\nGroups are immensely productive (often ~X publications / group)"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#grad-course-working-groups",
-    "href": "slides/nceas_roundtable-4-24.html#grad-course-working-groups",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#grad-course-working-groups",
+    "href": "slides/lter-ssecr_roundtable-2024.html#grad-course-working-groups",
     "title": "LTER Synthesis Course",
     "section": "Grad Course & Working Groups",
     "text": "Grad Course & Working Groups\n \n\nEarly career researcher (ECR) demand for synthesis training far outstrips working group capacity\n\n\n\n\nThis course will help train ECRs in the quantitative and inclusive facilitation skills that are the hallmark of synthesis research\n\n\n\n\nCourse offerings are timed to leave students well prepared to apply for SPARC group funding"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#diversity-equity-and-inclusion",
-    "href": "slides/nceas_roundtable-4-24.html#diversity-equity-and-inclusion",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#diversity-equity-and-inclusion",
+    "href": "slides/lter-ssecr_roundtable-2024.html#diversity-equity-and-inclusion",
     "title": "LTER Synthesis Course",
     "section": "Diversity, Equity, and Inclusion",
     "text": "Diversity, Equity, and Inclusion\n \n\nThe network has two primary justice goals heading into our next funding cycle:\n\n\n\nGreater cultural, socioeconomic, and gender diversity throughout the LTER network\n\n\n\n\nMore rapid and innovative synthesis\n\n\n\n\n\n\nThis course is built–in part–to support these goals"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#dei-plan",
-    "href": "slides/nceas_roundtable-4-24.html#dei-plan",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#dei-plan",
+    "href": "slides/lter-ssecr_roundtable-2024.html#dei-plan",
     "title": "LTER Synthesis Course",
     "section": "DEI Plan",
     "text": "DEI Plan"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#course-goals",
-    "href": "slides/nceas_roundtable-4-24.html#course-goals",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#course-goals",
+    "href": "slides/lter-ssecr_roundtable-2024.html#course-goals",
     "title": "LTER Synthesis Course",
     "section": "Course Goals",
     "text": "Course Goals\n \n\nWe have the following strategic goals for the course:\n\n\n\nSurface and test new synthesis ideas for feasibility\nPrepare more graduate students to be effective participants in/leaders of synthesis projects\nConnect LTER graduate students across sites\nDevelop intergenerational linkages around synthesis research"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#course-structure",
-    "href": "slides/nceas_roundtable-4-24.html#course-structure",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#course-structure",
+    "href": "slides/lter-ssecr_roundtable-2024.html#course-structure",
     "title": "LTER Synthesis Course",
     "section": "Course Structure",
     "text": "Course Structure\n \n\nCourse split into two major components\n\nInstructional modules\nStudent-led synthesis projects\n\n\n \n\n\nModule order reflects typical synthesis project evolution\n\n\n\n\nMore on projects shortly!"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#course-logistics",
-    "href": "slides/nceas_roundtable-4-24.html#course-logistics",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#course-logistics",
+    "href": "slides/lter-ssecr_roundtable-2024.html#course-logistics",
     "title": "LTER Synthesis Course",
     "section": "Course Logistics",
     "text": "Course Logistics\n \n\nCourse runs for 9 months (Sept - May)\n\nBiweekly synchronous virtual meetings\n\n\n\n\n\n\nFirst full week in-person at NCEAS\n\nFacilitate cohort sense of community\nStudents form groups of 5-6 with interest in shared project idea\n\n\n\n\n\n\n\n~30 students per cohort\n\n~1 / LTER site"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#classes",
-    "href": "slides/nceas_roundtable-4-24.html#classes",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#classes",
+    "href": "slides/lter-ssecr_roundtable-2024.html#classes",
     "title": "LTER Synthesis Course",
     "section": "Classes",
     "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\nInspiration = experienced synthesis scientist lends insight (60 min)\nInstruction = work on topic of the week (120 min)\n\n\n\n\n\nInstruction by: LNO staff, guest speakers, LTER Network-recruited mentors\n\nLikely including other NCEAS folx!"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#module-categories",
-    "href": "slides/nceas_roundtable-4-24.html#module-categories",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories",
+    "href": "slides/lter-ssecr_roundtable-2024.html#module-categories",
     "title": "LTER Synthesis Course",
     "section": "Module Categories",
     "text": "Module Categories\n \n\n\n15 proposed modules from two categories\n\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills \n\nReproducibility Best Practices\nVersion Control\nData Discovery & Management\nData Visualization and Exploration\nData Wrangling\nAnalysis & Modeling\nSpatial Data & Interactivity\nReproducible Reports"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#team-science-emphasis",
-    "href": "slides/nceas_roundtable-4-24.html#team-science-emphasis",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#team-science-emphasis",
+    "href": "slides/lter-ssecr_roundtable-2024.html#team-science-emphasis",
     "title": "LTER Synthesis Course",
     "section": "Team Science Emphasis",
     "text": "Team Science Emphasis\n \n\nSynthesis work requires meaningful teamwork\n\n\n\n\nModules focus on these “soft skills”\n\nConsistent inclusivity angle to modules in this category\n\n\n\n\n\nMany of these skills are particularly absent from graduate school curricula"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#quantitative-emphasis",
-    "href": "slides/nceas_roundtable-4-24.html#quantitative-emphasis",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
+    "href": "slides/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
     "title": "LTER Synthesis Course",
     "section": "Quantitative Emphasis",
     "text": "Quantitative Emphasis\n \n\nSynthesis work typically has significant data wrangling needs\n\n\n\n\nExtensive harmonizing often pre-requisite to the most fundamental exploration\n\n\n\n\nQuality control requires an in-depth examination of each primary project’s metadata"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#projects-overview",
-    "href": "slides/nceas_roundtable-4-24.html#projects-overview",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#projects-overview",
+    "href": "slides/lter-ssecr_roundtable-2024.html#projects-overview",
     "title": "LTER Synthesis Course",
     "section": "Projects Overview",
     "text": "Projects Overview\n \n\nStudents will work on projects outside of class sessions with their peers\n\n\n\n\nProjects offer a real world context to apply the content covered in modules\n\n\n\n\nDeliverables produced by project teams will be valuable entries in student portfolios\n\nDissertation/thesis chapters\nPublished papers\nData packages & software\nWebsites\nSPARC group / working group / other grant application fodder"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#project-idea-sources",
-    "href": "slides/nceas_roundtable-4-24.html#project-idea-sources",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#project-idea-sources",
+    "href": "slides/lter-ssecr_roundtable-2024.html#project-idea-sources",
     "title": "LTER Synthesis Course",
     "section": "Project Idea Sources",
     "text": "Project Idea Sources\n \n\nStudents’ prior work / course applications\nPast working group / SPARC group members\nProject mentors\n\n\n\n\nIn future iterations of the course:\n\n‘Next Steps’ synthesis ideas developed by previous cohorts!"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#menu-of-ideas",
-    "href": "slides/nceas_roundtable-4-24.html#menu-of-ideas",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#menu-of-ideas",
+    "href": "slides/lter-ssecr_roundtable-2024.html#menu-of-ideas",
     "title": "LTER Synthesis Course",
     "section": "‘Menu of Ideas’",
     "text": "‘Menu of Ideas’\n \n\nProject ideas from all sources will be retained in a ‘menu of ideas’\n\n\n\n\nEach LTER network synthesis activity will have the chance to add to this menu\n\nWorking groups / SPARC groups\nCohorts of SSECR students\nAll Scientists’ Meeting presentations\n\n\n\n\n\nSubsequent cohorts of students can adopt and/or adapt ideas from this menu"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#project-mentors",
-    "href": "slides/nceas_roundtable-4-24.html#project-mentors",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#project-mentors",
+    "href": "slides/lter-ssecr_roundtable-2024.html#project-mentors",
     "title": "LTER Synthesis Course",
     "section": "Project Mentors",
     "text": "Project Mentors\n \n\nEach project group will be paired with a discipline-relevant mentor with synthesis experience\n\n\n\n\nGroups and mentors meet at least 5 times throughout the course\n\n\n\n\nContent and structure of those meetings is up to those involved\n\nSuggesting readings or collaborators\nDiscussing analytical approaches\nSharing prior and current experience"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#ongoing-plans",
-    "href": "slides/nceas_roundtable-4-24.html#ongoing-plans",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ongoing-plans",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ongoing-plans",
     "title": "LTER Synthesis Course",
     "section": "Ongoing Plans",
     "text": "Ongoing Plans\n \n\nContinuing to recruit project mentors\n\n\n\n\nDesigning module learning objectives and aligned activities/readings"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#on-the-horizon",
-    "href": "slides/nceas_roundtable-4-24.html#on-the-horizon",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#on-the-horizon",
+    "href": "slides/lter-ssecr_roundtable-2024.html#on-the-horizon",
     "title": "LTER Synthesis Course",
     "section": "On the Horizon",
     "text": "On the Horizon\n \nSoon - Call for mentors & announcement of course (to students)\n\n\n\nSpring 2024 - Student applications & application review (by LNO Staff)\n\n\n\n\nSummer 2024 - Application decisions\n\n\n\n\nFall 2024 - Start of inaugural SSECR course offering!"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#want-to-be-involved",
-    "href": "slides/nceas_roundtable-4-24.html#want-to-be-involved",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#want-to-be-involved",
+    "href": "slides/lter-ssecr_roundtable-2024.html#want-to-be-involved",
     "title": "LTER Synthesis Course",
     "section": "Want to be Involved?",
     "text": "Want to be Involved?"
   },
   {
-    "objectID": "slides/nceas_roundtable-4-24.html#thanks",
-    "href": "slides/nceas_roundtable-4-24.html#thanks",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#thanks",
+    "href": "slides/lter-ssecr_roundtable-2024.html#thanks",
     "title": "LTER Synthesis Course",
     "section": "Thanks!",
     "text": "Thanks!\n \n\n\n\n\n\n\n\n\n\nQuestions?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Site Home",
+    "section": "",
+    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Site Home",
+    "section": "",
+    "text": "This website (and the repository that supports it) are a convenient mechanism for (A) sharing LTER-associated presentations, (B) standardizing formatting conventions of those talks, and (C) incentivizing me to engage more deeply with Quarto presentations."
+  },
+  {
+    "objectID": "index.html#lter-talks",
+    "href": "index.html#lter-talks",
+    "title": "Site Home",
+    "section": "LTER Talks",
+    "text": "LTER Talks\nDuring my work at the Long Term Ecological Research (LTER) Network Office I had the opportunity to give some presentations on various facets of my work. Those that are not designed collaboratively are hosted here! For more information about the LTER Network, check out the website lternet.edu."
+  },
+  {
+    "objectID": "home_lter.html",
+    "href": "home_lter.html",
+    "title": "Long Term Ecological Research",
+    "section": "",
+    "text": "Presentations given for LTER purposes are included below!\n\n\nAs part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025.\n\n\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen"
+  },
+  {
+    "objectID": "home_lter.html#overview",
+    "href": "home_lter.html#overview",
+    "title": "Long Term Ecological Research",
+    "section": "",
+    "text": "Presentations given for LTER purposes are included below!\n\n\nAs part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025.\n\n\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen"
   }
 ]
