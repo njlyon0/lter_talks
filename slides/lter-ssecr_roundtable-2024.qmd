@@ -141,25 +141,37 @@ format:
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+\
 
+<p align="center">
+<img src="images/diagram-group-process.png" alt="Diagram of the evolution of a working group from data retrieval to analysis to publication and data preservation" width="85%">
+</p>
 
-
-## [WG Example 1]{.light-green}
-
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-
-
-
-
-## [WG Example 2]{.light-green}
+## [Soil Organic Matter (2017)]{.light-green} {.smaller}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 
+https://lternet.edu/working-groups/advancing-soil-organic-matter-research/
 
+
+## [Biodiversity-Productivity (2017)]{.light-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+https://lternet.edu/working-groups/scaling-up-productivity-responses-to-changes-in-biodiversity/
+
+
+
+## [Silica Exports (2020)]{.light-green} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+
+https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis-investigating-the-controls-on-river-si-exports/
 
 
 ## [Working Groups & ECRs]{.light-green} {.smaller}
