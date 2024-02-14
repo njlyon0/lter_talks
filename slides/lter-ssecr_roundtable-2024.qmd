@@ -581,6 +581,33 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
     - Websites
     - SPARC group / working group / other grant application fodder
 
+## [Project Mentors]{.dark-blue} {.smaller}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Each project group will be paired with a discipline-relevant mentor with synthesis experience
+
+\
+
+- Groups and mentors meet at least 5 times throughout the course
+
+\
+
+- Content and structure of those meetings is up to those involved
+    - Suggesting readings or collaborators
+    - Discussing analytical approaches
+    - Sharing prior and current experience
+
+## [Project Group Creation]{.dark-blue}
+
+![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+
+
+
+
 ## [Project Idea Sources]{.dark-blue}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
@@ -616,34 +643,18 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 - Subsequent cohorts of students can adopt and/or adapt ideas from this menu
 
-## [Project Mentors]{.dark-blue} {.smaller}
-
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-- Each project group will be paired with a discipline-relevant mentor with synthesis experience
-
-\
-
-- Groups and mentors meet at least 5 times throughout the course
-
-\
-
-- Content and structure of those meetings is up to those involved
-    - Suggesting readings or collaborators
-    - Discussing analytical approaches
-    - Sharing prior and current experience
 
 ## [Ongoing Plans]{.light-blue}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Continuing to recruit project mentors
+- Continuing to recruit project mentors / course instructors
 
 \
 
-- Designing module learning objectives and aligned activities/readings
+- Refining module learning objectives and content
+    - Plus aligned activities/readings
 
 \
 
@@ -683,9 +694,21 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 
 . . .
 
+- In our module list, (A) would you **drop** or (B) **add** any topics?
+    - If you would add some, what would you drop to make space for it?
 
-Draft questions to be added after finalizing them {{< fa smile >}}
+\
 
+. . .
+
+- Would you recommend any particular resources?
+    - Could include papers, websites, workshops, etc.
+
+\
+
+. . .
+
+- What successful strategies have you seen for group formation?
 
 ## [Want to be Involved?]{.light-blue} {.smaller}
 
@@ -714,19 +737,30 @@ Draft questions to be added after finalizing them {{< fa smile >}}
 
 
 
-## [Thanks!]{.cream} {background-image="images/pic-flea-beetle.jpg"}
+## [Thanks! Questions?]{.cream} {.smaller background-image="images/pic-flea-beetle.jpg"}
 
 ![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-\
-\
-\
-\
-\
+::::{.columns}
+
+:::{.column width="40%"}
+
 \
 \
 \
 
-### [Questions?]{.cream}
+[{{< fa people-group >}} Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings]{.cream}
+:::
+:::{.column width="15%"}
 
+:::
+:::{.column width="45%"}
+
+\
+\
+\
+
+[{{< fa screwdriver-wrench >}} Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports]{.cream}
+:::
+::::
