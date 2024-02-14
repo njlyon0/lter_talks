@@ -15,8 +15,8 @@ format:
 
 ## Presentation Outline
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 ### [LTER Network Background]{.brown}
 
@@ -30,10 +30,10 @@ format:
 
 ## [LTER Sites]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-![](images/map-lter-sites.png){.absolute top=100 left=600 width="38%"}
+![](lter_images/map-lter-sites.png){.absolute top=100 left=600 width="38%"}
 
 - Established in 1980
 
@@ -47,17 +47,17 @@ format:
 
 ## [LTER Site Longevity]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 <p align="center">
-<img src="images/graph-timeline.jpg" alt="Timeline of LTER sites showing that many sites have existed for several decades" width="80%">
+<img src="lter_images/graph-timeline.jpg" alt="Timeline of LTER sites showing that many sites have existed for several decades" width="80%">
 </p>
 
 ## [LTER Core Research Areas]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - <span style="color:#C0D13A">**Primary Production** {{< fa seedling >}}</span> 
 
@@ -75,19 +75,19 @@ format:
 
 ## [Network Office Structure]{.brown}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 \
 
 <p align="center">
-<img src="images/diagram-lno.png" alt="Organization chart of the LTER network office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="85%">
+<img src="lter_images/diagram-lno.png" alt="Organization chart of the LTER network office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="85%">
 </p>
 
 ## [Synthesis Research]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - How do we define "synthesis"?
 
@@ -110,8 +110,8 @@ format:
 
 ## [LTER Working Groups]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Since 2016 we've funded 14 [synthesis working groups]{.light-blue}
     - Meet 3-4 times over two years
@@ -138,46 +138,162 @@ format:
 
 ## [Working Group Process]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 \
 
 <p align="center">
-<img src="images/diagram-group-process.png" alt="Diagram of the evolution of a working group from data retrieval to analysis to publication and data preservation" width="85%">
+<img src="lter_images/diagram-group-process.png" alt="Diagram of the evolution of a working group from data retrieval to analysis to publication and data preservation" width="85%">
 </p>
 
 ## [Soil Organic Matter (2017)]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+::::{.columns}
+:::{.column width="50%"}
 
-https://lternet.edu/working-groups/advancing-soil-organic-matter-research/
+:::
+:::{.column width="50%"}
 
+:::
+::::
+
+:::{.aside}
+Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth Systems Science Data Discussions
+:::
+
+## [Soil Organic Matter (2017)]{.light-green} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="papers/billings_2021_eco-app.png">
+
+- 'What Non-Soil Ecologists Should Know about Collecting Soil Samples'
+
+\
+
+- Explicitly intended to benefit those outside of their discipline
+
+:::
+:::{.column width="50%"}
+
+:::
+::::
+
+:::{.aside}
+Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth Systems Science Data Discussions
+:::
+
+## [Soil Organic Matter (2017)]{.light-green} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+::::{.columns}
+:::{.column width="50%"}
+<img src="papers/billings_2021_eco-app.png">
+
+- 'What Non-Soil Ecologists Should Know about Collecting Soil Samples'
+
+\
+
+- Explicitly intended to benefit those outside of their discipline
+
+:::
+:::{.column width="50%"}
+<img src="papers/wieder_2021_earth-sys-sci-data.png">
+
+- Data (and metadata) format workflow for soil data
+
+\
+
+- Has inspired several other efforts at data format standardization
+    - E.g., ecocomDP ([ediorg.github.io/ecocomDP](https://ediorg.github.io/ecocomDP/)), etc.
+
+:::
+::::
+
+:::{.aside}
+Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth Systems Science Data Discussions
+:::
 
 ## [Biodiversity-Productivity (2017)]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-https://lternet.edu/working-groups/scaling-up-productivity-responses-to-changes-in-biodiversity/
+:::{.r-stack}
 
+![](lter_papers/oconnoor_2021_proc-royal-soc-b.png){.fragment .absolute top=110 left=0 width="30%"}
+![](lter_papers/mori_2021_nature-clim-change.png){.fragment .absolute top=110 left=350 width="30%"}
+![](lter_papers/weng_2021_ecology.png){.fragment .absolute top=110 left=700 width="30%"}
 
+![](lter_papers/gonzalez_2020_eco-letters.png){.fragment .absolute top=245 left=0 width="30%"}
+![](lter_papers/jochum_2020_nature-eco-evo.png){.fragment .absolute top=215 left=350 width="30%"}
+![](lter_papers/hautier_2020_nature-comm.png){.fragment .absolute top=210 left=700 width="30%"}
+
+![](lter_papers/dee_2019_tree.png){.fragment .absolute top=310 left=0 width="30%"}
+![](lter_papers/isbell_2018_eco-letters.png){.fragment .absolute top=340 left=350 width="30%"}
+![](lter_papers/mori_2018_tree.png){.fragment .absolute top=335 left=700 width="30%"}
+
+![](lter_papers/thompson_2018_proc-royal-soc-b.png){.fragment .absolute top=390 left=0 width="30%"}
+![](lter_papers/isbell_2019_nsf-career.png){.fragment .absolute top=420 left=350 width="63.5%"}
+
+:::
+
+:::{.aside}
+O'Connor _et al._ 2021, Proceedings of the Royal Society B (ProcB)**;** Mori _et al._ 2021, Nature Climate Change**;** Weng _et al._ 2021, Ecology**;** Gonzalez _et al._ 2020, Ecology Letters**;** Jochum _et al._ 2020, Nature Ecology & Evolution**;** Hautier _et al._ 2020, Nature Communications **;** Dee _et al._ 2019, Trends in Ecology & Evolution (TrEE)**;** Isbell _et al._ 2018, Ecology Letters**;** Mori _et al._ 2018, TrEE**;** Thompson _et al._ 2018, ProcB
+:::
 
 ## [Silica Exports (2020)]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
+:::{.r-stack}
 
-https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis-investigating-the-controls-on-river-si-exports/
+![](lter_papers/johnson_2024_limno-ocean-letters.png){.fragment .absolute top=110 left=0 width="50%"}
+![](lter_papers/jankowski_2023_glob-biogeo-cycles.png){.fragment .absolute top=115 left=550 width="50%"}
 
+![](lter_images/logo-babson.png){.fragment .absolute top=325 left=0 width="15%"}
+![](lter_images/logo-usgs.png){.fragment .absolute top=350 left=200 width="20%"}
+![](lter_images/logo-osu.png){.fragment .absolute top=350 left=475 width="10%"}
+![](lter_images/logo-indiana-u.png){.fragment .absolute top=350 left=650 width="8%"}
+![](lter_images/logo-finn-enviro-inst.png){.fragment .absolute top=350 left=800 width="30%"}
+
+:::
+
+. . . 
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+- And researchers at <u>**10**</u> (of 28) LTER sites!
+
+:::{.aside}
+Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 2023, Global Biogeochemical Cycles
+:::
 
 ## [Working Groups & ECRs]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - <u>Most</u> groups include early career researchers (ECRs)
     - Typically graduate students and post-docs
@@ -199,8 +315,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [ECRs & Synthesis Training]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - ECR demand for synthesis training **_far_** outstrips working group capacity
 
@@ -225,8 +341,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Diversity, Equity, and Inclusion]{.light-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - The network has two primary justice goals heading into our next funding cycle:
 
@@ -248,22 +364,22 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [DEI Plan]{.light-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 :::{.r-stack}
 
-![](images/diagram-justice-full.png){.fragment .fade-out}
+![](lter_images/diagram-justice-full.png){.fragment .fade-out}
 
 
-![](images/diagram-justice-ssecr.png){.fragment}
+![](lter_images/diagram-justice-ssecr.png){.fragment}
 
 :::
 
 ## [SSECR Goals]{.dark-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - We have the following strategic goals for the course:
 
@@ -278,8 +394,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Target Audience]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - We're looking to recruit graduate students actively working at/with LTER sites
 
@@ -305,8 +421,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [SSECR Structure]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Course split into two major components:
 
@@ -338,8 +454,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Course Logistics]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Course runs for 9 months (Sept - May)
 
@@ -360,8 +476,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Classes]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Class meetings consist of **_inspiration_** and **_instruction_**
 
@@ -390,8 +506,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Classes]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Class meetings consist of **_inspiration_** and **_instruction_**
 
@@ -430,8 +546,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Module Categories]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 15 proposed modules from two categories
 
@@ -454,8 +570,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Module Categories]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 15 proposed modules from two categories
 
@@ -484,8 +600,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Module Categories]{.dark-green} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 15 proposed modules from two categories
 
@@ -523,8 +639,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Team Science Emphasis]{.dark-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 
 - Synthesis work _requires_ meaningful teamwork
@@ -544,8 +660,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Quantitative Emphasis]{.dark-green}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Synthesis work usually has **significant** quantitative needs
 
@@ -563,8 +679,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Projects Overview]{.dark-blue} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Students will work on projects outside of class sessions with their peers
 
@@ -583,8 +699,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Project Mentors]{.dark-blue} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Each project group will be paired with a discipline-relevant mentor with synthesis experience
 
@@ -601,8 +717,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Project Group Creation]{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 
 
@@ -610,8 +726,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Project Idea Sources]{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Students' prior work / course applications
 - Past working group / SPARC group members
@@ -627,8 +743,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## ['Menu of Ideas']{.dark-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Project ideas from all sources will be retained in a 'menu of ideas'
 
@@ -646,8 +762,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [Ongoing Plans]{.light-blue}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Continuing to recruit project mentors / course instructors
 
@@ -660,8 +776,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [On the Horizon]{.light-blue} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 **Soon** - Call for mentors & announcement of course (to students)
 
@@ -685,8 +801,8 @@ https://lternet.edu/working-groups/from-poles-to-tropics-a-multi-biome-synthesis
 
 ## [We'd Love Your Insight!]{.light-blue} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 
@@ -712,8 +828,8 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 
 ## [Want to be Involved?]{.light-blue} {.smaller}
 
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 . . . 
 
@@ -735,12 +851,10 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
     - If you have significant subject matter expertise
     - There is a small pool of funding for compensating module designers
 
+## [Thanks! Questions?]{.cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
 
-
-## [Thanks! Questions?]{.cream} {.smaller background-image="images/pic-flea-beetle.jpg"}
-
-![NCEAS logo](images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 ::::{.columns}
 
