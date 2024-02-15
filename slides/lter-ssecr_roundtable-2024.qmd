@@ -172,7 +172,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 
 ::::{.columns}
 :::{.column width="50%"}
-<img src="papers/billings_2021_eco-app.png">
+<img src="lter_papers/billings_2021_eco-app.png">
 
 - 'What Non-Soil Ecologists Should Know about Collecting Soil Samples'
 
@@ -197,7 +197,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 
 ::::{.columns}
 :::{.column width="50%"}
-<img src="papers/billings_2021_eco-app.png">
+<img src="lter_papers/billings_2021_eco-app.png">
 
 - 'What Non-Soil Ecologists Should Know about Collecting Soil Samples'
 
@@ -207,7 +207,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 
 :::
 :::{.column width="50%"}
-<img src="papers/wieder_2021_earth-sys-sci-data.png">
+<img src="lter_papers/wieder_2021_earth-sys-sci-data.png">
 
 - Data (and metadata) format workflow for soil data
 
@@ -650,7 +650,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 . . .
 
 - Modules focus on these "soft skills"
-    - Consistent inclusivity angle to modules in this category
+    - Consistent inclusivity lens to modules in this category
 
 \
 
@@ -669,7 +669,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 . . .
 
-- Extensive harmonizing often pre-requisite to the most fundamental exploration
+- Extensive harmonizing often pre-requisite to even cursory exploration
 
 \
 
@@ -683,7 +683,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Students will work on projects outside of class sessions with their peers
-
+ 
 \
 
 - Projects offer a real world context to apply the content covered in modules
