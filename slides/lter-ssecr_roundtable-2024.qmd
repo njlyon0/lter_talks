@@ -4,7 +4,7 @@ author: "NCEAS Roundtable | Nick J Lyon"
 engine: knitr
 format: 
   revealjs: 
-    slide-number: c/t
+    slide-number: c
     scrollable: false
     code-overflow: wrap
     code-line-numbers: false
