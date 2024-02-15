@@ -682,66 +682,110 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Students will work on projects outside of class sessions with their peers
- 
-\
-
-- Projects offer a real world context to apply the content covered in modules
+- Projects designed, led, and run by students are a _significant_ facet of SSECR
 
 \
 
-- Deliverables produced by project teams will be valuable entries in student portfolios
-    - Dissertation/thesis chapters
-    - Published papers
-    - Data packages & software
-    - Websites
-    - SPARC group / working group / other grant application fodder
+. . .
+
+- Gives applied context for skills learned during module instruction
+
+\
+
+. . .
+
+- Project deliverables are incentives for student engagement
+    - As well as their advisors/committees
+
+\
+
+. . .
+
+- Each project team will be paired with a "synthesis mentor" to guide groups
 
 ## [Project Mentors]{.dark-blue} {.smaller}
 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Each project group will be paired with a discipline-relevant mentor with synthesis experience
-
-\
-
-- Groups and mentors meet at least 5 times throughout the course
-
-\
-
-- Content and structure of those meetings is up to those involved
-    - Suggesting readings or collaborators
-    - Discussing analytical approaches
-    - Sharing prior and current experience
-
-## [Project Group Creation]{.dark-blue}
-
-![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-
-
-
-
-## [Project Idea Sources]{.dark-blue}
-
-![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-- Students' prior work / course applications
-- Past working group / SPARC group members
-- Project mentors
+- Mentors are volunteers recruited due to synthesis experience
+    - Primarily working group leaders and participants
 
 \
 
 . . .
 
-### _In future iterations of the course:_
+- Mentors will be assigned to teams based on discipline/ecosystem overlap
 
-- 'Next Steps' synthesis ideas developed by previous cohorts!
 
-## ['Menu of Ideas']{.dark-blue}
+\
+
+. . .
+
+- Teams and mentors meet _at least_ 5 times throughout the course
+
+## [Mentor Meetings]{.dark-blue} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Content and structure of team-mentor meetings is up to those involved
+
+\
+
+. . .
+
+- Topics may include:
+    - Suggesting readings or collaborators
+    - Discussing analytical approaches
+    - Sharing experience / advice
+
+\
+
+. . .
+
+- Mentors also help teams on an interpersonal level as needed
+
+## [Project Work]{.dark-blue} {.smaller}
+
+- Students will be encouraged to work on projects during "off weeks" of instruction
+    - Biweekly class structure meant to facilitate this
+
+\
+
+. . .
+
+- Project mentor likely present at some (not all!) of these meetings
+
+\
+
+. . .
+
+- Module order based on when project teams are likely to need those skills
+    - Some flexibility to share content earlier as needed
+
+## [Project Team Creation]{.dark-blue} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Students propose a synthesis project in their application
+    - Also gathering ideas from working group / SPARC group participants
+    - Project mentors may also suggest topics
+
+\
+
+. . .
+
+- Time set aside for teams/ideas to coalesce during in-person week
+
+\
+
+. . .
+
+- Planning for \~6 groups of 5-6 students each
+
+## ['Menu of Ideas']{.dark-blue} {.smaller}
 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -750,29 +794,31 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 \
 
-- Each LTER network synthesis activity will have the chance to add to this menu
+. . .
+
+- Each LTER Network synthesis activity will have the chance to add to this menu
     - Working groups / SPARC groups
-    - Cohorts of SSECR students
-    - All Scientists' Meeting presentations
+    - 'Next Steps' ideas produced by SSECR project teams
+    - All Scientists' Meeting (ASM) presentations
 
 \
 
-- Subsequent cohorts of students can adopt and/or adapt ideas from this menu
+. . .
 
+- Subsequent cohorts of students can adopt and/or adapt ideas from this menu
+    - In addition to bringing their own ideas
 
 ## [Ongoing Plans]{.light-blue}
 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Continuing to recruit project mentors / course instructors
+- Recruiting project mentors / course instructors
 
 \
 
 - Refining module learning objectives and content
     - Plus aligned activities/readings
-
-\
 
 ## [On the Horizon]{.light-blue} {.smaller}
 
@@ -810,8 +856,8 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 
 . . .
 
-- In our module list, (A) would you **drop** or (B) **add** any topics?
-    - If you would add some, what would you drop to make space for it?
+- In our module list, would you (A) **drop** or (B) **add** any topics?
+    - If you would add a module, which module(s) would you drop to make space for it?
 
 \
 
