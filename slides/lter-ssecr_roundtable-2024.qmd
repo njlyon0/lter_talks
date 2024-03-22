@@ -81,7 +81,7 @@ format:
 \
 
 <p align="center">
-<img src="lter_images/diagram-lno.png" alt="Organization chart of the LTER network office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="85%">
+<img src="lter_images/diagram-lno.png" alt="Organization chart of the LTER Network Office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="85%">
 </p>
 
 ## [Synthesis Research]{.light-green} {.smaller}
@@ -93,7 +93,7 @@ format:
 
 . . .
 
-> **Synthesis** brings together the results of [**multiple studies**]{.dark-green} to test [**novel hypotheses**]{.dark-blue}
+> <u>**Synthesis**</u> brings together the results of [**multiple studies**]{.dark-green} to test [**novel hypotheses**]{.dark-blue}
 
 \
 
@@ -213,7 +213,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 
 \
 
-- Has inspired several other efforts at data format standardization
+- Related philosophy to several other efforts at data format standardization
     - E.g., ecocomDP ([ediorg.github.io/ecocomDP](https://ediorg.github.io/ecocomDP/)), etc.
 
 :::
@@ -344,7 +344,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- The network has two primary justice goals heading into our next funding cycle:
+- The LTER Network Office has two primary justice goals heading into our next funding cycle:
 
 . . .
 
@@ -361,8 +361,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - SSECR is built--in part--to support these goals
 
-
-## [DEI Plan]{.light-green}
+## [LTER Program Framework]{.light-green}
 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -544,99 +543,6 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 :::
 ::::
 
-## [Module Categories]{.dark-green} {.smaller}
-
-![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-15 proposed modules from two categories
-
-\
-
-. . .
-
-::::{.columns}
-:::{.column width="50%"}
-
-### Team Science {{< fa people-group >}}
-
-:::
-:::{.column width="50%"}
-
-### Quantitative Skills {{< fa screwdriver-wrench >}}
-
-:::
-::::
-
-## [Module Categories]{.dark-green} {.smaller}
-
-![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-15 proposed modules from two categories
-
-\
-
-::::{.columns}
-:::{.column width="50%"}
-
-### Team Science {{< fa people-group >}}
-
-- Team Science Practices
-- Inclusive Facilitation
-- Supporting Divergent, Emergent, and Convergent Thinking
-- Authorship & Intellectual Credit
-- Project Management
-- Logic Models
-- Communicating Findings
-
-:::
-:::{.column width="50%"}
-
-### Quantitative Skills {{< fa screwdriver-wrench >}}
-
-:::
-::::
-
-## [Module Categories]{.dark-green} {.smaller}
-
-![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
-![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
-
-15 proposed modules from two categories
-
-\
-
-::::{.columns}
-:::{.column width="50%"}
-
-### Team Science {{< fa people-group >}}
-
-- Team Science Practices
-- Inclusive Facilitation
-- Supporting Divergent, Emergent, and Convergent Thinking
-- Authorship & Intellectual Credit
-- Project Management
-- Logic Models
-- Communicating Findings
-
-:::
-:::{.column width="50%"}
-
-### Quantitative Skills {{< fa screwdriver-wrench >}}
-
-- Reproducibility Best Practices
-- Version Control
-- Data Discovery & Management
-- Data Visualization and Exploration
-- Data Wrangling
-- Analysis & Modeling
-- Spatial Data & Interactivity
-- Reproducible Reports
-
-:::
-::::
-
 ## [Team Science Emphasis]{.dark-green}
 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
@@ -676,6 +582,120 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 . . .
 
 - Quality control requires an in-depth examination of _each_ primary project's metadata
+
+## [Module Categories]{.dark-green} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+15 proposed modules from the two categories
+
+\
+
+. . .
+
+::::{.columns}
+:::{.column width="50%"}
+
+### Team Science {{< fa people-group >}}
+
+:::
+:::{.column width="50%"}
+
+### Quantitative Skills {{< fa screwdriver-wrench >}}
+
+:::
+::::
+
+## [Module Categories]{.dark-green} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+15 proposed modules from the two categories
+
+\
+
+::::{.columns}
+:::{.column width="50%"}
+
+### Team Science {{< fa people-group >}}
+
+- Team Science Practices
+- Inclusive Facilitation
+- Supporting Divergent, Emergent, and Convergent Thinking
+- Authorship & Intellectual Credit
+- Project Management
+- Logic Models
+- Communicating Findings
+
+:::
+:::{.column width="50%"}
+
+### Quantitative Skills {{< fa screwdriver-wrench >}}
+
+:::
+::::
+
+## [Module Categories]{.dark-green} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+15 proposed modules from the two categories
+
+\
+
+::::{.columns}
+:::{.column width="50%"}
+
+### Team Science {{< fa people-group >}}
+
+- Team Science Practices
+- Inclusive Facilitation
+- Supporting Divergent, Emergent, and Convergent Thinking
+- Authorship & Intellectual Credit
+- Project Management
+- Logic Models
+- Communicating Findings
+
+:::
+:::{.column width="50%"}
+
+### Quantitative Skills {{< fa screwdriver-wrench >}}
+
+- Reproducibility Best Practices
+- Version Control
+- Data Discovery & Management
+- Data Visualization and Exploration
+- Data Wrangling
+- Analysis & Modeling
+- Spatial Data & Interactivity
+- Reproducible Reports
+
+:::
+::::
+
+## [Content Availability]{.dark-green} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- We hope this course content is valuable to as many people as possible
+
+\
+
+. . .
+
+- To ensure this, we're making the full course materials publicly-available!
+    - [lter.github.io/ssecr](https://lter.github.io/ssecr/)
+
+\
+
+. . .
+
+- Student [project]{.dark-blue} content may be made available
+    - Decision made by each team
 
 ## [Projects Overview]{.dark-blue} {.smaller}
 
@@ -747,6 +767,9 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 - Mentors also help teams on an interpersonal level as needed
 
 ## [Project Work]{.dark-blue} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - Students will be encouraged to work on projects during "off weeks" of instruction
     - Biweekly class structure meant to facilitate this
@@ -896,6 +919,23 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 3. Talk with us about designing module content
     - If you have significant subject matter expertise
     - There is a small pool of funding for compensating module designers
+
+## [Want More Information?]{.light-blue} {.smaller}
+
+![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
+![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
+
+- Check out the LTER Network website page for SSECR!
+    - [lternet.edu/ssecr](https://lternet.edu/ssecr/)
+    - Web applications (for students and project mentors) are open
+
+\
+
+. . .
+
+- Check out the SSECR course materials!
+    - [lter.github.io/ssecr](https://lter.github.io/ssecr/)
+    - Most modules are still under construction though
 
 ## [Thanks! Questions?]{.cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
 
