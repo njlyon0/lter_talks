@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/slides/lter-ssecr_roundtable-2024.html</loc>
-    <lastmod>2024-02-15T16:43:55.859Z</lastmod>
+    <loc>https://njlyon0.github.io/lyon_talks/index.html</loc>
+    <lastmod>2024-03-22T18:50:26.008Z</lastmod>
   </url>
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/index.html</loc>
-    <lastmod>2024-02-15T16:43:55.855Z</lastmod>
+    <loc>https://njlyon0.github.io/lyon_talks/slides/lter-ssecr_community-call-2024.html</loc>
+    <lastmod>2024-03-22T18:50:26.012Z</lastmod>
   </url>
   <url>
     <loc>https://njlyon0.github.io/lyon_talks/home_lter.html</loc>
-    <lastmod>2024-02-15T16:43:55.855Z</lastmod>
+    <lastmod>2024-03-22T18:50:26.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://njlyon0.github.io/lyon_talks/slides/lter-ssecr_roundtable-2024.html</loc>
+    <lastmod>2024-03-22T18:50:26.012Z</lastmod>
   </url>
 </urlset>

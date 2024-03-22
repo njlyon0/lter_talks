@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -121,9 +121,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#synthesis-skills-for-early-career-researchers" id="toc-synthesis-skills-for-early-career-researchers" class="nav-link" data-scroll-target="#synthesis-skills-for-early-career-researchers">Synthesis Skills for Early Career Researchers</a>
   <ul class="collapse">
-  <li><a href="#synthesis-skills-for-early-career-researchers-ssecr" id="toc-synthesis-skills-for-early-career-researchers-ssecr" class="nav-link" data-scroll-target="#synthesis-skills-for-early-career-researchers-ssecr">Synthesis Skills for Early Career Researchers (SSECR)</a></li>
+  <li><a href="#nceas-roundtable-2024" id="toc-nceas-roundtable-2024" class="nav-link" data-scroll-target="#nceas-roundtable-2024">NCEAS Roundtable (2024)</a></li>
+  <li><a href="#lter-community-call-2024" id="toc-lter-community-call-2024" class="nav-link" data-scroll-target="#lter-community-call-2024">LTER Community Call (2024)</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/njlyon0/lter_talks/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
@@ -153,17 +155,23 @@ ul.task-list li input[type="checkbox"] {
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>Presentations given for LTER purposes are included below!</p>
-<section id="synthesis-skills-for-early-career-researchers-ssecr" class="level3">
-<h3 class="anchored" data-anchor-id="synthesis-skills-for-early-career-researchers-ssecr">Synthesis Skills for Early Career Researchers (SSECR)</h3>
+</section>
+<section id="synthesis-skills-for-early-career-researchers" class="level2">
+<h2 class="anchored" data-anchor-id="synthesis-skills-for-early-career-researchers">Synthesis Skills for Early Career Researchers</h2>
 <p>As part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis <em>requires</em> a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at <a href="https://lter.github.io/ssecr/">lter.github.io/ssecr</a> though they will likely be under construction/revision until late 2024/early 2025.</p>
-<section id="nceas-roundtable-2024" class="level4">
-<h4 class="anchored" data-anchor-id="nceas-roundtable-2024">NCEAS Roundtable (2024)</h4>
+<section id="nceas-roundtable-2024" class="level3">
+<h3 class="anchored" data-anchor-id="nceas-roundtable-2024">NCEAS Roundtable (2024)</h3>
 <p>Invited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.</p>
 <iframe class="slide-deck" src="slides/lter-ssecr_roundtable-2024.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
 <p><a href="./slides/lter-ssecr_roundtable-2024.html">Roundtable Slides – Full Screen</a></p>
-
-
 </section>
+<section id="lter-community-call-2024" class="level3">
+<h3 class="anchored" data-anchor-id="lter-community-call-2024">LTER Community Call (2024)</h3>
+<p><a href="https://orcid.org/0000-0003-2833-956X">Marty Downs</a> and I co-presented at the March LTER Community Call.</p>
+<iframe class="slide-deck" src="slides/lter-ssecr_community-call-2024.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+<p><a href="./slides/lter-ssecr_community-call-2024.html">Community Call Slides – Full Screen</a></p>
+
+
 </section>
 </section>
 
@@ -402,6 +410,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -443,7 +456,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
