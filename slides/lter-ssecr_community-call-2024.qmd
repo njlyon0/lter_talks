@@ -1,6 +1,6 @@
 ---
 title: "LTER Synthesis Course"
-author: "NCEAS Roundtable | Nick J Lyon"
+author: "LTER Community Call | Marty Downs & Nick J Lyon"
 engine: knitr
 format: 
   revealjs: 
