@@ -860,7 +860,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 . . .
 
-**Summer 2024** - Application decisions & <u>SSECR Hackathon</u>
+**Summer 2024** - Application decisions & content finalization
 
 \
 
@@ -873,7 +873,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 ![NCEAS logo](lter_images/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](lter_images/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
+Posting questions to the [LTER Discourse](https://lternet.discourse.group/categories) _today_ but here's a taste:
 
 \
 
@@ -903,7 +903,7 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 . . . 
 
 1. Lend us your experience and curiosity!
-    - Take a couple minutes and weigh in on our Slack questions
+    - Take a couple minutes and weigh in on our Discourse questions
 
 \
 
@@ -911,14 +911,7 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
 
 2. Volunteer to be an inspiration session speaker
     - If you have prior experience with synthesis
-
-\
-
-. . . 
-
-3. Talk with us about designing module content
-    - If you have significant subject matter expertise
-    - There is a small pool of funding for compensating module designers
+    - Email Marty Downs & Nick Lyon if this is of interest
 
 ## [Want More Information?]{.light-blue} {.smaller}
 
