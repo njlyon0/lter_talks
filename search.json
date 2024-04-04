@@ -21,6 +21,13 @@
     "text": "LTER Talks\nDuring my work at the Long Term Ecological Research (LTER) Network Office I had the opportunity to give some presentations on various facets of my work. Those that are not designed collaboratively are hosted here! For more information about the LTER Network, check out the website lternet.edu."
   },
   {
+    "objectID": "slides/tutorial_multivar-stats.html#under-construction",
+    "href": "slides/tutorial_multivar-stats.html#under-construction",
+    "title": "Multivariate Statistics 101",
+    "section": "Under Construction",
+    "text": "Under Construction\nSee here"
+  },
+  {
     "objectID": "slides/lter-ssecr_community-call-2024.html#presentation-outline",
     "href": "slides/lter-ssecr_community-call-2024.html#presentation-outline",
     "title": "LTER Synthesis Course",
@@ -327,6 +334,41 @@
     "title": "Long Term Ecological Research",
     "section": "Synthesis Skills for Early Career Researchers",
     "text": "Synthesis Skills for Early Career Researchers\nAs part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025.\n\nNCEAS Roundtable (2024)\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen\n\n\nLTER Community Call (2024)\nMarty Downs and I co-presented at the March LTER Community Call.\n\nCommunity Call Slides – Full Screen"
+  },
+  {
+    "objectID": "home_tutorials.html",
+    "href": "home_tutorials.html",
+    "title": "Code Tutorials",
+    "section": "",
+    "text": "Presentations and live coding demos for particular coding tasks are included in this section."
+  },
+  {
+    "objectID": "home_tutorials.html#overview",
+    "href": "home_tutorials.html#overview",
+    "title": "Code Tutorials",
+    "section": "",
+    "text": "Presentations and live coding demos for particular coding tasks are included in this section."
+  },
+  {
+    "objectID": "home_tutorials.html#intro-to-multivariate-statistics",
+    "href": "home_tutorials.html#intro-to-multivariate-statistics",
+    "title": "Code Tutorials",
+    "section": "Intro to Multivariate Statistics",
+    "text": "Intro to Multivariate Statistics\nGuest lecture to EEB698 (Data Management and Analysis in R for Ecologists and Evolutionary Biologists) on some multivariate statistical methods.\nSee: https://github.com/njlyon0/lyon-tutorial_multivariate-intro\n\nMultivariate Slides – Full Screen"
+  },
+  {
+    "objectID": "home_tutorials.html#intro-to-random-forest",
+    "href": "home_tutorials.html#intro-to-random-forest",
+    "title": "Code Tutorials",
+    "section": "Intro to Random Forest",
+    "text": "Intro to Random Forest\nAdmittedly brief tutorial for the basics of running a random forest model in R.\nSee: https://github.com/njlyon0/lyon-tutorial_random-forest\n\nRandom Forest Slides – Full Screen"
+  },
+  {
+    "objectID": "slides/tutorial_random-forest.html#under-construction",
+    "href": "slides/tutorial_random-forest.html#under-construction",
+    "title": "Random Forest in R",
+    "section": "Under Construction",
+    "text": "Under Construction\nSee here"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#presentation-outline",
