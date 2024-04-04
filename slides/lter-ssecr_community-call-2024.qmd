@@ -930,7 +930,7 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
     - [lter.github.io/ssecr](https://lter.github.io/ssecr/)
     - Most modules are still under construction though
 
-## [Thanks! Questions?]{.lter-cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
+## [Thanks! Questions?]{.cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -943,7 +943,7 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
 \
 \
 
-[{{< fa people-group >}} Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings]{.lter-cream}
+[{{< fa people-group >}} Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings]{.cream}
 :::
 :::{.column width="15%"}
 
@@ -954,6 +954,6 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
 \
 \
 
-[{{< fa screwdriver-wrench >}} Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports]{.lter-cream}
+[{{< fa screwdriver-wrench >}} Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports]{.cream}
 :::
 ::::
