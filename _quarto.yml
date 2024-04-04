@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Lyon Presentations"
-  repo-url: https://github.com/njlyon0/lter_talks
+  repo-url: https://github.com/njlyon0/lyon_talks
   repo-actions: [issue]
   navbar:
     left:
@@ -17,7 +17,7 @@ website:
       - text: "Profile"
         href: https://njlyon0.github.io/
       - icon: github
-        href: https://github.com/njlyon0/lter_talks
+        href: https://github.com/njlyon0/lyon_talks
         aria-label: GitHub
   page-footer:
     center: "Copyright 2024, Nicholas J Lyon"
