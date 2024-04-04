@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/index.html</loc>
-    <lastmod>2024-04-04T20:30:19.186Z</lastmod>
-  </url>
-  <url>
     <loc>https://njlyon0.github.io/lyon_talks/home_lter.html</loc>
-    <lastmod>2024-04-04T20:30:19.186Z</lastmod>
+    <lastmod>2024-04-04T21:55:38.523Z</lastmod>
   </url>
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/slides_lter/lter-ssecr_community-call-2024.html</loc>
-    <lastmod>2024-04-04T20:30:19.186Z</lastmod>
+    <loc>https://njlyon0.github.io/lyon_talks/slides/tutorial_multivar-stats.html</loc>
+    <lastmod>2024-04-04T21:55:38.567Z</lastmod>
   </url>
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/slides_tutorials/tutorial_random-forest.html</loc>
-    <lastmod>2024-04-04T20:30:19.230Z</lastmod>
+    <loc>https://njlyon0.github.io/lyon_talks/slides/lter-ssecr_community-call-2024.html</loc>
+    <lastmod>2024-04-04T21:55:38.555Z</lastmod>
   </url>
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/slides_tutorials/tutorial_multivar-stats.html</loc>
-    <lastmod>2024-04-04T20:30:19.230Z</lastmod>
+    <loc>https://njlyon0.github.io/lyon_talks/index.html</loc>
+    <lastmod>2024-04-04T21:55:38.523Z</lastmod>
   </url>
   <url>
-    <loc>https://njlyon0.github.io/lyon_talks/slides_lter/lter-ssecr_roundtable-2024.html</loc>
-    <lastmod>2024-04-04T20:30:19.186Z</lastmod>
+    <loc>https://njlyon0.github.io/lyon_talks/slides/lter-ssecr_roundtable-2024.html</loc>
+    <lastmod>2024-04-04T21:55:38.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://njlyon0.github.io/lyon_talks/slides/tutorial_random-forest.html</loc>
+    <lastmod>2024-04-04T21:55:38.567Z</lastmod>
   </url>
   <url>
     <loc>https://njlyon0.github.io/lyon_talks/home_tutorials.html</loc>
-    <lastmod>2024-04-04T20:30:19.186Z</lastmod>
+    <lastmod>2024-04-04T21:55:38.523Z</lastmod>
   </url>
 </urlset>

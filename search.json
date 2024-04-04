@@ -1,5 +1,411 @@
 [
   {
+    "objectID": "home_lter.html",
+    "href": "home_lter.html",
+    "title": "Long Term Ecological Research",
+    "section": "",
+    "text": "Presentations given for LTER purposes are included below!"
+  },
+  {
+    "objectID": "home_lter.html#overview",
+    "href": "home_lter.html#overview",
+    "title": "Long Term Ecological Research",
+    "section": "",
+    "text": "Presentations given for LTER purposes are included below!"
+  },
+  {
+    "objectID": "home_lter.html#synthesis-skills-for-early-career-researchers",
+    "href": "home_lter.html#synthesis-skills-for-early-career-researchers",
+    "title": "Long Term Ecological Research",
+    "section": "Synthesis Skills for Early Career Researchers",
+    "text": "Synthesis Skills for Early Career Researchers\nAs part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025.\n\nNCEAS Roundtable (2024)\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen\n\n\nLTER Community Call (2024)\nMarty Downs and I co-presented at the March LTER Community Call.\n\nCommunity Call Slides – Full Screen"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#caveat-before-we-begin",
+    "href": "slides/tutorial_multivar-stats.html#caveat-before-we-begin",
+    "title": "Multivariate Statistics 101",
+    "section": "Caveat Before We Begin",
+    "text": "Caveat Before We Begin\n\n\n\nRead this book \n\n\n\n\nHas a complete R appendix for:\n\nEvery example\nEvery figure\nEvery operation\n\n\n\n\n\nEssentially the book is written in R Markdown\n\n\n\n\nBonus: actually pretty engaging to read!\n\nDespite subject matter"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#tutorial-outline",
+    "href": "slides/tutorial_multivar-stats.html#tutorial-outline",
+    "title": "Multivariate Statistics 101",
+    "section": "Tutorial Outline",
+    "text": "Tutorial Outline\n\n\nBackground\nResampling & Permutation\nMultivariate Data Visualization\nPrinciple Components Analysis\nNon-Metric Multidimensional Scaling"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#multivariate-background",
+    "href": "slides/tutorial_multivar-stats.html#multivariate-background",
+    "title": "Multivariate Statistics 101",
+    "section": "Multivariate Background",
+    "text": "Multivariate Background\n\nMultivariate data have more variables (p) than observations (q)\n\n\n\n\nI.e., more columns than rows\n\nTrue of most ecology/evolution datasets\n\n\n\n\n\nDiffers from univariate statistics\n\nUnivariate explores variation in one variable\nMultivariate explores variation in many variables (plus potential inter-relationships)"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#resampling-methods",
+    "href": "slides/tutorial_multivar-stats.html#resampling-methods",
+    "title": "Multivariate Statistics 101",
+    "section": "Resampling Methods",
+    "text": "Resampling Methods\n\nFrequentist statistics uses distributions from theory\n\n\n\n\n\n\nResampling statistics uses distributions from data"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#theoretical-process",
+    "href": "slides/tutorial_multivar-stats.html#theoretical-process",
+    "title": "Multivariate Statistics 101",
+    "section": "Theoretical Process",
+    "text": "Theoretical Process\n\nTake samples from data (i.e., “re-sample”)\n\n\n\nCompare real observations to re-sampled groups\n\n\n\n\nEvaluate significance"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#permutation-notes",
+    "href": "slides/tutorial_multivar-stats.html#permutation-notes",
+    "title": "Multivariate Statistics 101",
+    "section": "Permutation Notes",
+    "text": "Permutation Notes\n\nPermutation methods are non-parametric\n\nBecause they don’t rely on a theoretical distribution\n\n\n\n\n\n\nPermutation methods are flexible\n\nCan assess standard & non-standard experimental designs\nHandle high-dimensional data (more variables than observations)"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#two-major-flavors",
+    "href": "slides/tutorial_multivar-stats.html#two-major-flavors",
+    "title": "Multivariate Statistics 101",
+    "section": "Two Major “Flavors”",
+    "text": "Two Major “Flavors”"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#multivariate-visualization",
+    "href": "slides/tutorial_multivar-stats.html#multivariate-visualization",
+    "title": "Multivariate Statistics 101",
+    "section": "Multivariate Visualization",
+    "text": "Multivariate Visualization"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#principle-components-analysis-1",
+    "href": "slides/tutorial_multivar-stats.html#principle-components-analysis-1",
+    "title": "Multivariate Statistics 101",
+    "section": "Principle Components Analysis",
+    "text": "Principle Components Analysis"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#pca-process",
+    "href": "slides/tutorial_multivar-stats.html#pca-process",
+    "title": "Multivariate Statistics 101",
+    "section": "PCA Process",
+    "text": "PCA Process"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#pca-special-consideration",
+    "href": "slides/tutorial_multivar-stats.html#pca-special-consideration",
+    "title": "Multivariate Statistics 101",
+    "section": "PCA Special Consideration",
+    "text": "PCA Special Consideration"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
+    "href": "slides/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
+    "title": "Multivariate Statistics 101",
+    "section": "Non-Metric Multidimensional Scaling",
+    "text": "Non-Metric Multidimensional Scaling"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#nms-process",
+    "href": "slides/tutorial_multivar-stats.html#nms-process",
+    "title": "Multivariate Statistics 101",
+    "section": "NMS Process",
+    "text": "NMS Process"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#nms-helicopter-analogy",
+    "href": "slides/tutorial_multivar-stats.html#nms-helicopter-analogy",
+    "title": "Multivariate Statistics 101",
+    "section": "NMS Helicopter Analogy",
+    "text": "NMS Helicopter Analogy"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#presentation-outline",
+    "href": "slides/lter-ssecr_community-call-2024.html#presentation-outline",
+    "title": "LTER Synthesis Course",
+    "section": "Presentation Outline",
+    "text": "Presentation Outline\n \nLTER Network Background\nCourse Rationale\nCourse Structure & Content\nStudent Projects\nWhat’s Next"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#lter-sites",
+    "href": "slides/lter-ssecr_community-call-2024.html#lter-sites",
+    "title": "LTER Synthesis Course",
+    "section": "LTER Sites",
+    "text": "LTER Sites\n \n\n\nEstablished in 1980\n27 sites in the network\nThousands of investigators\nHugely productive!\n\n&gt;7000 public datasets\n&gt;17000 journal articles"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#lter-site-longevity",
+    "href": "slides/lter-ssecr_community-call-2024.html#lter-site-longevity",
+    "title": "LTER Synthesis Course",
+    "section": "LTER Site Longevity",
+    "text": "LTER Site Longevity"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#lter-core-research-areas",
+    "href": "slides/lter-ssecr_community-call-2024.html#lter-core-research-areas",
+    "title": "LTER Synthesis Course",
+    "section": "LTER Core Research Areas",
+    "text": "LTER Core Research Areas\n \n\nPrimary Production \nPopulations & Communities \nDisturbance \nOrganic Matter \nInorganic Nutrients \nLand Use/Cover Change \nHuman-Environment Interactions"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#network-office-structure",
+    "href": "slides/lter-ssecr_community-call-2024.html#network-office-structure",
+    "title": "LTER Synthesis Course",
+    "section": "Network Office Structure",
+    "text": "Network Office Structure"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#synthesis-research",
+    "href": "slides/lter-ssecr_community-call-2024.html#synthesis-research",
+    "title": "LTER Synthesis Course",
+    "section": "Synthesis Research",
+    "text": "Synthesis Research\n \n\nHow do we define “synthesis”?\n\n\n\nSynthesis brings together the results of multiple studies to test novel hypotheses\n\n\n\n\n\n\nLTER research is hypothesis-driven\n\nMeans many different data are collected\n\n\n\n\n\n\n\nPerfect context for innovative synthesis work!"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#lter-working-groups",
+    "href": "slides/lter-ssecr_community-call-2024.html#lter-working-groups",
+    "title": "LTER Synthesis Course",
+    "section": "LTER Working Groups",
+    "text": "LTER Working Groups\n \n\nSince 2016 we’ve funded 14 synthesis working groups\n\nMeet 3-4 times over two years\n\n\n\n\n\n\nGroups are immensely productive (≥6 publications per group)\n\n\n\n\n\n\nIn 2022 we started funding smaller, 1-meeting “SPARC” groups\n\nScientific Peers Advancing Research Collaboration\n\n\n\n\n\n\n\nGroups are enthusiastic and curious\n\nIn a word: joyful"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#working-group-process",
+    "href": "slides/lter-ssecr_community-call-2024.html#working-group-process",
+    "title": "LTER Synthesis Course",
+    "section": "Working Group Process",
+    "text": "Working Group Process"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#soil-organic-matter-2017",
+    "href": "slides/lter-ssecr_community-call-2024.html#soil-organic-matter-2017",
+    "title": "LTER Synthesis Course",
+    "section": "Soil Organic Matter (2017)",
+    "text": "Soil Organic Matter (2017)\n \n\n\n\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-1",
+    "href": "slides/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-1",
+    "title": "LTER Synthesis Course",
+    "section": "Soil Organic Matter (2017)",
+    "text": "Soil Organic Matter (2017)\n \n\n\n\n\n‘What Non-Soil Ecologists Should Know about Collecting Soil Samples’\n\n\n\n\nExplicitly intended to benefit those outside of their discipline\n\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-2",
+    "href": "slides/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-2",
+    "title": "LTER Synthesis Course",
+    "section": "Soil Organic Matter (2017)",
+    "text": "Soil Organic Matter (2017)\n \n\n\n\n\n‘What Non-Soil Ecologists Should Know about Collecting Soil Samples’\n\n\n\n\nExplicitly intended to benefit those outside of their discipline\n\n\n\n\nData (and metadata) format workflow for soil data\n\n\n\n\nRelated philosophy to several other efforts at data format standardization\n\nE.g., ecocomDP (ediorg.github.io/ecocomDP), etc.\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#biodiversity-productivity-2017",
+    "href": "slides/lter-ssecr_community-call-2024.html#biodiversity-productivity-2017",
+    "title": "LTER Synthesis Course",
+    "section": "Biodiversity-Productivity (2017)",
+    "text": "Biodiversity-Productivity (2017)\n \n\n  \n  \n  \n \n\n\n\nO’Connor et al. 2021, Proceedings of the Royal Society B (ProcB); Mori et al. 2021, Nature Climate Change; Weng et al. 2021, Ecology; Gonzalez et al. 2020, Ecology Letters; Jochum et al. 2020, Nature Ecology & Evolution; Hautier et al. 2020, Nature Communications ; Dee et al. 2019, Trends in Ecology & Evolution (TrEE); Isbell et al. 2018, Ecology Letters; Mori et al. 2018, TrEE; Thompson et al. 2018, ProcB"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#silica-exports-2020",
+    "href": "slides/lter-ssecr_community-call-2024.html#silica-exports-2020",
+    "title": "LTER Synthesis Course",
+    "section": "Silica Exports (2020)",
+    "text": "Silica Exports (2020)\n \n\n \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd researchers at 10 (of 28) LTER sites!\n\n\n\n\nJohnson et al. 2024, Limnology & Oceanography Letters; Jankowski et al. 2023, Global Biogeochemical Cycles"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#working-groups-ecrs",
+    "href": "slides/lter-ssecr_community-call-2024.html#working-groups-ecrs",
+    "title": "LTER Synthesis Course",
+    "section": "Working Groups & ECRs",
+    "text": "Working Groups & ECRs\n \n\nMost groups include early career researchers (ECRs)\n\nTypically graduate students and post-docs\nSometimes even undergraduates!\n\n\n\n\n\n\nECRs get a ton out of participating\n\nNetworking, leadership opportunities, publications, job opportunities, etc.\n\n\n\n\n\n\n\nGroups get a lot out of including ECRs as well!\n\nNovel analytical methods, new perspectives, coding literacy"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#ecrs-synthesis-training",
+    "href": "slides/lter-ssecr_community-call-2024.html#ecrs-synthesis-training",
+    "title": "LTER Synthesis Course",
+    "section": "ECRs & Synthesis Training",
+    "text": "ECRs & Synthesis Training\n \n\nECR demand for synthesis training far outstrips working group capacity\n\n\n\n\n\nInspired development of a course to provide these skills\n\nSynthesis Skills for Early Career Researchers (SSECR)\n\n\n\n\n\n\n\nSSECR aims to train ECRs in needed quantitative and inclusive facilitation skills\n\n\n\n\n\n\nTimed to leave students well prepared to apply for SPARC group funding"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#diversity-equity-and-inclusion",
+    "href": "slides/lter-ssecr_community-call-2024.html#diversity-equity-and-inclusion",
+    "title": "LTER Synthesis Course",
+    "section": "Diversity, Equity, and Inclusion",
+    "text": "Diversity, Equity, and Inclusion\n \n\nThe LTER Network Office has two primary goals heading into our next funding cycle:\n\n\n\nGreater cultural, socioeconomic, and gender diversity throughout the LTER network\n\n\n\n\nMore rapid and innovative synthesis\n\n\n\n\n\n\n\nSSECR is built–in part–to support these goals"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#lter-program-framework",
+    "href": "slides/lter-ssecr_community-call-2024.html#lter-program-framework",
+    "title": "LTER Synthesis Course",
+    "section": "LTER Program Framework",
+    "text": "LTER Program Framework"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#ssecr-goals",
+    "href": "slides/lter-ssecr_community-call-2024.html#ssecr-goals",
+    "title": "LTER Synthesis Course",
+    "section": "SSECR Goals",
+    "text": "SSECR Goals\n \n\nWe have the following strategic goals for the course:\n\n\n\nSurface and test new synthesis ideas for feasibility\nPrepare more ECRs to be synthesis project leaders\nConnect LTER-affiliated ECRs across sites\nDevelop intergenerational linkages around synthesis"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#target-audience",
+    "href": "slides/lter-ssecr_community-call-2024.html#target-audience",
+    "title": "LTER Synthesis Course",
+    "section": "Target Audience",
+    "text": "Target Audience\n \n\nWe’re looking to recruit graduate students actively working at/with LTER sites\n\n\n\n\n\n~30 students per cohort (about 1 per LTER site)\n\n\n\n\n\n\nIdeally have some primary research experience\n\nNo requirement for prior synthesis experience\n\n\n\n\n\n\n\nEstimated time commitment is 3 hours per week\n\nProducts of student projects hopefully persuasive to PIs / graduate committees"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#ssecr-structure",
+    "href": "slides/lter-ssecr_community-call-2024.html#ssecr-structure",
+    "title": "LTER Synthesis Course",
+    "section": "SSECR Structure",
+    "text": "SSECR Structure\n \n\nCourse split into two major components:\n\n\n\n\nInstructional Modules\n\nStudent-Led Projects\n\n\n\n\n\n\n\nModule order reflects typical synthesis project evolution\n\nBased on working group model\n\n\n\n\n\n\n\nMore on projects shortly!"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#course-logistics",
+    "href": "slides/lter-ssecr_community-call-2024.html#course-logistics",
+    "title": "LTER Synthesis Course",
+    "section": "Course Logistics",
+    "text": "Course Logistics\n \n\nCourse runs for 9 months (Sept - May)\n\n\n\n\n\nFirst full week in-person at NCEAS\n\nFacilitate cohort sense of community\nStudents form groups of 5-6 with interest in shared project idea\n\n\n\n\n\n\n\nBiweekly synchronous virtual meetings\n\nIn “off” weeks groups meet together / with project mentors"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#classes",
+    "href": "slides/lter-ssecr_community-call-2024.html#classes",
+    "title": "LTER Synthesis Course",
+    "section": "Classes",
+    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc."
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#classes-1",
+    "href": "slides/lter-ssecr_community-call-2024.html#classes-1",
+    "title": "LTER Synthesis Course",
+    "section": "Classes",
+    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc.\n\n\nInstruction\n\nApprox. 120 minutes\n\n\n\n\nLed by LNO staff, guest speakers, LTER Network-recruited mentors\n\nLikely including other NCEAS folx!\n\n\n\n\n\nFocus on content module of the week"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#team-science-emphasis",
+    "href": "slides/lter-ssecr_community-call-2024.html#team-science-emphasis",
+    "title": "LTER Synthesis Course",
+    "section": "Team Science Emphasis",
+    "text": "Team Science Emphasis\n \n\nSynthesis work requires meaningful teamwork\n\n\n\n\n\nModules focus on these “soft skills”\n\nConsistent inclusivity lens to modules in this category\n\n\n\n\n\n\n\nMany of these skills are particularly absent from graduate school curricula"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#quantitative-emphasis",
+    "href": "slides/lter-ssecr_community-call-2024.html#quantitative-emphasis",
+    "title": "LTER Synthesis Course",
+    "section": "Quantitative Emphasis",
+    "text": "Quantitative Emphasis\n \n\nSynthesis work usually has significant quantitative needs\n\n\n\n\n\nExtensive harmonizing often pre-requisite to even cursory exploration\n\n\n\n\n\n\nQuality control requires an in-depth examination of each primary project’s metadata"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#module-categories",
+    "href": "slides/lter-ssecr_community-call-2024.html#module-categories",
+    "title": "LTER Synthesis Course",
+    "section": "Module Categories",
+    "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\n\nTeam Science \n\nQuantitative Skills"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#module-categories-1",
+    "href": "slides/lter-ssecr_community-call-2024.html#module-categories-1",
+    "title": "LTER Synthesis Course",
+    "section": "Module Categories",
+    "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#module-categories-2",
+    "href": "slides/lter-ssecr_community-call-2024.html#module-categories-2",
+    "title": "LTER Synthesis Course",
+    "section": "Module Categories",
+    "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills \n\nReproducibility Best Practices\nVersion Control\nData Discovery & Management\nData Visualization and Exploration\nData Wrangling\nAnalysis & Modeling\nSpatial Data & Interactivity\nReproducible Reports"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#content-availability",
+    "href": "slides/lter-ssecr_community-call-2024.html#content-availability",
+    "title": "LTER Synthesis Course",
+    "section": "Content Availability",
+    "text": "Content Availability\n \n\nWe hope this course content is valuable to as many people as possible\n\n\n\n\n\nTo ensure this, we’re making the full course materials publicly-available!\n\nlter.github.io/ssecr\n\n\n\n\n\n\n\nStudent project content may be made available\n\nDecision made by each team"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#projects-overview",
+    "href": "slides/lter-ssecr_community-call-2024.html#projects-overview",
+    "title": "LTER Synthesis Course",
+    "section": "Projects Overview",
+    "text": "Projects Overview\n \n\nProjects designed, led, and run by students are a significant facet of SSECR\n\n\n\n\n\nGives applied context for skills learned during module instruction\n\n\n\n\n\n\nProject deliverables are incentives for student engagement\n\nAs well as their advisors/committees\n\n\n\n\n\n\n\nEach project team will be paired with a “synthesis mentor” to guide groups"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#project-mentors",
+    "href": "slides/lter-ssecr_community-call-2024.html#project-mentors",
+    "title": "LTER Synthesis Course",
+    "section": "Project Mentors",
+    "text": "Project Mentors\n \n\nMentors are volunteers recruited due to synthesis experience\n\nPrimarily working group leaders and participants\n\n\n\n\n\n\nMentors will be assigned to teams based on discipline/ecosystem overlap\n\n\n\n\n\n\nTeams and mentors meet at least 5 times throughout the course"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#mentor-meetings",
+    "href": "slides/lter-ssecr_community-call-2024.html#mentor-meetings",
+    "title": "LTER Synthesis Course",
+    "section": "Mentor Meetings",
+    "text": "Mentor Meetings\n \n\nContent and structure of team-mentor meetings is up to those involved\n\n\n\n\n\nTopics may include:\n\nSuggesting readings or collaborators\nDiscussing analytical approaches\nSharing experience / advice\n\n\n\n\n\n\n\nMentors also help teams on an interpersonal level as needed"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#project-work",
+    "href": "slides/lter-ssecr_community-call-2024.html#project-work",
+    "title": "LTER Synthesis Course",
+    "section": "Project Work",
+    "text": "Project Work\n \n\nStudents will be encouraged to work on projects during “off weeks” of instruction\n\nBiweekly class structure meant to facilitate this\n\n\n\n\n\n\nProject mentor likely present at some (not all!) of these meetings\n\n\n\n\n\n\nModule order based on when project teams are likely to need those skills\n\nSome flexibility to share content earlier as needed"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#project-team-creation",
+    "href": "slides/lter-ssecr_community-call-2024.html#project-team-creation",
+    "title": "LTER Synthesis Course",
+    "section": "Project Team Creation",
+    "text": "Project Team Creation\n \n\nStudents propose a synthesis project in their application\n\nAlso gathering ideas from working group / SPARC group participants\nProject mentors may also suggest topics\n\n\n\n\n\n\nTime set aside for teams/ideas to coalesce during in-person week\n\n\n\n\n\n\nPlanning for ~6 groups of 5-6 students each"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#menu-of-ideas",
+    "href": "slides/lter-ssecr_community-call-2024.html#menu-of-ideas",
+    "title": "LTER Synthesis Course",
+    "section": "‘Menu of Ideas’",
+    "text": "‘Menu of Ideas’\n \n\nProject ideas from all sources will be retained in a ‘menu of ideas’\n\n\n\n\n\nEach LTER Network synthesis activity will have the chance to add to this menu\n\nWorking groups / SPARC groups\n‘Next Steps’ ideas produced by SSECR project teams\nAll Scientists’ Meeting (ASM) presentations\n\n\n\n\n\n\n\nSubsequent cohorts of students can adopt and/or adapt ideas from this menu\n\nIn addition to bringing their own ideas"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#ongoing-plans",
+    "href": "slides/lter-ssecr_community-call-2024.html#ongoing-plans",
+    "title": "LTER Synthesis Course",
+    "section": "Ongoing Plans",
+    "text": "Ongoing Plans\n \n\nRecruiting project mentors / course instructors\n\n\n\n\nRefining module learning objectives and content\n\nPlus aligned activities/readings"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#on-the-horizon",
+    "href": "slides/lter-ssecr_community-call-2024.html#on-the-horizon",
+    "title": "LTER Synthesis Course",
+    "section": "On the Horizon",
+    "text": "On the Horizon\n \nNow - Call for mentors & announcement of course (to students)\n\n\n\nSpring 2024 - Student applications & application review\n\n\n\n\nSummer 2024 - Application decisions & content finalization\n\n\n\n\nFall 2024 - Spring 2025 - First cohort of SSECR students!"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#wed-love-your-insight",
+    "href": "slides/lter-ssecr_community-call-2024.html#wed-love-your-insight",
+    "title": "LTER Synthesis Course",
+    "section": "We’d Love Your Insight!",
+    "text": "We’d Love Your Insight!\n \nPosting questions to the LTER Discourse today but here’s a taste:\n\n\n\n\nIn our module list, would you (A) drop or (B) add any topics?\n\nIf you would add a module, which module(s) would you drop to make space for it?\n\n\n\n\n\n\n\nWould you recommend any particular resources?\n\nCould include papers, websites, workshops, etc.\n\n\n\n\n\n\n\nWhat successful strategies have you seen for group formation?"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#want-to-be-involved",
+    "href": "slides/lter-ssecr_community-call-2024.html#want-to-be-involved",
+    "title": "LTER Synthesis Course",
+    "section": "Want to be Involved?",
+    "text": "Want to be Involved?\n \n\n\nLend us your experience and curiosity!\n\nTake a couple minutes and weigh in on our Discourse questions\n\n\n\n\n\n\n\nVolunteer to be an inspiration session speaker\n\nIf you have prior experience with synthesis\nEmail Marty Downs & Nick Lyon if this is of interest"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#want-more-information",
+    "href": "slides/lter-ssecr_community-call-2024.html#want-more-information",
+    "title": "LTER Synthesis Course",
+    "section": "Want More Information?",
+    "text": "Want More Information?\n \n\nCheck out the LTER Network website page for SSECR!\n\nlternet.edu/ssecr\nWeb applications (for students and project mentors) are open\n\n\n\n\n\n\nCheck out the SSECR course materials!\n\nlter.github.io/ssecr\nMost modules are still under construction though"
+  },
+  {
+    "objectID": "slides/lter-ssecr_community-call-2024.html#thanks-questions",
+    "href": "slides/lter-ssecr_community-call-2024.html#thanks-questions",
+    "title": "LTER Synthesis Course",
+    "section": "Thanks! Questions?",
+    "text": "Thanks! Questions?\n \n\n\n\n\n\n\n Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings\n\n\n\n\n\n\n\n Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Site Home",
@@ -28,704 +434,298 @@
     "text": "Tutorials\nI occasionally get invited to present tutorials of specific data science skills. Previously I had housed these tutorials in standalone  GitHub repositories but now that this website exists it seems like a nice opportunity to do some consolidation (for ease of future maintenance)."
   },
   {
-    "objectID": "home_lter.html",
-    "href": "home_lter.html",
-    "title": "Long Term Ecological Research",
-    "section": "",
-    "text": "Presentations given for LTER purposes are included below!"
-  },
-  {
-    "objectID": "home_lter.html#overview",
-    "href": "home_lter.html#overview",
-    "title": "Long Term Ecological Research",
-    "section": "",
-    "text": "Presentations given for LTER purposes are included below!"
-  },
-  {
-    "objectID": "home_lter.html#synthesis-skills-for-early-career-researchers",
-    "href": "home_lter.html#synthesis-skills-for-early-career-researchers",
-    "title": "Long Term Ecological Research",
-    "section": "Synthesis Skills for Early Career Researchers",
-    "text": "Synthesis Skills for Early Career Researchers\nAs part of the 2025-29 renewal proposal to the National Science Foundation the Long Term Ecological Research (LTER) Network Office proposed an yearlong course to train early career researchers in synthesis work. Synthesis skills differ from primary research skills because synthesis requires a focus on collaboration as well as an increased emphasis on quantitative skills. Synthesis Skills for Early Career Researchers (SSECR) is that course and it will be first offered in fall of 2024 to a cohort of ~30 students (about 1 per LTER site). The course materials can be found at lter.github.io/ssecr though they will likely be under construction/revision until late 2024/early 2025.\n\nNCEAS Roundtable (2024)\nInvited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly “roundtable” presentation.\n\nRoundtable Slides – Full Screen\n\n\nLTER Community Call (2024)\nMarty Downs and I co-presented at the March LTER Community Call.\n\nCommunity Call Slides – Full Screen"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#presentation-outline",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#presentation-outline",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#presentation-outline",
+    "href": "slides/lter-ssecr_roundtable-2024.html#presentation-outline",
     "title": "LTER Synthesis Course",
     "section": "Presentation Outline",
     "text": "Presentation Outline\n \nLTER Network Background\nCourse Rationale\nCourse Structure & Content\nStudent Projects\nWhat’s Next"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#lter-sites",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#lter-sites",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-sites",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-sites",
     "title": "LTER Synthesis Course",
     "section": "LTER Sites",
     "text": "LTER Sites\n \n\n\nEstablished in 1980\n27 sites in the network\nThousands of investigators\nHugely productive!\n\n&gt;7000 public datasets\n&gt;17000 journal articles"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#lter-site-longevity",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#lter-site-longevity",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-site-longevity",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-site-longevity",
     "title": "LTER Synthesis Course",
     "section": "LTER Site Longevity",
     "text": "LTER Site Longevity"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#lter-core-research-areas",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#lter-core-research-areas",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-core-research-areas",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-core-research-areas",
     "title": "LTER Synthesis Course",
     "section": "LTER Core Research Areas",
     "text": "LTER Core Research Areas\n \n\nPrimary Production \nPopulations & Communities \nDisturbance \nOrganic Matter \nInorganic Nutrients \nLand Use/Cover Change \nHuman-Environment Interactions"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#network-office-structure",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#network-office-structure",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#network-office-structure",
+    "href": "slides/lter-ssecr_roundtable-2024.html#network-office-structure",
     "title": "LTER Synthesis Course",
     "section": "Network Office Structure",
     "text": "Network Office Structure"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#synthesis-research",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#synthesis-research",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#synthesis-research",
+    "href": "slides/lter-ssecr_roundtable-2024.html#synthesis-research",
     "title": "LTER Synthesis Course",
     "section": "Synthesis Research",
     "text": "Synthesis Research\n \n\nHow do we define “synthesis”?\n\n\n\nSynthesis brings together the results of multiple studies to test novel hypotheses\n\n\n\n\n\n\nLTER research is hypothesis-driven\n\nMeans many different data are collected\n\n\n\n\n\n\n\nPerfect context for innovative synthesis work!"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#lter-working-groups",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#lter-working-groups",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-working-groups",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-working-groups",
     "title": "LTER Synthesis Course",
     "section": "LTER Working Groups",
     "text": "LTER Working Groups\n \n\nSince 2016 we’ve funded 14 synthesis working groups\n\nMeet 3-4 times over two years\n\n\n\n\n\n\nGroups are immensely productive (≥6 publications per group)\n\n\n\n\n\n\nIn 2022 we started funding smaller, 1-meeting “SPARC” groups\n\nScientific Peers Advancing Research Collaboration\n\n\n\n\n\n\n\nGroups are enthusiastic and curious\n\nIn a word: joyful"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#working-group-process",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#working-group-process",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#working-group-process",
+    "href": "slides/lter-ssecr_roundtable-2024.html#working-group-process",
     "title": "LTER Synthesis Course",
     "section": "Working Group Process",
     "text": "Working Group Process"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#soil-organic-matter-2017",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#soil-organic-matter-2017",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017",
+    "href": "slides/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017",
     "title": "LTER Synthesis Course",
     "section": "Soil Organic Matter (2017)",
     "text": "Soil Organic Matter (2017)\n \n\n\n\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-1",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-1",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-1",
+    "href": "slides/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-1",
     "title": "LTER Synthesis Course",
     "section": "Soil Organic Matter (2017)",
     "text": "Soil Organic Matter (2017)\n \n\n\n\n\n‘What Non-Soil Ecologists Should Know about Collecting Soil Samples’\n\n\n\n\nExplicitly intended to benefit those outside of their discipline\n\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-2",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#soil-organic-matter-2017-2",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-2",
+    "href": "slides/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-2",
     "title": "LTER Synthesis Course",
     "section": "Soil Organic Matter (2017)",
     "text": "Soil Organic Matter (2017)\n \n\n\n\n\n‘What Non-Soil Ecologists Should Know about Collecting Soil Samples’\n\n\n\n\nExplicitly intended to benefit those outside of their discipline\n\n\n\n\nData (and metadata) format workflow for soil data\n\n\n\n\nRelated philosophy to several other efforts at data format standardization\n\nE.g., ecocomDP (ediorg.github.io/ecocomDP), etc.\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#biodiversity-productivity-2017",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#biodiversity-productivity-2017",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#biodiversity-productivity-2017",
+    "href": "slides/lter-ssecr_roundtable-2024.html#biodiversity-productivity-2017",
     "title": "LTER Synthesis Course",
     "section": "Biodiversity-Productivity (2017)",
     "text": "Biodiversity-Productivity (2017)\n \n\n  \n  \n  \n \n\n\n\nO’Connor et al. 2021, Proceedings of the Royal Society B (ProcB); Mori et al. 2021, Nature Climate Change; Weng et al. 2021, Ecology; Gonzalez et al. 2020, Ecology Letters; Jochum et al. 2020, Nature Ecology & Evolution; Hautier et al. 2020, Nature Communications ; Dee et al. 2019, Trends in Ecology & Evolution (TrEE); Isbell et al. 2018, Ecology Letters; Mori et al. 2018, TrEE; Thompson et al. 2018, ProcB"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#silica-exports-2020",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#silica-exports-2020",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#silica-exports-2020",
+    "href": "slides/lter-ssecr_roundtable-2024.html#silica-exports-2020",
     "title": "LTER Synthesis Course",
     "section": "Silica Exports (2020)",
     "text": "Silica Exports (2020)\n \n\n \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd researchers at 10 (of 28) LTER sites!\n\n\n\n\nJohnson et al. 2024, Limnology & Oceanography Letters; Jankowski et al. 2023, Global Biogeochemical Cycles"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#working-groups-ecrs",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#working-groups-ecrs",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#working-groups-ecrs",
+    "href": "slides/lter-ssecr_roundtable-2024.html#working-groups-ecrs",
     "title": "LTER Synthesis Course",
     "section": "Working Groups & ECRs",
     "text": "Working Groups & ECRs\n \n\nMost groups include early career researchers (ECRs)\n\nTypically graduate students and post-docs\nSometimes even undergraduates!\n\n\n\n\n\n\nECRs get a ton out of participating\n\nNetworking, leadership opportunities, publications, job opportunities, etc.\n\n\n\n\n\n\n\nGroups get a lot out of including ECRs as well!\n\nNovel analytical methods, new perspectives, coding literacy"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#ecrs-synthesis-training",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#ecrs-synthesis-training",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ecrs-synthesis-training",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ecrs-synthesis-training",
     "title": "LTER Synthesis Course",
     "section": "ECRs & Synthesis Training",
     "text": "ECRs & Synthesis Training\n \n\nECR demand for synthesis training far outstrips working group capacity\n\n\n\n\n\nInspired development of a course to provide these skills\n\nSynthesis Skills for Early Career Researchers (SSECR)\n\n\n\n\n\n\n\nSSECR aims to train ECRs in needed quantitative and inclusive facilitation skills\n\n\n\n\n\n\nTimed to leave students well prepared to apply for SPARC group funding"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#diversity-equity-and-inclusion",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#diversity-equity-and-inclusion",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#diversity-equity-and-inclusion",
+    "href": "slides/lter-ssecr_roundtable-2024.html#diversity-equity-and-inclusion",
     "title": "LTER Synthesis Course",
     "section": "Diversity, Equity, and Inclusion",
     "text": "Diversity, Equity, and Inclusion\n \n\nThe LTER Network Office has two primary goals heading into our next funding cycle:\n\n\n\nGreater cultural, socioeconomic, and gender diversity throughout the LTER network\n\n\n\n\nMore rapid and innovative synthesis\n\n\n\n\n\n\n\nSSECR is built–in part–to support these goals"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#lter-program-framework",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#lter-program-framework",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#lter-program-framework",
+    "href": "slides/lter-ssecr_roundtable-2024.html#lter-program-framework",
     "title": "LTER Synthesis Course",
     "section": "LTER Program Framework",
     "text": "LTER Program Framework"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#ssecr-goals",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#ssecr-goals",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ssecr-goals",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ssecr-goals",
     "title": "LTER Synthesis Course",
     "section": "SSECR Goals",
     "text": "SSECR Goals\n \n\nWe have the following strategic goals for the course:\n\n\n\nSurface and test new synthesis ideas for feasibility\nPrepare more ECRs to be synthesis project leaders\nConnect LTER-affiliated ECRs across sites\nDevelop intergenerational linkages around synthesis"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#target-audience",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#target-audience",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#target-audience",
+    "href": "slides/lter-ssecr_roundtable-2024.html#target-audience",
     "title": "LTER Synthesis Course",
     "section": "Target Audience",
     "text": "Target Audience\n \n\nWe’re looking to recruit graduate students actively working at/with LTER sites\n\n\n\n\n\n~30 students per cohort (about 1 per LTER site)\n\n\n\n\n\n\nIdeally have some primary research experience\n\nNo requirement for prior synthesis experience\n\n\n\n\n\n\n\nEstimated time commitment is 3 hours per week\n\nProducts of student projects hopefully persuasive to PIs / graduate committees"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#ssecr-structure",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#ssecr-structure",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ssecr-structure",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ssecr-structure",
     "title": "LTER Synthesis Course",
     "section": "SSECR Structure",
     "text": "SSECR Structure\n \n\nCourse split into two major components:\n\n\n\n\nInstructional Modules\n\nStudent-Led Projects\n\n\n\n\n\n\n\nModule order reflects typical synthesis project evolution\n\nBased on working group model\n\n\n\n\n\n\n\nMore on projects shortly!"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#course-logistics",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#course-logistics",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#course-logistics",
+    "href": "slides/lter-ssecr_roundtable-2024.html#course-logistics",
     "title": "LTER Synthesis Course",
     "section": "Course Logistics",
     "text": "Course Logistics\n \n\nCourse runs for 9 months (Sept - May)\n\n\n\n\n\nFirst full week in-person at NCEAS\n\nFacilitate cohort sense of community\nStudents form groups of 5-6 with interest in shared project idea\n\n\n\n\n\n\n\nBiweekly synchronous virtual meetings\n\nIn “off” weeks groups meet together / with project mentors"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#classes",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#classes",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#classes",
+    "href": "slides/lter-ssecr_roundtable-2024.html#classes",
     "title": "LTER Synthesis Course",
     "section": "Classes",
     "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc."
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#classes-1",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#classes-1",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#classes-1",
+    "href": "slides/lter-ssecr_roundtable-2024.html#classes-1",
     "title": "LTER Synthesis Course",
     "section": "Classes",
     "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc.\n\n\nInstruction\n\nApprox. 120 minutes\n\n\n\n\nLed by LNO staff, guest speakers, LTER Network-recruited mentors\n\nLikely including other NCEAS folx!\n\n\n\n\n\nFocus on content module of the week"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#team-science-emphasis",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#team-science-emphasis",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#team-science-emphasis",
+    "href": "slides/lter-ssecr_roundtable-2024.html#team-science-emphasis",
     "title": "LTER Synthesis Course",
     "section": "Team Science Emphasis",
     "text": "Team Science Emphasis\n \n\nSynthesis work requires meaningful teamwork\n\n\n\n\n\nModules focus on these “soft skills”\n\nConsistent inclusivity lens to modules in this category\n\n\n\n\n\n\n\nMany of these skills are particularly absent from graduate school curricula"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#quantitative-emphasis",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#quantitative-emphasis",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
+    "href": "slides/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
     "title": "LTER Synthesis Course",
     "section": "Quantitative Emphasis",
     "text": "Quantitative Emphasis\n \n\nSynthesis work usually has significant quantitative needs\n\n\n\n\n\nExtensive harmonizing often pre-requisite to even cursory exploration\n\n\n\n\n\n\nQuality control requires an in-depth examination of each primary project’s metadata"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#module-categories",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#module-categories",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories",
+    "href": "slides/lter-ssecr_roundtable-2024.html#module-categories",
     "title": "LTER Synthesis Course",
     "section": "Module Categories",
     "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\n\nTeam Science \n\nQuantitative Skills"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#module-categories-1",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#module-categories-1",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories-1",
+    "href": "slides/lter-ssecr_roundtable-2024.html#module-categories-1",
     "title": "LTER Synthesis Course",
     "section": "Module Categories",
     "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#module-categories-2",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#module-categories-2",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#module-categories-2",
+    "href": "slides/lter-ssecr_roundtable-2024.html#module-categories-2",
     "title": "LTER Synthesis Course",
     "section": "Module Categories",
     "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills \n\nReproducibility Best Practices\nVersion Control\nData Discovery & Management\nData Visualization and Exploration\nData Wrangling\nAnalysis & Modeling\nSpatial Data & Interactivity\nReproducible Reports"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#content-availability",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#content-availability",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#content-availability",
+    "href": "slides/lter-ssecr_roundtable-2024.html#content-availability",
     "title": "LTER Synthesis Course",
     "section": "Content Availability",
     "text": "Content Availability\n \n\nWe hope this course content is valuable to as many people as possible\n\n\n\n\n\nTo ensure this, we’re making the full course materials publicly-available!\n\nlter.github.io/ssecr\n\n\n\n\n\n\n\nStudent project content may be made available\n\nDecision made by each team"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#projects-overview",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#projects-overview",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#projects-overview",
+    "href": "slides/lter-ssecr_roundtable-2024.html#projects-overview",
     "title": "LTER Synthesis Course",
     "section": "Projects Overview",
     "text": "Projects Overview\n \n\nProjects designed, led, and run by students are a significant facet of SSECR\n\n\n\n\n\nGives applied context for skills learned during module instruction\n\n\n\n\n\n\nProject deliverables are incentives for student engagement\n\nAs well as their advisors/committees\n\n\n\n\n\n\n\nEach project team will be paired with a “synthesis mentor” to guide groups"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#project-mentors",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#project-mentors",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#project-mentors",
+    "href": "slides/lter-ssecr_roundtable-2024.html#project-mentors",
     "title": "LTER Synthesis Course",
     "section": "Project Mentors",
     "text": "Project Mentors\n \n\nMentors are volunteers recruited due to synthesis experience\n\nPrimarily working group leaders and participants\n\n\n\n\n\n\nMentors will be assigned to teams based on discipline/ecosystem overlap\n\n\n\n\n\n\nTeams and mentors meet at least 5 times throughout the course"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#mentor-meetings",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#mentor-meetings",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#mentor-meetings",
+    "href": "slides/lter-ssecr_roundtable-2024.html#mentor-meetings",
     "title": "LTER Synthesis Course",
     "section": "Mentor Meetings",
     "text": "Mentor Meetings\n \n\nContent and structure of team-mentor meetings is up to those involved\n\n\n\n\n\nTopics may include:\n\nSuggesting readings or collaborators\nDiscussing analytical approaches\nSharing experience / advice\n\n\n\n\n\n\n\nMentors also help teams on an interpersonal level as needed"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#project-work",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#project-work",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#project-work",
+    "href": "slides/lter-ssecr_roundtable-2024.html#project-work",
     "title": "LTER Synthesis Course",
     "section": "Project Work",
     "text": "Project Work\n \n\nStudents will be encouraged to work on projects during “off weeks” of instruction\n\nBiweekly class structure meant to facilitate this\n\n\n\n\n\n\nProject mentor likely present at some (not all!) of these meetings\n\n\n\n\n\n\nModule order based on when project teams are likely to need those skills\n\nSome flexibility to share content earlier as needed"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#project-team-creation",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#project-team-creation",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#project-team-creation",
+    "href": "slides/lter-ssecr_roundtable-2024.html#project-team-creation",
     "title": "LTER Synthesis Course",
     "section": "Project Team Creation",
     "text": "Project Team Creation\n \n\nStudents propose a synthesis project in their application\n\nAlso gathering ideas from working group / SPARC group participants\nProject mentors may also suggest topics\n\n\n\n\n\n\nTime set aside for teams/ideas to coalesce during in-person week\n\n\n\n\n\n\nPlanning for ~6 groups of 5-6 students each"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#menu-of-ideas",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#menu-of-ideas",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#menu-of-ideas",
+    "href": "slides/lter-ssecr_roundtable-2024.html#menu-of-ideas",
     "title": "LTER Synthesis Course",
     "section": "‘Menu of Ideas’",
     "text": "‘Menu of Ideas’\n \n\nProject ideas from all sources will be retained in a ‘menu of ideas’\n\n\n\n\n\nEach LTER Network synthesis activity will have the chance to add to this menu\n\nWorking groups / SPARC groups\n‘Next Steps’ ideas produced by SSECR project teams\nAll Scientists’ Meeting (ASM) presentations\n\n\n\n\n\n\n\nSubsequent cohorts of students can adopt and/or adapt ideas from this menu\n\nIn addition to bringing their own ideas"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#ongoing-plans",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#ongoing-plans",
-    "title": "LTER Synthesis Course",
-    "section": "Ongoing Plans",
-    "text": "Ongoing Plans\n \n\nRecruiting project mentors / course instructors\n\n\n\n\nRefining module learning objectives and content\n\nPlus aligned activities/readings"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#on-the-horizon",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#on-the-horizon",
-    "title": "LTER Synthesis Course",
-    "section": "On the Horizon",
-    "text": "On the Horizon\n \nNow - Call for mentors & announcement of course (to students)\n\n\n\nSpring 2024 - Student applications & application review\n\n\n\n\nSummer 2024 - Application decisions & content finalization\n\n\n\n\nFall 2024 - Spring 2025 - First cohort of SSECR students!"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#wed-love-your-insight",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#wed-love-your-insight",
-    "title": "LTER Synthesis Course",
-    "section": "We’d Love Your Insight!",
-    "text": "We’d Love Your Insight!\n \nPosting questions to the LTER Discourse today but here’s a taste:\n\n\n\n\nIn our module list, would you (A) drop or (B) add any topics?\n\nIf you would add a module, which module(s) would you drop to make space for it?\n\n\n\n\n\n\n\nWould you recommend any particular resources?\n\nCould include papers, websites, workshops, etc.\n\n\n\n\n\n\n\nWhat successful strategies have you seen for group formation?"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#want-to-be-involved",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#want-to-be-involved",
-    "title": "LTER Synthesis Course",
-    "section": "Want to be Involved?",
-    "text": "Want to be Involved?\n \n\n\nLend us your experience and curiosity!\n\nTake a couple minutes and weigh in on our Discourse questions\n\n\n\n\n\n\n\nVolunteer to be an inspiration session speaker\n\nIf you have prior experience with synthesis\nEmail Marty Downs & Nick Lyon if this is of interest"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#want-more-information",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#want-more-information",
-    "title": "LTER Synthesis Course",
-    "section": "Want More Information?",
-    "text": "Want More Information?\n \n\nCheck out the LTER Network website page for SSECR!\n\nlternet.edu/ssecr\nWeb applications (for students and project mentors) are open\n\n\n\n\n\n\nCheck out the SSECR course materials!\n\nlter.github.io/ssecr\nMost modules are still under construction though"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_community-call-2024.html#thanks-questions",
-    "href": "slides_lter/lter-ssecr_community-call-2024.html#thanks-questions",
-    "title": "LTER Synthesis Course",
-    "section": "Thanks! Questions?",
-    "text": "Thanks! Questions?\n \n\n\n\n\n\n\n Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings\n\n\n\n\n\n\n\n Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_random-forest.html#under-construction",
-    "href": "slides_tutorials/tutorial_random-forest.html#under-construction",
-    "title": "Random Forest in R",
-    "section": "Under Construction",
-    "text": "Under Construction\nSee here"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#caveat-before-we-begin",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#caveat-before-we-begin",
-    "title": "Multivariate Statistics 101",
-    "section": "Caveat Before We Begin",
-    "text": "Caveat Before We Begin\n\n\n\nRead this book \n\n\n\n\nHas a complete R appendix for:\n\nEvery example\nEvery figure\nEvery operation\n\n\n\n\n\nEssentially the book is written in R Markdown\n\n\n\n\nBonus: actually pretty engaging to read!\n\nDespite subject matter"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#tutorial-outline",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#tutorial-outline",
-    "title": "Multivariate Statistics 101",
-    "section": "Tutorial Outline",
-    "text": "Tutorial Outline\n\n\nBackground\nResampling & Permutation\nMultivariate Data Visualization\nPrinciple Components Analysis\nNon-Metric Multidimensional Scaling"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#multivariate-background",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#multivariate-background",
-    "title": "Multivariate Statistics 101",
-    "section": "Multivariate Background",
-    "text": "Multivariate Background\n\nMultivariate data have more variables (p) than observations (q)\n\n\n\n\nI.e., more columns than rows\n\nTrue of most ecology/evolution datasets\n\n\n\n\n\nDiffers from univariate statistics\n\nUnivariate explores variation in one variable\nMultivariate explores variation in many variables (plus potential inter-relationships)"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#resampling-methods",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#resampling-methods",
-    "title": "Multivariate Statistics 101",
-    "section": "Resampling Methods",
-    "text": "Resampling Methods\n\nFrequentist statistics uses distributions from theory\n\n\n\n\n\n\nResampling statistics uses distributions from data"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#theoretical-process",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#theoretical-process",
-    "title": "Multivariate Statistics 101",
-    "section": "Theoretical Process",
-    "text": "Theoretical Process\n\nTake samples from data (i.e., “re-sample”)\n\n\n\nCompare real observations to re-sampled groups\n\n\n\n\nEvaluate significance"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#permutation-notes",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#permutation-notes",
-    "title": "Multivariate Statistics 101",
-    "section": "Permutation Notes",
-    "text": "Permutation Notes\n\nPermutation methods are non-parametric\n\nBecause they don’t rely on a theoretical distribution\n\n\n\n\n\n\nPermutation methods are flexible\n\nCan assess standard & non-standard experimental designs\nHandle high-dimensional data (more variables than observations)"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#two-major-flavors",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#two-major-flavors",
-    "title": "Multivariate Statistics 101",
-    "section": "Two Major “Flavors”",
-    "text": "Two Major “Flavors”"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#multivariate-visualization",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#multivariate-visualization",
-    "title": "Multivariate Statistics 101",
-    "section": "Multivariate Visualization",
-    "text": "Multivariate Visualization"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#principle-components-analysis-1",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#principle-components-analysis-1",
-    "title": "Multivariate Statistics 101",
-    "section": "Principle Components Analysis",
-    "text": "Principle Components Analysis"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#pca-process",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#pca-process",
-    "title": "Multivariate Statistics 101",
-    "section": "PCA Process",
-    "text": "PCA Process"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#pca-special-consideration",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#pca-special-consideration",
-    "title": "Multivariate Statistics 101",
-    "section": "PCA Special Consideration",
-    "text": "PCA Special Consideration"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
-    "title": "Multivariate Statistics 101",
-    "section": "Non-Metric Multidimensional Scaling",
-    "text": "Non-Metric Multidimensional Scaling"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#nms-process",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#nms-process",
-    "title": "Multivariate Statistics 101",
-    "section": "NMS Process",
-    "text": "NMS Process"
-  },
-  {
-    "objectID": "slides_tutorials/tutorial_multivar-stats.html#nms-helicopter-analogy",
-    "href": "slides_tutorials/tutorial_multivar-stats.html#nms-helicopter-analogy",
-    "title": "Multivariate Statistics 101",
-    "section": "NMS Helicopter Analogy",
-    "text": "NMS Helicopter Analogy"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#presentation-outline",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#presentation-outline",
-    "title": "LTER Synthesis Course",
-    "section": "Presentation Outline",
-    "text": "Presentation Outline\n \nLTER Network Background\nCourse Rationale\nCourse Structure & Content\nStudent Projects\nWhat’s Next"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#lter-sites",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#lter-sites",
-    "title": "LTER Synthesis Course",
-    "section": "LTER Sites",
-    "text": "LTER Sites\n \n\n\nEstablished in 1980\n27 sites in the network\nThousands of investigators\nHugely productive!\n\n&gt;7000 public datasets\n&gt;17000 journal articles"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#lter-site-longevity",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#lter-site-longevity",
-    "title": "LTER Synthesis Course",
-    "section": "LTER Site Longevity",
-    "text": "LTER Site Longevity"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#lter-core-research-areas",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#lter-core-research-areas",
-    "title": "LTER Synthesis Course",
-    "section": "LTER Core Research Areas",
-    "text": "LTER Core Research Areas\n \n\nPrimary Production \nPopulations & Communities \nDisturbance \nOrganic Matter \nInorganic Nutrients \nLand Use/Cover Change \nHuman-Environment Interactions"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#network-office-structure",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#network-office-structure",
-    "title": "LTER Synthesis Course",
-    "section": "Network Office Structure",
-    "text": "Network Office Structure"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#synthesis-research",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#synthesis-research",
-    "title": "LTER Synthesis Course",
-    "section": "Synthesis Research",
-    "text": "Synthesis Research\n \n\nHow do we define “synthesis”?\n\n\n\nSynthesis brings together the results of multiple studies to test novel hypotheses\n\n\n\n\n\n\nLTER research is hypothesis-driven\n\nMeans many different data are collected\n\n\n\n\n\n\n\nPerfect context for innovative synthesis work!"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#lter-working-groups",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#lter-working-groups",
-    "title": "LTER Synthesis Course",
-    "section": "LTER Working Groups",
-    "text": "LTER Working Groups\n \n\nSince 2016 we’ve funded 14 synthesis working groups\n\nMeet 3-4 times over two years\n\n\n\n\n\n\nGroups are immensely productive (≥6 publications per group)\n\n\n\n\n\n\nIn 2022 we started funding smaller, 1-meeting “SPARC” groups\n\nScientific Peers Advancing Research Collaboration\n\n\n\n\n\n\n\nGroups are enthusiastic and curious\n\nIn a word: joyful"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#working-group-process",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#working-group-process",
-    "title": "LTER Synthesis Course",
-    "section": "Working Group Process",
-    "text": "Working Group Process"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017",
-    "title": "LTER Synthesis Course",
-    "section": "Soil Organic Matter (2017)",
-    "text": "Soil Organic Matter (2017)\n \n\n\n\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-1",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-1",
-    "title": "LTER Synthesis Course",
-    "section": "Soil Organic Matter (2017)",
-    "text": "Soil Organic Matter (2017)\n \n\n\n\n\n‘What Non-Soil Ecologists Should Know about Collecting Soil Samples’\n\n\n\n\nExplicitly intended to benefit those outside of their discipline\n\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-2",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#soil-organic-matter-2017-2",
-    "title": "LTER Synthesis Course",
-    "section": "Soil Organic Matter (2017)",
-    "text": "Soil Organic Matter (2017)\n \n\n\n\n\n‘What Non-Soil Ecologists Should Know about Collecting Soil Samples’\n\n\n\n\nExplicitly intended to benefit those outside of their discipline\n\n\n\n\nData (and metadata) format workflow for soil data\n\n\n\n\nRelated philosophy to several other efforts at data format standardization\n\nE.g., ecocomDP (ediorg.github.io/ecocomDP), etc.\n\n\n\n\n\n\nBillings et al. 2021, Ecological Applications; Wieder et al. 2021, Earth Systems Science Data Discussions"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#biodiversity-productivity-2017",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#biodiversity-productivity-2017",
-    "title": "LTER Synthesis Course",
-    "section": "Biodiversity-Productivity (2017)",
-    "text": "Biodiversity-Productivity (2017)\n \n\n  \n  \n  \n \n\n\n\nO’Connor et al. 2021, Proceedings of the Royal Society B (ProcB); Mori et al. 2021, Nature Climate Change; Weng et al. 2021, Ecology; Gonzalez et al. 2020, Ecology Letters; Jochum et al. 2020, Nature Ecology & Evolution; Hautier et al. 2020, Nature Communications ; Dee et al. 2019, Trends in Ecology & Evolution (TrEE); Isbell et al. 2018, Ecology Letters; Mori et al. 2018, TrEE; Thompson et al. 2018, ProcB"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#silica-exports-2020",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#silica-exports-2020",
-    "title": "LTER Synthesis Course",
-    "section": "Silica Exports (2020)",
-    "text": "Silica Exports (2020)\n \n\n \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd researchers at 10 (of 28) LTER sites!\n\n\n\n\nJohnson et al. 2024, Limnology & Oceanography Letters; Jankowski et al. 2023, Global Biogeochemical Cycles"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#working-groups-ecrs",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#working-groups-ecrs",
-    "title": "LTER Synthesis Course",
-    "section": "Working Groups & ECRs",
-    "text": "Working Groups & ECRs\n \n\nMost groups include early career researchers (ECRs)\n\nTypically graduate students and post-docs\nSometimes even undergraduates!\n\n\n\n\n\n\nECRs get a ton out of participating\n\nNetworking, leadership opportunities, publications, job opportunities, etc.\n\n\n\n\n\n\n\nGroups get a lot out of including ECRs as well!\n\nNovel analytical methods, new perspectives, coding literacy"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#ecrs-synthesis-training",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#ecrs-synthesis-training",
-    "title": "LTER Synthesis Course",
-    "section": "ECRs & Synthesis Training",
-    "text": "ECRs & Synthesis Training\n \n\nECR demand for synthesis training far outstrips working group capacity\n\n\n\n\n\nInspired development of a course to provide these skills\n\nSynthesis Skills for Early Career Researchers (SSECR)\n\n\n\n\n\n\n\nSSECR aims to train ECRs in needed quantitative and inclusive facilitation skills\n\n\n\n\n\n\nTimed to leave students well prepared to apply for SPARC group funding"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#diversity-equity-and-inclusion",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#diversity-equity-and-inclusion",
-    "title": "LTER Synthesis Course",
-    "section": "Diversity, Equity, and Inclusion",
-    "text": "Diversity, Equity, and Inclusion\n \n\nThe LTER Network Office has two primary goals heading into our next funding cycle:\n\n\n\nGreater cultural, socioeconomic, and gender diversity throughout the LTER network\n\n\n\n\nMore rapid and innovative synthesis\n\n\n\n\n\n\n\nSSECR is built–in part–to support these goals"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#lter-program-framework",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#lter-program-framework",
-    "title": "LTER Synthesis Course",
-    "section": "LTER Program Framework",
-    "text": "LTER Program Framework"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#ssecr-goals",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#ssecr-goals",
-    "title": "LTER Synthesis Course",
-    "section": "SSECR Goals",
-    "text": "SSECR Goals\n \n\nWe have the following strategic goals for the course:\n\n\n\nSurface and test new synthesis ideas for feasibility\nPrepare more ECRs to be synthesis project leaders\nConnect LTER-affiliated ECRs across sites\nDevelop intergenerational linkages around synthesis"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#target-audience",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#target-audience",
-    "title": "LTER Synthesis Course",
-    "section": "Target Audience",
-    "text": "Target Audience\n \n\nWe’re looking to recruit graduate students actively working at/with LTER sites\n\n\n\n\n\n~30 students per cohort (about 1 per LTER site)\n\n\n\n\n\n\nIdeally have some primary research experience\n\nNo requirement for prior synthesis experience\n\n\n\n\n\n\n\nEstimated time commitment is 3 hours per week\n\nProducts of student projects hopefully persuasive to PIs / graduate committees"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#ssecr-structure",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#ssecr-structure",
-    "title": "LTER Synthesis Course",
-    "section": "SSECR Structure",
-    "text": "SSECR Structure\n \n\nCourse split into two major components:\n\n\n\n\nInstructional Modules\n\nStudent-Led Projects\n\n\n\n\n\n\n\nModule order reflects typical synthesis project evolution\n\nBased on working group model\n\n\n\n\n\n\n\nMore on projects shortly!"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#course-logistics",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#course-logistics",
-    "title": "LTER Synthesis Course",
-    "section": "Course Logistics",
-    "text": "Course Logistics\n \n\nCourse runs for 9 months (Sept - May)\n\n\n\n\n\nFirst full week in-person at NCEAS\n\nFacilitate cohort sense of community\nStudents form groups of 5-6 with interest in shared project idea\n\n\n\n\n\n\n\nBiweekly synchronous virtual meetings\n\nIn “off” weeks groups meet together / with project mentors"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#classes",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#classes",
-    "title": "LTER Synthesis Course",
-    "section": "Classes",
-    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc."
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#classes-1",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#classes-1",
-    "title": "LTER Synthesis Course",
-    "section": "Classes",
-    "text": "Classes\n \n\nClass meetings consist of inspiration and instruction\n\n\n\nInspiration\n\nApprox. 60 minutes\n\n\n\n\nLed by experienced synthesis scientist(s)\n\n\n\n\n\n\nDescribe experience, lend insight, provide guidance, etc.\n\n\nInstruction\n\nApprox. 120 minutes\n\n\n\n\nLed by LNO staff, guest speakers, LTER Network-recruited mentors\n\nLikely including other NCEAS folx!\n\n\n\n\n\nFocus on content module of the week"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#team-science-emphasis",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#team-science-emphasis",
-    "title": "LTER Synthesis Course",
-    "section": "Team Science Emphasis",
-    "text": "Team Science Emphasis\n \n\nSynthesis work requires meaningful teamwork\n\n\n\n\n\nModules focus on these “soft skills”\n\nConsistent inclusivity lens to modules in this category\n\n\n\n\n\n\n\nMany of these skills are particularly absent from graduate school curricula"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#quantitative-emphasis",
-    "title": "LTER Synthesis Course",
-    "section": "Quantitative Emphasis",
-    "text": "Quantitative Emphasis\n \n\nSynthesis work usually has significant quantitative needs\n\n\n\n\n\nExtensive harmonizing often pre-requisite to even cursory exploration\n\n\n\n\n\n\nQuality control requires an in-depth examination of each primary project’s metadata"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#module-categories",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#module-categories",
-    "title": "LTER Synthesis Course",
-    "section": "Module Categories",
-    "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\n\nTeam Science \n\nQuantitative Skills"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#module-categories-1",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#module-categories-1",
-    "title": "LTER Synthesis Course",
-    "section": "Module Categories",
-    "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#module-categories-2",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#module-categories-2",
-    "title": "LTER Synthesis Course",
-    "section": "Module Categories",
-    "text": "Module Categories\n \n15 proposed modules from the two categories\n\n\n\n\nTeam Science \n\nTeam Science Practices\nInclusive Facilitation\nSupporting Divergent, Emergent, and Convergent Thinking\nAuthorship & Intellectual Credit\nProject Management\nLogic Models\nCommunicating Findings\n\n\nQuantitative Skills \n\nReproducibility Best Practices\nVersion Control\nData Discovery & Management\nData Visualization and Exploration\nData Wrangling\nAnalysis & Modeling\nSpatial Data & Interactivity\nReproducible Reports"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#content-availability",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#content-availability",
-    "title": "LTER Synthesis Course",
-    "section": "Content Availability",
-    "text": "Content Availability\n \n\nWe hope this course content is valuable to as many people as possible\n\n\n\n\n\nTo ensure this, we’re making the full course materials publicly-available!\n\nlter.github.io/ssecr\n\n\n\n\n\n\n\nStudent project content may be made available\n\nDecision made by each team"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#projects-overview",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#projects-overview",
-    "title": "LTER Synthesis Course",
-    "section": "Projects Overview",
-    "text": "Projects Overview\n \n\nProjects designed, led, and run by students are a significant facet of SSECR\n\n\n\n\n\nGives applied context for skills learned during module instruction\n\n\n\n\n\n\nProject deliverables are incentives for student engagement\n\nAs well as their advisors/committees\n\n\n\n\n\n\n\nEach project team will be paired with a “synthesis mentor” to guide groups"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#project-mentors",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#project-mentors",
-    "title": "LTER Synthesis Course",
-    "section": "Project Mentors",
-    "text": "Project Mentors\n \n\nMentors are volunteers recruited due to synthesis experience\n\nPrimarily working group leaders and participants\n\n\n\n\n\n\nMentors will be assigned to teams based on discipline/ecosystem overlap\n\n\n\n\n\n\nTeams and mentors meet at least 5 times throughout the course"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#mentor-meetings",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#mentor-meetings",
-    "title": "LTER Synthesis Course",
-    "section": "Mentor Meetings",
-    "text": "Mentor Meetings\n \n\nContent and structure of team-mentor meetings is up to those involved\n\n\n\n\n\nTopics may include:\n\nSuggesting readings or collaborators\nDiscussing analytical approaches\nSharing experience / advice\n\n\n\n\n\n\n\nMentors also help teams on an interpersonal level as needed"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#project-work",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#project-work",
-    "title": "LTER Synthesis Course",
-    "section": "Project Work",
-    "text": "Project Work\n \n\nStudents will be encouraged to work on projects during “off weeks” of instruction\n\nBiweekly class structure meant to facilitate this\n\n\n\n\n\n\nProject mentor likely present at some (not all!) of these meetings\n\n\n\n\n\n\nModule order based on when project teams are likely to need those skills\n\nSome flexibility to share content earlier as needed"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#project-team-creation",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#project-team-creation",
-    "title": "LTER Synthesis Course",
-    "section": "Project Team Creation",
-    "text": "Project Team Creation\n \n\nStudents propose a synthesis project in their application\n\nAlso gathering ideas from working group / SPARC group participants\nProject mentors may also suggest topics\n\n\n\n\n\n\nTime set aside for teams/ideas to coalesce during in-person week\n\n\n\n\n\n\nPlanning for ~6 groups of 5-6 students each"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#menu-of-ideas",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#menu-of-ideas",
-    "title": "LTER Synthesis Course",
-    "section": "‘Menu of Ideas’",
-    "text": "‘Menu of Ideas’\n \n\nProject ideas from all sources will be retained in a ‘menu of ideas’\n\n\n\n\n\nEach LTER Network synthesis activity will have the chance to add to this menu\n\nWorking groups / SPARC groups\n‘Next Steps’ ideas produced by SSECR project teams\nAll Scientists’ Meeting (ASM) presentations\n\n\n\n\n\n\n\nSubsequent cohorts of students can adopt and/or adapt ideas from this menu\n\nIn addition to bringing their own ideas"
-  },
-  {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#ongoing-plans",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#ongoing-plans",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#ongoing-plans",
+    "href": "slides/lter-ssecr_roundtable-2024.html#ongoing-plans",
     "title": "LTER Synthesis Course",
     "section": "Ongoing Plans",
     "text": "Ongoing Plans\n \n\nRecruiting project mentors / course instructors\n\n\n\n\nRefining module learning objectives and content\n\nPlus aligned activities/readings\n\n\n\n\n\nRecently announced course to LTER Community\n\nMarch Community Call topic, new page on LTER website, etc."
   },
   {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#on-the-horizon",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#on-the-horizon",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#on-the-horizon",
+    "href": "slides/lter-ssecr_roundtable-2024.html#on-the-horizon",
     "title": "LTER Synthesis Course",
     "section": "On the Horizon",
     "text": "On the Horizon\n \nSpring 2024 - Student applications & application review\n\n\n\nSummer 2024 - Application decisions & SSECR Hackathon\n\n\n\n\nFall 2024 - Spring 2025 - First cohort of SSECR students!"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#wed-love-your-insight",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#wed-love-your-insight",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#wed-love-your-insight",
+    "href": "slides/lter-ssecr_roundtable-2024.html#wed-love-your-insight",
     "title": "LTER Synthesis Course",
     "section": "We’d Love Your Insight!",
     "text": "We’d Love Your Insight!\n \nPosting questions to the #nceas Slack channel today but here’s a taste:\n\n\n\n\nIn our module list, would you (A) drop or (B) add any topics?\n\nIf you would add a module, which module(s) would you drop to make space for it?\n\n\n\n\n\n\n\nWould you recommend any particular resources?\n\nCould include papers, websites, workshops, etc.\n\n\n\n\n\n\n\nWhat successful strategies have you seen for group formation?"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#want-to-be-involved",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#want-to-be-involved",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#want-to-be-involved",
+    "href": "slides/lter-ssecr_roundtable-2024.html#want-to-be-involved",
     "title": "LTER Synthesis Course",
     "section": "Want to be Involved?",
     "text": "Want to be Involved?\n \n\n\nLend us your experience and curiosity!\n\nTake a couple minutes and weigh in on our Slack questions\n\n\n\n\n\n\n\nVolunteer to be an inspiration session speaker\n\nIf you have prior experience with synthesis\n\n\n\n\n\n\n\nTalk with us about designing module content\n\nIf you have significant subject matter expertise\nThere is a small pool of funding for compensating module designers"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#want-more-information",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#want-more-information",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#want-more-information",
+    "href": "slides/lter-ssecr_roundtable-2024.html#want-more-information",
     "title": "LTER Synthesis Course",
     "section": "Want More Information?",
     "text": "Want More Information?\n \n\nCheck out the LTER Network website page for SSECR!\n\nlternet.edu/ssecr\nWeb applications (for students and project mentors) are open\n\n\n\n\n\n\nCheck out the SSECR course materials!\n\nlter.github.io/ssecr\nMost modules are still under construction though"
   },
   {
-    "objectID": "slides_lter/lter-ssecr_roundtable-2024.html#thanks-questions",
-    "href": "slides_lter/lter-ssecr_roundtable-2024.html#thanks-questions",
+    "objectID": "slides/lter-ssecr_roundtable-2024.html#thanks-questions",
+    "href": "slides/lter-ssecr_roundtable-2024.html#thanks-questions",
     "title": "LTER Synthesis Course",
     "section": "Thanks! Questions?",
     "text": "Thanks! Questions?\n \n\n\n\n\n\n\n Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings\n\n\n\n\n\n\n\n Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports"
+  },
+  {
+    "objectID": "slides/tutorial_random-forest.html#under-construction",
+    "href": "slides/tutorial_random-forest.html#under-construction",
+    "title": "Random Forest in R",
+    "section": "Under Construction",
+    "text": "Under Construction\nSee here"
   },
   {
     "objectID": "home_tutorials.html",
