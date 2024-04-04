@@ -936,7 +936,7 @@ Posting questions to the `#nceas` Slack channel _today_ but here's a taste:
     - [lter.github.io/ssecr](https://lter.github.io/ssecr/)
     - Most modules are still under construction though
 
-## [Thanks! Questions?]{.cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
+## [Thanks! Questions?]{.cream} {.smaller background-image="images_general/pic-flea-beetle.jpg"}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
