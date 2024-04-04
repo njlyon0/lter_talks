@@ -56,3 +56,8 @@ rsconnect/
 
 # Rendered docs folder
 docs/
+
+# Weird temporary Microsoft Office content
+~$*.pptx
+~$*.docx
+~$*.xlsx
