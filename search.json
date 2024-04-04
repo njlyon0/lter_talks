@@ -46,7 +46,7 @@
     "href": "slides/tutorial_multivar-stats.html#multivariate-background",
     "title": "Multivariate Statistics 101",
     "section": "Multivariate Background",
-    "text": "Multivariate Background\n\nMultivariate data have more variables (p) than observations (q)\n\n\n\n\nI.e., more columns than rows\n\nTrue of most ecology/evolution datasets\n\n\n\n\n\nDiffers from univariate statistics\n\nUnivariate explores variation in one variable\nMultivariate explores variation in many variables (plus potential inter-relationships)"
+    "text": "Multivariate Background\n\nMultivariate data have more variables (p) than observations (q)\n\n\n\n\n\nI.e., more columns than rows\n\nTrue of most ecology/evolution datasets\n\n\n\n\n\n\n\nDiffers from univariate statistics\n\nUnivariate explores variation in one variable\nMultivariate explores variation in many variables (plus potential inter-relationships)"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#resampling-methods",
@@ -466,7 +466,7 @@
     "href": "slides/tutorial_random-forest.html#under-construction",
     "title": "Random Forest in R",
     "section": "Under Construction",
-    "text": "Under Construction\nSee here"
+    "text": "Under Construction\nSee original content here"
   },
   {
     "objectID": "slides/lter-ssecr_roundtable-2024.html#presentation-outline",
