@@ -28,11 +28,95 @@
     "text": "Tutorials\nI occasionally get invited to present tutorials of specific data science skills. Previously I had housed these tutorials in standalone  GitHub repositories but now that this website exists it seems like a nice opportunity to do some consolidation (for ease of future maintenance)."
   },
   {
-    "objectID": "slides/tutorial_multivar-stats.html#under-construction",
-    "href": "slides/tutorial_multivar-stats.html#under-construction",
+    "objectID": "slides/tutorial_multivar-stats.html#caveat-before-we-begin",
+    "href": "slides/tutorial_multivar-stats.html#caveat-before-we-begin",
     "title": "Multivariate Statistics 101",
-    "section": "Under Construction",
-    "text": "Under Construction\nSee here"
+    "section": "Caveat Before We Begin",
+    "text": "Caveat Before We Begin\n\n\n\nRead this book \n\n\n\n\nHas a complete R appendix for:\n\nEvery example\nEvery figure\nEvery operation\n\n\n\n\n\nEssentially the book is written in R Markdown\n\n\n\n\nBonus: actually pretty engaging to read!\n\nDespite subject matter"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#tutorial-outline",
+    "href": "slides/tutorial_multivar-stats.html#tutorial-outline",
+    "title": "Multivariate Statistics 101",
+    "section": "Tutorial Outline",
+    "text": "Tutorial Outline\n\n\nBackground\nResampling & Permutation\nMultivariate Data Visualization\nPrinciple Components Analysis\nNon-Metric Multidimensional Scaling"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#multivariate-background",
+    "href": "slides/tutorial_multivar-stats.html#multivariate-background",
+    "title": "Multivariate Statistics 101",
+    "section": "Multivariate Background",
+    "text": "Multivariate Background"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#resamplingpermutation-methods",
+    "href": "slides/tutorial_multivar-stats.html#resamplingpermutation-methods",
+    "title": "Multivariate Statistics 101",
+    "section": "Resampling/Permutation Methods",
+    "text": "Resampling/Permutation Methods"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#theoretical-process",
+    "href": "slides/tutorial_multivar-stats.html#theoretical-process",
+    "title": "Multivariate Statistics 101",
+    "section": "Theoretical Process",
+    "text": "Theoretical Process"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#two-major-flavors",
+    "href": "slides/tutorial_multivar-stats.html#two-major-flavors",
+    "title": "Multivariate Statistics 101",
+    "section": "Two Major “Flavors”",
+    "text": "Two Major “Flavors”"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#multivariate-visualization",
+    "href": "slides/tutorial_multivar-stats.html#multivariate-visualization",
+    "title": "Multivariate Statistics 101",
+    "section": "Multivariate Visualization",
+    "text": "Multivariate Visualization"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#principle-components-analysis-1",
+    "href": "slides/tutorial_multivar-stats.html#principle-components-analysis-1",
+    "title": "Multivariate Statistics 101",
+    "section": "Principle Components Analysis",
+    "text": "Principle Components Analysis"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#pca-process",
+    "href": "slides/tutorial_multivar-stats.html#pca-process",
+    "title": "Multivariate Statistics 101",
+    "section": "PCA Process",
+    "text": "PCA Process"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#pca-special-consideration",
+    "href": "slides/tutorial_multivar-stats.html#pca-special-consideration",
+    "title": "Multivariate Statistics 101",
+    "section": "PCA Special Consideration",
+    "text": "PCA Special Consideration"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
+    "href": "slides/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
+    "title": "Multivariate Statistics 101",
+    "section": "Non-Metric Multidimensional Scaling",
+    "text": "Non-Metric Multidimensional Scaling"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#nms-process",
+    "href": "slides/tutorial_multivar-stats.html#nms-process",
+    "title": "Multivariate Statistics 101",
+    "section": "NMS Process",
+    "text": "NMS Process"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#nms-helicopter-analogy",
+    "href": "slides/tutorial_multivar-stats.html#nms-helicopter-analogy",
+    "title": "Multivariate Statistics 101",
+    "section": "NMS Helicopter Analogy",
+    "text": "NMS Helicopter Analogy"
   },
   {
     "objectID": "slides/lter-ssecr_community-call-2024.html#presentation-outline",
