@@ -1,0 +1,18 @@
+---
+title: "Random Forest in R"
+author: "Nick J Lyon"
+engine: knitr
+format: 
+  revealjs: 
+    slide-number: c
+    scrollable: false
+    code-overflow: wrap
+    code-line-numbers: false
+    code-copy: hover
+    theme: [night, teach.scss]
+    reference-location: document
+---
+
+## Under Construction
+
+See [here](https://github.com/njlyon0/lyon-tutorial_random-forest)

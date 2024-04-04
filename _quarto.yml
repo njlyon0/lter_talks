@@ -11,6 +11,8 @@ website:
     left:
       - text: "LTER"
         href: home_lter.qmd
+      - text: "Tutorials"
+        href: home_tutorials.qmd
     right:
       - text: "Profile"
         href: https://njlyon0.github.io/
