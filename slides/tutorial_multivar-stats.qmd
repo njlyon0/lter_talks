@@ -39,7 +39,7 @@ format:
 :::
 :::{.column width="40%"}
 
-<img src="tutorial_images/manly-navarro_multivar-primer-cover.jpg" alt="Cover of the fourth edition of 'Multivariate Statistical Methods: A Primer' by Bryan FJ Manly and Jorge A Navarro Alberto">
+<img src="images_tutorials/manly-navarro_multivar-primer-cover.jpg" alt="Cover of the fourth edition of 'Multivariate Statistical Methods: A Primer' by Bryan FJ Manly and Jorge A Navarro Alberto">
 
 :::
 ::::
@@ -74,7 +74,7 @@ format:
 - Frequentist statistics uses distributions _from theory_
 
 <p align="center">
-<img src="tutorial_images/distributions_theoretical.png" alt="Graphs of several common data distributions found in theory" width="80%">
+<img src="images_tutorials/distributions_theoretical.png" alt="Graphs of several common data distributions found in theory" width="80%">
 </p>
 
 . . .
@@ -82,7 +82,7 @@ format:
 - Resampling statistics uses distributions _from data_
 
 <p align="center">
-<img src="tutorial_images/distributions_from-data.png" alt="Graph of a sort of irregular histogram" width="15%">
+<img src="images_tutorials/distributions_from-data.png" alt="Graph of a sort of irregular histogram" width="15%">
 </p>
 
 ## [Theoretical Process]{.orange}

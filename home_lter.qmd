@@ -16,17 +16,17 @@ As part of the 2025-29 renewal proposal to the National Science Foundation the L
 Invited to give a presentation at National Center for Ecological Analysis and Synthesis (NCEAS) at the monthly "roundtable" presentation.
 
 ```{=html}
-<iframe class="slide-deck" src="slides_lter/lter-ssecr_roundtable-2024.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="slides/lter-ssecr_roundtable-2024.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-[Roundtable Slides -- Full Screen](slides_lter/lter-ssecr_roundtable-2024.qmd)
+[Roundtable Slides -- Full Screen](slides/lter-ssecr_roundtable-2024.qmd)
 
 ### LTER Community Call (2024)
 
 [Marty Downs](https://orcid.org/0000-0003-2833-956X) and I co-presented at the March LTER Community Call.
 
 ```{=html}
-<iframe class="slide-deck" src="slides_lter/lter-ssecr_community-call-2024.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="slides/lter-ssecr_community-call-2024.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-[Community Call Slides -- Full Screen](slides_lter/lter-ssecr_community-call-2024.qmd)
+[Community Call Slides -- Full Screen](slides/lter-ssecr_community-call-2024.qmd)

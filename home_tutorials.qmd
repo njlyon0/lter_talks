@@ -14,10 +14,10 @@ Guest lecture to EEB698 (Data Management and Analysis in R for Ecologists and Ev
 See: https://github.com/njlyon0/lyon-tutorial_multivariate-intro
 
 ```{=html}
-<iframe class="slide-deck" src="slides_tutorials/tutorial_multivar-stats.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="slides/tutorial_multivar-stats.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-[Multivariate Slides -- Full Screen](slides_tutorials/tutorial_multivar-stats.qmd)
+[Multivariate Slides -- Full Screen](slides/tutorial_multivar-stats.qmd)
 
 ## Intro to Random Forest
 
@@ -26,8 +26,8 @@ Admittedly brief tutorial for the basics of running a random forest model in R.
 See: https://github.com/njlyon0/lyon-tutorial_random-forest
 
 ```{=html}
-<iframe class="slide-deck" src="slides_tutorials/tutorial_random-forest.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="slides/tutorial_random-forest.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-[Random Forest Slides -- Full Screen](slides_tutorials/tutorial_random-forest.qmd)
+[Random Forest Slides -- Full Screen](slides/tutorial_random-forest.qmd)
 
