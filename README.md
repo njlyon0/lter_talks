@@ -1,3 +1,3 @@
-# Long Term Ecological Research Presentations
+# Lyon Presentations
 
-This repository houses some of my LTER-related presentations. Convenient for centralizing formatting elements across different talks as well as preserving/sharing finished presentations.
+This repository houses some of my "one-off" presentations. This includes those delivered as part of my work with NCEAS/the LTER Network as well as various code tutorials.
