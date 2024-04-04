@@ -13,6 +13,88 @@ format:
     reference-location: document
 ---
 
-## Under Construction
+## Caveat Before We Begin {.smaller}
 
-See [here](https://github.com/njlyon0/lyon-tutorial_multivariate-intro)
+::::{.columns}
+:::{.column width="60%"}
+
+- Read this book {{< fa arrow-right >}}
+
+\
+
+- Has a complete R appendix for:
+    - Every example
+    - Every figure
+    - Every operation
+
+\
+
+- Essentially the book is written in R Markdown
+
+\
+
+- Bonus: actually pretty engaging to read!
+    - Despite subject matter
+
+:::
+:::{.column width="40%"}
+
+<img src="tutorial_images/manly-navarro_multivar-primer-cover.jpg" alt="Cover of the fourth edition of 'Multivariate Statistical Methods: A Primer' by Bryan FJ Manly and Jorge A Navarro Alberto">
+
+:::
+::::
+
+## Tutorial Outline
+
+\
+
+### [Background]{.purple}
+### [Resampling & Permutation]{.orange}
+### [Multivariate Data Visualization]{.gold}
+### [Principle Components Analysis]{.pink}
+### [Non-Metric Multidimensional Scaling]{.blue}
+
+## [Multivariate Background]{.purple}
+
+
+
+## [Resampling/Permutation Methods]{.orange}
+
+
+
+## [Theoretical Process]{.orange}
+
+
+
+## [Two Major "Flavors"]{.orange}
+
+
+
+## [Multivariate Visualization]{.gold}
+
+
+
+## [Principle Components Analysis]{.pink}
+
+
+
+## [PCA Process]{.pink}
+
+
+
+## [PCA Special Consideration]{.pink}
+
+
+
+## [Non-Metric Multidimensional Scaling]{.blue}
+
+
+
+## [NMS Process]{.blue}
+
+
+
+## [NMS Helicopter Analogy]{.blue}
+
+
+
