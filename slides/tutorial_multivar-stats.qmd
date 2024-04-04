@@ -9,7 +9,7 @@ format:
     code-overflow: wrap
     code-line-numbers: false
     code-copy: hover
-    theme: [night, teach.scss]
+    theme: [simple, slides_theme.scss]
     reference-location: document
 ---
 
@@ -48,13 +48,13 @@ format:
 
 \
 
-### [Background]{.purple}
-### [Resampling & Permutation]{.orange}
-### [Multivariate Data Visualization]{.gold}
-### [Principle Components Analysis]{.pink}
-### [Non-Metric Multidimensional Scaling]{.blue}
+### [Background]{.edu-purple}
+### [Resampling & Permutation]{.edu-orange}
+### [Multivariate Data Visualization]{.edu-gold}
+### [Principle Components Analysis]{.edu-pink}
+### [Non-Metric Multidimensional Scaling]{.edu-blue}
 
-## [Multivariate Background]{.purple} {.smaller}
+## [Multivariate Background]{.edu-purple} {.smaller}
 
 > Multivariate data have more variables (_p_) than observations (_q_)
 
@@ -69,7 +69,7 @@ format:
     - Univariate explores variation in _one_ variable
     - Multivariate explores variation in _many_ variables (plus potential inter-relationships)
 
-## [Resampling Methods]{.orange}
+## [Resampling Methods]{.edu-orange}
 
 - Frequentist statistics uses distributions _from theory_
 
@@ -85,7 +85,7 @@ format:
 <img src="images_tutorials/distributions_from-data.png" alt="Graph of a sort of irregular histogram" width="15%">
 </p>
 
-## [Theoretical Process]{.orange}
+## [Theoretical Process]{.edu-orange}
 
 1. Take samples from data (i.e., "re-sample")
 
@@ -97,7 +97,7 @@ format:
 
 3. Evaluate significance
 
-## [Permutation Notes]{.orange}
+## [Permutation Notes]{.edu-orange}
 
 - Permutation methods are **non-parametric**
     - Because they don't rely on a theoretical distribution
@@ -111,35 +111,35 @@ format:
     - Handle high-dimensional data (more variables than observations)
 
 
-## [Two Major "Flavors"]{.orange}
+## [Two Major "Flavors"]{.edu-orange}
 
 
 
-## [Multivariate Visualization]{.gold}
+## [Multivariate Visualization]{.edu-gold}
 
 
 
-## [Principle Components Analysis]{.pink}
+## [Principle Components Analysis]{.edu-pink}
 
 
 
-## [PCA Process]{.pink}
+## [PCA Process]{.edu-pink}
 
 
 
-## [PCA Special Consideration]{.pink}
+## [PCA Special Consideration]{.edu-pink}
 
 
 
-## [Non-Metric Multidimensional Scaling]{.blue}
+## [Non-Metric Multidimensional Scaling]{.edu-blue}
 
 
 
-## [NMS Process]{.blue}
+## [NMS Process]{.edu-blue}
 
 
 
-## [NMS Helicopter Analogy]{.blue}
+## [NMS Helicopter Analogy]{.edu-blue}
 
 
 

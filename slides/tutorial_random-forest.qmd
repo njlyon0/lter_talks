@@ -9,7 +9,7 @@ format:
     code-overflow: wrap
     code-line-numbers: false
     code-copy: hover
-    theme: [night, teach.scss]
+    theme: [simple, slides_theme.scss]
     reference-location: document
 ---
 

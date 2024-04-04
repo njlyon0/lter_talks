@@ -1,7 +1,7 @@
 {
-  "hash": "2bac4b59bcbe219c7cdfff485cd511b2",
+  "hash": "48bfd643e090336848ccf19a55858c7b",
   "result": {
-    "markdown": "---\ntitle: \"Random Forest in R\"\nauthor: \"Nick J Lyon\"\nengine: knitr\nformat: \n  revealjs: \n    slide-number: c\n    scrollable: false\n    code-overflow: wrap\n    code-line-numbers: false\n    code-copy: hover\n    theme: [night, teach.scss]\n    reference-location: document\n---\n\n\n## Under Construction\n\nSee [here](https://github.com/njlyon0/lyon-tutorial_random-forest)",
+    "markdown": "---\ntitle: \"Random Forest in R\"\nauthor: \"Nick J Lyon\"\nengine: knitr\nformat: \n  revealjs: \n    slide-number: c\n    scrollable: false\n    code-overflow: wrap\n    code-line-numbers: false\n    code-copy: hover\n    theme: [simple, slides_theme.scss]\n    reference-location: document\n---\n\n\n## Under Construction\n\nSee [here](https://github.com/njlyon0/lyon-tutorial_random-forest)",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

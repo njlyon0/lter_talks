@@ -9,7 +9,7 @@ format:
     code-overflow: wrap
     code-line-numbers: false
     code-copy: hover
-    theme: [simple, lter.scss]
+    theme: [simple, slides_theme.scss]
     reference-location: document
 ---
 
@@ -18,17 +18,17 @@ format:
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-### [LTER Network Background]{.brown}
+### [LTER Network Background]{.lter-brown}
 
-### [Course Rationale]{.light-green}
+### [Course Rationale]{.lter-light-green}
 
-### [Course Structure & Content]{.dark-green}
+### [Course Structure & Content]{.lter-dark-green}
 
-### [Student Projects]{.dark-blue}
+### [Student Projects]{.lter-dark-blue}
 
-### [What's Next]{.light-blue}
+### [What's Next]{.lter-light-blue}
 
-## [LTER Sites]{.brown}
+## [LTER Sites]{.lter-brown}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -45,7 +45,7 @@ format:
     - \>7000 public datasets
     - \>17000 journal articles
 
-## [LTER Site Longevity]{.brown}
+## [LTER Site Longevity]{.lter-brown}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -54,26 +54,26 @@ format:
 <img src="images_lter/graph-timeline.jpg" alt="Timeline of LTER sites showing that many sites have existed for several decades" width="80%">
 </p>
 
-## [LTER Core Research Areas]{.brown}
+## [LTER Core Research Areas]{.lter-brown}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
 - <span style="color:#C0D13A">**Primary Production** {{< fa seedling >}}</span> 
 
-- [**Populations & Communities** {{< fa bugs >}}]{.light-green}
+- [**Populations & Communities** {{< fa bugs >}}]{.lter-light-green}
 
-- [**Disturbance** {{< fa tornado >}}]{.dark-green}
+- [**Disturbance** {{< fa tornado >}}]{.lter-dark-green}
 
-- [**Organic Matter** {{< fa poo >}}]{.dark-blue} 
+- [**Organic Matter** {{< fa poo >}}]{.lter-dark-blue} 
 
 - <span style="color:#09A7C9">**Inorganic Nutrients** {{< fa flask >}}</span> 
 
-- [**Land Use/Cover Change** {{< fa sun-plant-wilt >}}]{.light-blue} 
+- [**Land Use/Cover Change** {{< fa sun-plant-wilt >}}]{.lter-light-blue} 
 
-- [**Human-Environment Interactions** {{< fa industry >}}]{.brown} 
+- [**Human-Environment Interactions** {{< fa industry >}}]{.lter-brown} 
 
-## [Network Office Structure]{.brown}
+## [Network Office Structure]{.lter-brown}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -84,7 +84,7 @@ format:
 <img src="images_lter/diagram-lno.png" alt="Organization chart of the LTER Network Office showing the executive director, director, data analyst, community engagement officer, inclusion and access coordinator, and communications officer positions (from top to bottom)" width="85%">
 </p>
 
-## [Synthesis Research]{.light-green} {.smaller}
+## [Synthesis Research]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -93,7 +93,7 @@ format:
 
 . . .
 
-> <u>**Synthesis**</u> brings together the results of [**multiple studies**]{.dark-green} to test [**novel hypotheses**]{.dark-blue}
+> <u>**Synthesis**</u> brings together the results of [**multiple studies**]{.lter-dark-green} to test [**novel hypotheses**]{.lter-dark-blue}
 
 \
 
@@ -108,12 +108,12 @@ format:
 
 - Perfect context for innovative synthesis work!
 
-## [LTER Working Groups]{.light-green} {.smaller}
+## [LTER Working Groups]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
 
-- Since 2016 we've funded 14 [synthesis working groups]{.light-blue}
+- Since 2016 we've funded 14 [synthesis working groups]{.lter-light-blue}
     - Meet 3-4 times over two years
 
 \
@@ -136,7 +136,7 @@ format:
 - Groups are enthusiastic and curious
     - In a word: joyful
 
-## [Working Group Process]{.light-green} {.smaller}
+## [Working Group Process]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -147,7 +147,7 @@ format:
 <img src="images_lter/diagram-group-process.png" alt="Diagram of the evolution of a working group from data retrieval to analysis to publication and data preservation" width="85%">
 </p>
 
-## [Soil Organic Matter (2017)]{.light-green} {.smaller}
+## [Soil Organic Matter (2017)]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -165,7 +165,7 @@ format:
 Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth Systems Science Data Discussions
 :::
 
-## [Soil Organic Matter (2017)]{.light-green} {.smaller}
+## [Soil Organic Matter (2017)]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -190,7 +190,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth Systems Science Data Discussions
 :::
 
-## [Soil Organic Matter (2017)]{.light-green} {.smaller}
+## [Soil Organic Matter (2017)]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -223,7 +223,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth Systems Science Data Discussions
 :::
 
-## [Biodiversity-Productivity (2017)]{.light-green} {.smaller}
+## [Biodiversity-Productivity (2017)]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -251,7 +251,7 @@ Billings _et al._ 2021, Ecological Applications**;** Wieder _et al._ 2021, Earth
 O'Connor _et al._ 2021, Proceedings of the Royal Society B (ProcB)**;** Mori _et al._ 2021, Nature Climate Change**;** Weng _et al._ 2021, Ecology**;** Gonzalez _et al._ 2020, Ecology Letters**;** Jochum _et al._ 2020, Nature Ecology & Evolution**;** Hautier _et al._ 2020, Nature Communications **;** Dee _et al._ 2019, Trends in Ecology & Evolution (TrEE)**;** Isbell _et al._ 2018, Ecology Letters**;** Mori _et al._ 2018, TrEE**;** Thompson _et al._ 2018, ProcB
 :::
 
-## [Silica Exports (2020)]{.light-green} {.smaller}
+## [Silica Exports (2020)]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -290,7 +290,7 @@ O'Connor _et al._ 2021, Proceedings of the Royal Society B (ProcB)**;** Mori _et
 Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 2023, Global Biogeochemical Cycles
 :::
 
-## [Working Groups & ECRs]{.light-green} {.smaller}
+## [Working Groups & ECRs]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -313,7 +313,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 - Groups get a lot out of including ECRs as well!
     - Novel analytical methods, new perspectives, coding literacy
 
-## [ECRs & Synthesis Training]{.light-green} {.smaller}
+## [ECRs & Synthesis Training]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -339,7 +339,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Timed to leave students well prepared to apply for SPARC group funding
 
-## [Diversity, Equity, and Inclusion]{.light-green} {.smaller}
+## [Diversity, Equity, and Inclusion]{.lter-light-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -361,7 +361,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - SSECR is built--in part--to support these goals
 
-## [LTER Program Framework]{.light-green}
+## [LTER Program Framework]{.lter-light-green}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -375,7 +375,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 :::
 
-## [SSECR Goals]{.dark-green}
+## [SSECR Goals]{.lter-dark-green}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -391,7 +391,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 :::
 
-## [Target Audience]{.dark-green} {.smaller}
+## [Target Audience]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -416,9 +416,9 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 . . . 
 
 - Estimated time commitment is 3 hours per week
-    - Products of [student projects]{.dark-blue} hopefully persuasive to PIs / graduate committees
+    - Products of [student projects]{.lter-dark-blue} hopefully persuasive to PIs / graduate committees
 
-## [SSECR Structure]{.dark-green} {.smaller}
+## [SSECR Structure]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -449,9 +449,9 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 . . .
 
-- More on [projects]{.dark-blue} shortly!
+- More on [projects]{.lter-dark-blue} shortly!
 
-## [Course Logistics]{.dark-green} {.smaller}
+## [Course Logistics]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -473,7 +473,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 - Biweekly synchronous virtual meetings
     - In "off" weeks groups meet together / with project mentors
 
-## [Classes]{.dark-green} {.smaller}
+## [Classes]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -503,7 +503,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 :::
 ::::
 
-## [Classes]{.dark-green} {.smaller}
+## [Classes]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -543,7 +543,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 :::
 ::::
 
-## [Team Science Emphasis]{.dark-green}
+## [Team Science Emphasis]{.lter-dark-green}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -564,7 +564,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Many of these skills are particularly absent from graduate school curricula
 
-## [Quantitative Emphasis]{.dark-green}
+## [Quantitative Emphasis]{.lter-dark-green}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -583,7 +583,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Quality control requires an in-depth examination of _each_ primary project's metadata
 
-## [Module Categories]{.dark-green} {.smaller}
+## [Module Categories]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -607,7 +607,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 :::
 ::::
 
-## [Module Categories]{.dark-green} {.smaller}
+## [Module Categories]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -637,7 +637,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 :::
 ::::
 
-## [Module Categories]{.dark-green} {.smaller}
+## [Module Categories]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -676,7 +676,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 :::
 ::::
 
-## [Content Availability]{.dark-green} {.smaller}
+## [Content Availability]{.lter-dark-green} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -694,10 +694,10 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 . . .
 
-- Student [project]{.dark-blue} content may be made available
+- Student [project]{.lter-dark-blue} content may be made available
     - Decision made by each team
 
-## [Projects Overview]{.dark-blue} {.smaller}
+## [Projects Overview]{.lter-dark-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -723,7 +723,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Each project team will be paired with a "synthesis mentor" to guide groups
 
-## [Project Mentors]{.dark-blue} {.smaller}
+## [Project Mentors]{.lter-dark-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -744,7 +744,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Teams and mentors meet _at least_ 5 times throughout the course
 
-## [Mentor Meetings]{.dark-blue} {.smaller}
+## [Mentor Meetings]{.lter-dark-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -766,7 +766,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Mentors also help teams on an interpersonal level as needed
 
-## [Project Work]{.dark-blue} {.smaller}
+## [Project Work]{.lter-dark-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -787,7 +787,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 - Module order based on when project teams are likely to need those skills
     - Some flexibility to share content earlier as needed
 
-## [Project Team Creation]{.dark-blue} {.smaller}
+## [Project Team Creation]{.lter-dark-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -808,7 +808,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 - Planning for \~6 groups of 5-6 students each
 
-## ['Menu of Ideas']{.dark-blue} {.smaller}
+## ['Menu of Ideas']{.lter-dark-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -831,7 +831,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 - Subsequent cohorts of students can adopt and/or adapt ideas from this menu
     - In addition to bringing their own ideas
 
-## [Ongoing Plans]{.light-blue}
+## [Ongoing Plans]{.lter-light-blue}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -843,7 +843,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 - Refining module learning objectives and content
     - Plus aligned activities/readings
 
-## [On the Horizon]{.light-blue} {.smaller}
+## [On the Horizon]{.lter-light-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -868,7 +868,7 @@ Johnson _et al._ 2024, Limnology & Oceanography Letters**;** Jankowski _et al._ 
 
 **Fall 2024 - Spring 2025** - First cohort of SSECR students!
 
-## [We'd Love Your Insight!]{.light-blue} {.smaller}
+## [We'd Love Your Insight!]{.lter-light-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -895,7 +895,7 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
 
 - What successful strategies have you seen for group formation?
 
-## [Want to be Involved?]{.light-blue} {.smaller}
+## [Want to be Involved?]{.lter-light-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -913,7 +913,7 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
     - If you have prior experience with synthesis
     - Email Marty Downs & Nick Lyon if this is of interest
 
-## [Want More Information?]{.light-blue} {.smaller}
+## [Want More Information?]{.lter-light-blue} {.smaller}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -930,7 +930,7 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
     - [lter.github.io/ssecr](https://lter.github.io/ssecr/)
     - Most modules are still under construction though
 
-## [Thanks! Questions?]{.cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
+## [Thanks! Questions?]{.lter-cream} {.smaller background-image="gen_images/pic-flea-beetle.jpg"}
 
 ![NCEAS logo](images_lter/logo-nceas.png){.absolute top=-30 left=820 width="12%"}
 ![LTER logo](images_lter/logo-lter.png){.absolute top=-21 left=950 width="10%"}
@@ -943,7 +943,7 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
 \
 \
 
-[{{< fa people-group >}} Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings]{.cream}
+[{{< fa people-group >}} Team Science Practices; Inclusive Facilitation; Supporting D.E.C. Thinking; Authorship & Intellectual Credit; Project Management; Logic Models; Communicating Findings]{.lter-cream}
 :::
 :::{.column width="15%"}
 
@@ -954,6 +954,6 @@ Posting questions to the [LTER Discourse](https://lternet.discourse.group/catego
 \
 \
 
-[{{< fa screwdriver-wrench >}} Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports]{.cream}
+[{{< fa screwdriver-wrench >}} Reproducibility Best Practices; Version Control; Data Discovery & Management; Data Visualization and Exploration; Data Wrangling; Analysis & Modeling; Spatial Data & Interactivity; Reproducible Reports]{.lter-cream}
 :::
 ::::

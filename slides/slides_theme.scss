@@ -1,0 +1,56 @@
+/*-- scss:defaults --*/
+
+// LTER Colors
+$lter-brown: #8B5E3A;
+$lter-yellow: #FFDE15;
+$lter-green-1: #C0D13A;
+$lter-green-2: #94AA3B;
+$lter-green-3: #4B7838;
+$lter-green-4: #305B2C;
+$lter-blue-1: #66CAD3;
+$lter-blue-2: #09A7C9;
+$lter-blue-3: #197FC2;
+
+// Teaching Colors
+$edu-blue: #588FF9;
+$edu-purple: #725EEC;
+$edu-pink: #DF227C;
+$edu-orange: #FF6018;
+$edu-gold: #FFB02F;
+
+// General Colors
+$cream: #F4F3EE;
+$charcoal: #222222;
+$black: #000000;
+
+// Hyperlink Color
+$url-blue: #01BAEF;
+$link-color: $url-blue;
+
+// Define Defaults
+$body-bg: $cream;
+$body-color: $charcoal;
+
+/*-- scss:rules --*/
+
+// General Rules
+.cream { color: $cream; }
+.char { color: $charcoal; }
+
+// LTER Rules
+.lter-brown { color: $lter-brown; }
+.lter-yellow { color: $lter-yellow; }
+.lter-light-green { color: $lter-green-2; }
+.lter-dark-green { color: $lter-green-3; }
+.lter-dark-blue { color: $lter-blue-3; }
+.lter-light-blue { color: $lter-blue-1; }
+
+// Teaching Rules
+.edu-blue { color: $edu-blue; }
+.edu-purple { color: $edu-purple; }
+.edu-pink { color: $edu-pink; }
+.edu-orange { color: $edu-orange; }
+.edu-gold { color: $edu-gold; }
+
+//Underline URLs
+.reveal .slide a { text-decoration: underline; }
