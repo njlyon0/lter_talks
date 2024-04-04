@@ -384,14 +384,81 @@ Nick J Lyon
 <h3 id="principle-components-analysis"><span class="pink">Principle Components Analysis</span></h3>
 <h3 id="non-metric-multidimensional-scaling"><span class="blue">Non-Metric Multidimensional Scaling</span></h3>
 </section>
-<section id="multivariate-background" class="slide level2">
+<section id="multivariate-background" class="slide level2 smaller">
 <h2><span class="purple">Multivariate Background</span></h2>
+<blockquote>
+<p>Multivariate data have more variables (<em>p</em>) than observations (<em>q</em>)</p>
+</blockquote>
+<p><br>
+</p>
+<ul>
+<li>I.e., more columns than rows
+<ul>
+<li>True of most ecology/evolution datasets</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<ul>
+<li>Differs from univariate statistics
+<ul>
+<li>Univariate explores variation in <em>one</em> variable</li>
+<li>Multivariate explores variation in <em>many</em> variables (plus potential inter-relationships)</li>
+</ul></li>
+</ul>
 </section>
-<section id="resamplingpermutation-methods" class="slide level2">
-<h2><span class="orange">Resampling/Permutation Methods</span></h2>
+<section id="resampling-methods" class="slide level2">
+<h2><span class="orange">Resampling Methods</span></h2>
+<ul>
+<li>Frequentist statistics uses distributions <em>from theory</em></li>
+</ul>
+<p align="center">
+<img src="tutorial_images/distributions_theoretical.png" alt="Graphs of several common data distributions found in theory" width="80%">
+</p>
+<div class="fragment">
+<ul>
+<li>Resampling statistics uses distributions <em>from data</em></li>
+</ul>
+<p align="center">
+<img src="tutorial_images/distributions_from-data.png" alt="Graph of a sort of irregular histogram" width="15%">
+</p>
+</div>
 </section>
 <section id="theoretical-process" class="slide level2">
 <h2><span class="orange">Theoretical Process</span></h2>
+<ol type="1">
+<li>Take samples from data (i.e., “re-sample”)</li>
+</ol>
+<div class="fragment">
+<ol start="2" type="1">
+<li>Compare real observations to re-sampled groups</li>
+</ol>
+</div>
+<div class="fragment">
+<ol start="3" type="1">
+<li>Evaluate significance</li>
+</ol>
+</div>
+</section>
+<section id="permutation-notes" class="slide level2">
+<h2><span class="orange">Permutation Notes</span></h2>
+<ul>
+<li>Permutation methods are <strong>non-parametric</strong>
+<ul>
+<li>Because they don’t rely on a theoretical distribution</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>Permutation methods are <strong>flexible</strong>
+<ul>
+<li>Can assess standard &amp; non-standard experimental designs</li>
+<li>Handle high-dimensional data (more variables than observations)</li>
+</ul></li>
+</ul>
+</div>
 </section>
 <section id="two-major-flavors" class="slide level2">
 <h2><span class="orange">Two Major “Flavors”</span></h2>

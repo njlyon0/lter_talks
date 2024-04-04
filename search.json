@@ -46,21 +46,28 @@
     "href": "slides/tutorial_multivar-stats.html#multivariate-background",
     "title": "Multivariate Statistics 101",
     "section": "Multivariate Background",
-    "text": "Multivariate Background"
+    "text": "Multivariate Background\n\nMultivariate data have more variables (p) than observations (q)\n\n\n\n\nI.e., more columns than rows\n\nTrue of most ecology/evolution datasets\n\n\n\n\n\nDiffers from univariate statistics\n\nUnivariate explores variation in one variable\nMultivariate explores variation in many variables (plus potential inter-relationships)"
   },
   {
-    "objectID": "slides/tutorial_multivar-stats.html#resamplingpermutation-methods",
-    "href": "slides/tutorial_multivar-stats.html#resamplingpermutation-methods",
+    "objectID": "slides/tutorial_multivar-stats.html#resampling-methods",
+    "href": "slides/tutorial_multivar-stats.html#resampling-methods",
     "title": "Multivariate Statistics 101",
-    "section": "Resampling/Permutation Methods",
-    "text": "Resampling/Permutation Methods"
+    "section": "Resampling Methods",
+    "text": "Resampling Methods\n\nFrequentist statistics uses distributions from theory\n\n\n\n\n\n\nResampling statistics uses distributions from data"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#theoretical-process",
     "href": "slides/tutorial_multivar-stats.html#theoretical-process",
     "title": "Multivariate Statistics 101",
     "section": "Theoretical Process",
-    "text": "Theoretical Process"
+    "text": "Theoretical Process\n\nTake samples from data (i.e., “re-sample”)\n\n\n\nCompare real observations to re-sampled groups\n\n\n\n\nEvaluate significance"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#permutation-notes",
+    "href": "slides/tutorial_multivar-stats.html#permutation-notes",
+    "title": "Multivariate Statistics 101",
+    "section": "Permutation Notes",
+    "text": "Permutation Notes\n\nPermutation methods are non-parametric\n\nBecause they don’t rely on a theoretical distribution\n\n\n\n\n\n\nPermutation methods are flexible\n\nCan assess standard & non-standard experimental designs\nHandle high-dimensional data (more variables than observations)"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#two-major-flavors",
