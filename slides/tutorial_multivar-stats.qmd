@@ -54,16 +54,61 @@ format:
 ### [Principle Components Analysis]{.pink}
 ### [Non-Metric Multidimensional Scaling]{.blue}
 
-## [Multivariate Background]{.purple}
+## [Multivariate Background]{.purple} {.smaller}
 
+> Multivariate data have more variables (_p_) than observations (_q_)
 
+\
 
-## [Resampling/Permutation Methods]{.orange}
+- I.e., more columns than rows
+    - True of most ecology/evolution datasets
 
+\
 
+- Differs from univariate statistics
+    - Univariate explores variation in _one_ variable
+    - Multivariate explores variation in _many_ variables (plus potential inter-relationships)
+
+## [Resampling Methods]{.orange}
+
+- Frequentist statistics uses distributions _from theory_
+
+<p align="center">
+<img src="tutorial_images/distributions_theoretical.png" alt="Graphs of several common data distributions found in theory" width="80%">
+</p>
+
+. . .
+
+- Resampling statistics uses distributions _from data_
+
+<p align="center">
+<img src="tutorial_images/distributions_from-data.png" alt="Graph of a sort of irregular histogram" width="15%">
+</p>
 
 ## [Theoretical Process]{.orange}
 
+1. Take samples from data (i.e., "re-sample")
+
+. . .
+
+2. Compare real observations to re-sampled groups
+
+. . .
+
+3. Evaluate significance
+
+## [Permutation Notes]{.orange}
+
+- Permutation methods are **non-parametric**
+    - Because they don't rely on a theoretical distribution
+
+\
+
+. . .
+
+- Permutation methods are **flexible**
+    - Can assess standard & non-standard experimental designs
+    - Handle high-dimensional data (more variables than observations)
 
 
 ## [Two Major "Flavors"]{.orange}
