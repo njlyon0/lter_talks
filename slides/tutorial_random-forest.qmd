@@ -2,6 +2,8 @@
 title: "Random Forest in R"
 author: "Nick J Lyon"
 engine: knitr
+title-slide-attributes:
+  data-background-color: "#222222"
 format: 
   revealjs: 
     slide-number: c
@@ -13,6 +15,6 @@ format:
     reference-location: document
 ---
 
-## Under Construction
+## Under Construction {background-color="#222222"}
 
-See [here](https://github.com/njlyon0/lyon-tutorial_random-forest)
+See original content [here](https://github.com/njlyon0/lyon-tutorial_random-forest)

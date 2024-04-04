@@ -2,6 +2,8 @@
 title: "Multivariate Statistics 101"
 author: "Nick J Lyon"
 engine: knitr
+title-slide-attributes:
+  data-background-color: "#222222"
 format: 
   revealjs: 
     slide-number: c
@@ -13,7 +15,7 @@ format:
     reference-location: document
 ---
 
-## Caveat Before We Begin {.smaller}
+## Caveat Before We Begin {.smaller background-color="#222222"}
 
 ::::{.columns}
 :::{.column width="60%"}
@@ -44,7 +46,7 @@ format:
 :::
 ::::
 
-## Tutorial Outline
+## Tutorial Outline {background-color="#222222"}
 
 \
 
@@ -54,22 +56,26 @@ format:
 ### [Principle Components Analysis]{.edu-pink}
 ### [Non-Metric Multidimensional Scaling]{.edu-blue}
 
-## [Multivariate Background]{.edu-purple} {.smaller}
+## [Multivariate Background]{.edu-purple} {.smaller background-color="#222222"}
 
-> Multivariate data have more variables (_p_) than observations (_q_)
+- **Multivariate data have more variables (_p_) than observations (_q_)**
 
 \
+
+. . .
 
 - I.e., more columns than rows
     - True of most ecology/evolution datasets
 
 \
 
+. . .
+
 - Differs from univariate statistics
     - Univariate explores variation in _one_ variable
     - Multivariate explores variation in _many_ variables (plus potential inter-relationships)
 
-## [Resampling Methods]{.edu-orange}
+## [Resampling Methods]{.edu-orange} {background-color="#222222"}
 
 - Frequentist statistics uses distributions _from theory_
 
@@ -85,7 +91,7 @@ format:
 <img src="images_tutorials/distributions_from-data.png" alt="Graph of a sort of irregular histogram" width="15%">
 </p>
 
-## [Theoretical Process]{.edu-orange}
+## [Theoretical Process]{.edu-orange} {background-color="#222222"}
 
 1. Take samples from data (i.e., "re-sample")
 
@@ -97,7 +103,7 @@ format:
 
 3. Evaluate significance
 
-## [Permutation Notes]{.edu-orange}
+## [Permutation Notes]{.edu-orange} {background-color="#222222"}
 
 - Permutation methods are **non-parametric**
     - Because they don't rely on a theoretical distribution
@@ -111,35 +117,35 @@ format:
     - Handle high-dimensional data (more variables than observations)
 
 
-## [Two Major "Flavors"]{.edu-orange}
+## [Two Major "Flavors"]{.edu-orange} {background-color="#222222"}
 
 
 
-## [Multivariate Visualization]{.edu-gold}
+## [Multivariate Visualization]{.edu-gold} {background-color="#222222"}
 
 
 
-## [Principle Components Analysis]{.edu-pink}
+## [Principle Components Analysis]{.edu-pink} {background-color="#222222"}
 
 
 
-## [PCA Process]{.edu-pink}
+## [PCA Process]{.edu-pink} {background-color="#222222"}
 
 
 
-## [PCA Special Consideration]{.edu-pink}
+## [PCA Special Consideration]{.edu-pink} {background-color="#222222"}
 
 
 
-## [Non-Metric Multidimensional Scaling]{.edu-blue}
+## [Non-Metric Multidimensional Scaling]{.edu-blue} {background-color="#222222"}
 
 
 
-## [NMS Process]{.edu-blue}
+## [NMS Process]{.edu-blue} {background-color="#222222"}
 
 
 
-## [NMS Helicopter Analogy]{.edu-blue}
+## [NMS Helicopter Analogy]{.edu-blue} {background-color="#222222"}
 
 
 
