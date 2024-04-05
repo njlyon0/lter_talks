@@ -116,36 +116,173 @@ format:
     - Can assess standard & non-standard experimental designs
     - Handle high-dimensional data (more variables than observations)
 
-
 ## [Two Major "Flavors"]{.edu-orange} {background-color="#222222"}
 
+::::{.columns}
+:::{.column width="50%"}
+### Full Permutation
+
+- Permute whole dataset
+
+:::
+:::{.column width="50%"}
+### Residual Permutation
+
+- Fit desired model
+- Permute the _residuals_
+    - Less sensitive to outliers
+:::
+::::
+
+<p align="center">
+<img src="images_tutorials/diagram_resid-perm-process.png" alt="Diagram showing two X variables groups with a measured response (Y), model is fit and residuals are observed and compared to many different permutations (different group assignments) of the same residuals" width="90%">
+</p>
+
+## [Multivariate Visualization]{.edu-gold} {.smaller background-color="#222222"} 
+
+- Typically involves "ordination"
+
+\
+
+. . . 
+
+- Frequently uses "multidimensional scaling"
+    - I.e., getting from many variables to fewer, more easily visualizable variables
+    - Still representative of multivariate nature of data
+
+\
+
+. . . 
+
+- Common ordination methods include:
+    - <u>P</u>rincipal <u>C</u>omponents <u>A</u>nalysis (PCA)
+    - <u>P</u>rincipal **<u>Co</u>ordinates** <u>A</u>nalysis (PC**o**A)
+    - <u>N</u>onmetric <u>M</u>ultidimensional <u>S</u>caling (NMS)
+
+## [Principle Components Analysis]{.edu-pink} {.smaller background-color="#222222"}
+
+- Goal: reduce number of variables
+
+\
+
+. . . 
+
+- Mechanism: create combinations of existing variables to summarize variation
+    - Want each combination to contain as much variation as possible
+    - Such that you approach 100% variation summarized in only a few combinations
+
+\
+
+. . . 
+
+- Result: number of principal components equal to number of observations
+    - Each principle component has a known % variation explained
 
 
-## [Multivariate Visualization]{.edu-gold} {background-color="#222222"}
+## [PCA Process]{.edu-pink} {.smaller background-color="#222222"}
+
+- For variables (X~i~) you want to create indices (I~k~)
+
+\
+
+. . .
+
+- Consider the following example:
+    - I~1~ = X~1~ + X~2~ + X~3~ + X~4~ + X~5~
+    - I~2~ = X~1~ [**-**]{.edu-pink} X~2~ + X~3~ + X~4~ + X~5~
+    - I~3~ = X~1~ [**-**]{.edu-pink} X~2~ [**-**]{.edu-pink} X~3~ + X~4~ + X~5~
+    - ...
+    - I~k~ = X~1~ [**-**]{.edu-pink} X~2~ [**-**]{.edu-pink} X~3~ [**-**]{.edu-pink} X~4~ [**-**]{.edu-pink} X~5~
 
 
+## [PCA Special Consideration 1]{.edu-pink} {.smaller background-color="#222222"}
 
-## [Principle Components Analysis]{.edu-pink} {background-color="#222222"}
+1. Axis orthogonality
+    - Axes are "constrained to orthogonality" because of goal of maximized explained variation
+    - Plain language: PC axes are perpendicular to one another
+
+\
+
+. . .
+
+- Means PC~3~ through PC~_n_~ are defined _as soon as PC~1~ and PC~2~ are_
+    - Focusing on early PCs reduces the relevance of this issue
+
+## [PCA Special Consideration 2]{.edu-pink} {.smaller background-color="#222222"}
+
+2. Not a hypothesis test
+
+\
+
+. . .
+
+- PCA is great for visualizing patterns in data
+    - Not good for statistical evaluation
+
+\
+
+. . .
+
+- I.e., PCA cannot--by itself--show support for your hypothesis
 
 
+## [Nonmetric Multidimensional Scaling]{.edu-blue} {.smaller background-color="#222222"}
 
-## [PCA Process]{.edu-pink} {background-color="#222222"}
+- Goal: reduce number of variables
+    - Same as PCA!
 
+\
 
+. . . 
 
-## [PCA Special Consideration]{.edu-pink} {background-color="#222222"}
+- Mechanism: scale dissimilarity of points to minimize "stress"
+    - "dissimilarity" != "distance"
+    - Stress is a metric for tension between true spatial configuration of points versus the arrangement of their dissimilarity
 
+\
 
+. . . 
 
-## [Non-Metric Multidimensional Scaling]{.edu-blue} {background-color="#222222"}
+- Result: number of NMS axes is defined by the user
+    - NMS reports stress of "best" solution (essentially a goodness of fit metric)
 
+## [NMS Process]{.edu-blue} {.smaller background-color="#222222"}
 
+1. Choose a starting configuration of points (randomly)
 
-## [NMS Process]{.edu-blue} {background-color="#222222"}
+\
 
+2. Move points around and measure stress at each configuration
 
+\
+
+3. Repeat until stress has been minimized
+
+\
+
+4. Return to step 1 with different starting points
+    - Necessary to avoid local stress minima
+
+\
+
+5. Continue 1-4 until confident true minimum stress configuration has been found
 
 ## [NMS Helicopter Analogy]{.edu-blue} {background-color="#222222"}
 
+:::{.r-stack}
 
+![](images_tutorials/nms_heli-1.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-2a.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-2b.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-3.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-4.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-5.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-6.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-7.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-8.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-9.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-10.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-11.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-12.png){.absolute top=150 left=25 .fragment .fade-in}
 
+:::
