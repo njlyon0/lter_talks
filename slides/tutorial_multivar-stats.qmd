@@ -271,18 +271,18 @@ format:
 
 :::{.r-stack}
 
-![](images_tutorials/nms_heli-1.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-2a.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-2b.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-3.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-4.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-5.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-6.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-7.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-8.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-9.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-10.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-11.png){.absolute top=150 left=25 .fragment .fade-in}
-![](images_tutorials/nms_heli-12.png){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-1.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-2a.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-2b.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-3.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-4.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-5.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-6.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-7.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-8.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-9.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-10.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-11.jpg){.absolute top=150 left=25 .fragment .fade-in}
+![](images_tutorials/nms_heli-12.jpg){.absolute top=150 left=25 .fragment .fade-in}
 
 :::
