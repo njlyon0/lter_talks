@@ -67,49 +67,56 @@
     "href": "slides/tutorial_multivar-stats.html#two-major-flavors",
     "title": "Multivariate Statistics 101",
     "section": "Two Major “Flavors”",
-    "text": "Two Major “Flavors”"
+    "text": "Two Major “Flavors”\n\n\nFull Permutation\n\nPermute whole dataset\n\n\nResidual Permutation\n\nFit desired model\nPermute the residuals\n\nLess sensitive to outliers"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#multivariate-visualization",
     "href": "slides/tutorial_multivar-stats.html#multivariate-visualization",
     "title": "Multivariate Statistics 101",
     "section": "Multivariate Visualization",
-    "text": "Multivariate Visualization"
+    "text": "Multivariate Visualization\n\nTypically involves “ordination”\n\n\n\n\n\nFrequently uses “multidimensional scaling”\n\nI.e., getting from many variables to fewer, more easily visualizable variables\nStill representative of multivariate nature of data\n\n\n\n\n\n\n\nCommon ordination methods include:\n\nPrincipal Components Analysis (PCA)\nPrincipal Coordinates Analysis (PCoA)\nNonmetric Multidimensional Scaling (NMS)"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#principle-components-analysis-1",
     "href": "slides/tutorial_multivar-stats.html#principle-components-analysis-1",
     "title": "Multivariate Statistics 101",
     "section": "Principle Components Analysis",
-    "text": "Principle Components Analysis"
+    "text": "Principle Components Analysis\n\nGoal: reduce number of variables\n\n\n\n\n\nMechanism: create combinations of existing variables to summarize variation\n\nWant each combination to contain as much variation as possible\nSuch that you approach 100% variation summarized in only a few combinations\n\n\n\n\n\n\n\nResult: number of principal components equal to number of observations\n\nEach principle component has a known % variation explained"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#pca-process",
     "href": "slides/tutorial_multivar-stats.html#pca-process",
     "title": "Multivariate Statistics 101",
     "section": "PCA Process",
-    "text": "PCA Process"
+    "text": "PCA Process\n\nFor variables (Xi) you want to create indices (Ik)\n\n\n\n\n\nConsider the following example:\n\nI1 = X1 + X2 + X3 + X4 + X5\nI2 = X1 - X2 + X3 + X4 + X5\nI3 = X1 - X2 - X3 + X4 + X5\n…\nIk = X1 - X2 - X3 - X4 - X5"
   },
   {
-    "objectID": "slides/tutorial_multivar-stats.html#pca-special-consideration",
-    "href": "slides/tutorial_multivar-stats.html#pca-special-consideration",
+    "objectID": "slides/tutorial_multivar-stats.html#pca-special-consideration-1",
+    "href": "slides/tutorial_multivar-stats.html#pca-special-consideration-1",
     "title": "Multivariate Statistics 101",
-    "section": "PCA Special Consideration",
-    "text": "PCA Special Consideration"
+    "section": "PCA Special Consideration 1",
+    "text": "PCA Special Consideration 1\n\nAxis orthogonality\n\nAxes are “constrained to orthogonality” because of goal of maximized explained variation\nPlain language: PC axes are perpendicular to one another\n\n\n\n\n\n\nMeans PC3 through PCn are defined as soon as PC1 and PC2 are\n\nFocusing on early PCs reduces the relevance of this issue"
   },
   {
-    "objectID": "slides/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
-    "href": "slides/tutorial_multivar-stats.html#non-metric-multidimensional-scaling-1",
+    "objectID": "slides/tutorial_multivar-stats.html#pca-special-consideration-2",
+    "href": "slides/tutorial_multivar-stats.html#pca-special-consideration-2",
     "title": "Multivariate Statistics 101",
-    "section": "Non-Metric Multidimensional Scaling",
-    "text": "Non-Metric Multidimensional Scaling"
+    "section": "PCA Special Consideration 2",
+    "text": "PCA Special Consideration 2\n\nNot a hypothesis test\n\n\n\n\n\nPCA is great for visualizing patterns in data\n\nNot good for statistical evaluation\n\n\n\n\n\n\n\nI.e., PCA cannot–by itself–show support for your hypothesis"
+  },
+  {
+    "objectID": "slides/tutorial_multivar-stats.html#nonmetric-multidimensional-scaling",
+    "href": "slides/tutorial_multivar-stats.html#nonmetric-multidimensional-scaling",
+    "title": "Multivariate Statistics 101",
+    "section": "Nonmetric Multidimensional Scaling",
+    "text": "Nonmetric Multidimensional Scaling\n\nGoal: reduce number of variables\n\nSame as PCA!\n\n\n\n\n\n\nMechanism: scale dissimilarity of points to minimize “stress”\n\n“dissimilarity” != “distance”\nStress is a metric for tension between true spatial configuration of points versus the arrangement of their dissimilarity\n\n\n\n\n\n\n\nResult: number of NMS axes is defined by the user\n\nNMS reports stress of “best” solution (essentially a goodness of fit metric)"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#nms-process",
     "href": "slides/tutorial_multivar-stats.html#nms-process",
     "title": "Multivariate Statistics 101",
     "section": "NMS Process",
-    "text": "NMS Process"
+    "text": "NMS Process\n\nChoose a starting configuration of points (randomly)\n\n\n\n\nMove points around and measure stress at each configuration\n\n\n\n\nRepeat until stress has been minimized\n\n\n\n\nReturn to step 1 with different starting points\n\nNecessary to avoid local stress minima\n\n\n\n\n\nContinue 1-4 until confident true minimum stress configuration has been found"
   },
   {
     "objectID": "slides/tutorial_multivar-stats.html#nms-helicopter-analogy",

@@ -466,27 +466,210 @@ Nick J Lyon
 </section>
 <section id="two-major-flavors" class="slide level2" data-background-color="#222222">
 <h2><span class="edu-orange">Two Major “Flavors”</span></h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<h3 id="full-permutation">Full Permutation</h3>
+<ul>
+<li>Permute whole dataset</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<h3 id="residual-permutation">Residual Permutation</h3>
+<ul>
+<li>Fit desired model</li>
+<li>Permute the <em>residuals</em>
+<ul>
+<li>Less sensitive to outliers</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<p align="center">
+<img src="images_tutorials/diagram_resid-perm-process.png" alt="Diagram showing two X variables groups with a measured response (Y), model is fit and residuals are observed and compared to many different permutations (different group assignments) of the same residuals" width="90%">
+</p>
 </section>
-<section id="multivariate-visualization" class="slide level2" data-background-color="#222222">
+<section id="multivariate-visualization" class="slide level2 smaller" data-background-color="#222222">
 <h2><span class="edu-gold">Multivariate Visualization</span></h2>
+<ul>
+<li>Typically involves “ordination”</li>
+</ul>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>Frequently uses “multidimensional scaling”
+<ul>
+<li>I.e., getting from many variables to fewer, more easily visualizable variables</li>
+<li>Still representative of multivariate nature of data</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+</div>
+<div class="fragment">
+<ul>
+<li>Common ordination methods include:
+<ul>
+<li><u>P</u>rincipal <u>C</u>omponents <u>A</u>nalysis (PCA)</li>
+<li><u>P</u>rincipal <strong><u>Co</u>ordinates</strong> <u>A</u>nalysis (PC<strong>o</strong>A)</li>
+<li><u>N</u>onmetric <u>M</u>ultidimensional <u>S</u>caling (NMS)</li>
+</ul></li>
+</ul>
+</div>
 </section>
-<section id="principle-components-analysis-1" class="slide level2" data-background-color="#222222">
+<section id="principle-components-analysis-1" class="slide level2 smaller" data-background-color="#222222">
 <h2><span class="edu-pink">Principle Components Analysis</span></h2>
+<ul>
+<li>Goal: reduce number of variables</li>
+</ul>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>Mechanism: create combinations of existing variables to summarize variation
+<ul>
+<li>Want each combination to contain as much variation as possible</li>
+<li>Such that you approach 100% variation summarized in only a few combinations</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+</div>
+<div class="fragment">
+<ul>
+<li>Result: number of principal components equal to number of observations
+<ul>
+<li>Each principle component has a known % variation explained</li>
+</ul></li>
+</ul>
+</div>
 </section>
-<section id="pca-process" class="slide level2" data-background-color="#222222">
+<section id="pca-process" class="slide level2 smaller" data-background-color="#222222">
 <h2><span class="edu-pink">PCA Process</span></h2>
+<ul>
+<li>For variables (X<sub>i</sub>) you want to create indices (I<sub>k</sub>)</li>
+</ul>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>Consider the following example:
+<ul>
+<li>I<sub>1</sub> = X<sub>1</sub> + X<sub>2</sub> + X<sub>3</sub> + X<sub>4</sub> + X<sub>5</sub></li>
+<li>I<sub>2</sub> = X<sub>1</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>2</sub> + X<sub>3</sub> + X<sub>4</sub> + X<sub>5</sub></li>
+<li>I<sub>3</sub> = X<sub>1</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>2</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>3</sub> + X<sub>4</sub> + X<sub>5</sub></li>
+<li>…</li>
+<li>I<sub>k</sub> = X<sub>1</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>2</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>3</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>4</sub> <span class="edu-pink"><strong>-</strong></span> X<sub>5</sub></li>
+</ul></li>
+</ul>
+</div>
 </section>
-<section id="pca-special-consideration" class="slide level2" data-background-color="#222222">
-<h2><span class="edu-pink">PCA Special Consideration</span></h2>
+<section id="pca-special-consideration-1" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-pink">PCA Special Consideration 1</span></h2>
+<ol type="1">
+<li>Axis orthogonality
+<ul>
+<li>Axes are “constrained to orthogonality” because of goal of maximized explained variation</li>
+<li>Plain language: PC axes are perpendicular to one another</li>
+</ul></li>
+</ol>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>Means PC<sub>3</sub> through PC<sub><em>n</em></sub> are defined <em>as soon as PC<sub>1</sub> and PC<sub>2</sub> are</em>
+<ul>
+<li>Focusing on early PCs reduces the relevance of this issue</li>
+</ul></li>
+</ul>
+</div>
 </section>
-<section id="non-metric-multidimensional-scaling-1" class="slide level2" data-background-color="#222222">
-<h2><span class="edu-blue">Non-Metric Multidimensional Scaling</span></h2>
+<section id="pca-special-consideration-2" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-pink">PCA Special Consideration 2</span></h2>
+<ol start="2" type="1">
+<li>Not a hypothesis test</li>
+</ol>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>PCA is great for visualizing patterns in data
+<ul>
+<li>Not good for statistical evaluation</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+</div>
+<div class="fragment">
+<ul>
+<li>I.e., PCA cannot–by itself–show support for your hypothesis</li>
+</ul>
+</div>
 </section>
-<section id="nms-process" class="slide level2" data-background-color="#222222">
+<section id="nonmetric-multidimensional-scaling" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-blue">Nonmetric Multidimensional Scaling</span></h2>
+<ul>
+<li>Goal: reduce number of variables
+<ul>
+<li>Same as PCA!</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<div class="fragment">
+<ul>
+<li>Mechanism: scale dissimilarity of points to minimize “stress”
+<ul>
+<li>“dissimilarity” != “distance”</li>
+<li>Stress is a metric for tension between true spatial configuration of points versus the arrangement of their dissimilarity</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+</div>
+<div class="fragment">
+<ul>
+<li>Result: number of NMS axes is defined by the user
+<ul>
+<li>NMS reports stress of “best” solution (essentially a goodness of fit metric)</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="nms-process" class="slide level2 smaller" data-background-color="#222222">
 <h2><span class="edu-blue">NMS Process</span></h2>
+<ol type="1">
+<li>Choose a starting configuration of points (randomly)</li>
+</ol>
+<p><br>
+</p>
+<ol start="2" type="1">
+<li>Move points around and measure stress at each configuration</li>
+</ol>
+<p><br>
+</p>
+<ol start="3" type="1">
+<li>Repeat until stress has been minimized</li>
+</ol>
+<p><br>
+</p>
+<ol start="4" type="1">
+<li>Return to step 1 with different starting points
+<ul>
+<li>Necessary to avoid local stress minima</li>
+</ul></li>
+</ol>
+<p><br>
+</p>
+<ol start="5" type="1">
+<li>Continue 1-4 until confident true minimum stress configuration has been found</li>
+</ol>
 </section>
 <section id="nms-helicopter-analogy" class="slide level2" data-background-color="#222222">
 <h2><span class="edu-blue">NMS Helicopter Analogy</span></h2>
+<div class="r-stack">
+<p><img data-src="images_tutorials/nms_heli-1.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-2a.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-2b.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-3.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-4.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-5.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-6.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-7.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-8.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-9.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-10.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-11.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-12.png" class="absolute fragment fade-in" style="top: 150px; left: 25px; "></p>
+</div>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
