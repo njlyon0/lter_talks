@@ -135,25 +135,6 @@ low_thresh <- permimp::permimp(object = lich_rf, conditional = T,
 plot(low_thresh, type = "box", horizontal = T)
 ```
 
-## CPI Comparison {.smaller background-color="#222222"}
-
-- Let's compare CPI plots side-by-side for easier visualization
-
-```{r cpi-compare}
-#| echo: false
-# Make objects of the importance values
-high_vals <- data.frame("threshold" = "high",
-                        "variable" = names(high_thresh$values),
-                        "value" = high_thresh$values)
-low_vals <- data.frame("threshold" = "low",
-                       "variable" = names(low_thresh$values),
-                        "value" = low_thresh$values)
-
-# Arrange both by value
-high_vals %>% dplyr::arrange(value)
-low_vals %>% dplyr::arrange(value)
-```
-
 ## Exploratory Plotting {.smaller background-color="#222222"}
 
 - Let's graph the response against the four 'most important' variables
