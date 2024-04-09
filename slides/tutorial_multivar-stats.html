@@ -31,6 +31,71 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -670,13 +735,383 @@ Nick J Lyon
 <div class="r-stack">
 <p><img data-src="images_tutorials/nms_heli-1.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-2a.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-2b.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-3.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-4.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-5.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-6.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-7.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-8.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-9.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-10.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-11.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "> <img data-src="images_tutorials/nms_heli-12.jpg" class="absolute fragment fade-in" style="top: 150px; left: 25px; "></p>
 </div>
+</section>
+<section>
+<section id="multivariate-code-demo" class="title-slide slide level1 center" data-background-color="#222222">
+<h1>Multivariate Code Demo</h1>
+
+</section>
+<section id="prepare" class="slide level2 smaller" data-background-color="#222222">
+<h2>Prepare</h2>
+<ul>
+<li>First, you’ll need to install and load a few <i class="fa-brands fa-r-project" aria-label="r-project"></i> R packages
+<ul>
+<li>While not technically necessary, the <code>librarian</code> package makes library management <em>much</em> simpler</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Install librarian (if you need to)</span></span>
+<span id="cb1-2"><a aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("librarian")</span></span>
+<span id="cb1-3"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Install (if not already present) and load needed libraries</span></span>
+<span id="cb1-5"><a aria-hidden="true" tabindex="-1"></a>librarian<span class="sc">::</span><span class="fu">shelf</span>(vegan, RRPP, scatterplot3d, TeachingDemos, supportR)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="lichen-data" class="slide level2 smaller" data-background-color="#222222">
+<h2>Lichen Data</h2>
+<ul>
+<li>The <code>vegan</code> package includes some lichen community composition data we can use for exploratory purposes</li>
+</ul>
+<p><br>
+</p>
+<ul>
+<li>We’ll begin by loading that and creating artificial groups for later analysis</li>
+</ul>
+<p><br>
+</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Load vegan's lichen dataset</span></span>
+<span id="cb2-2"><a aria-hidden="true" tabindex="-1"></a>utils<span class="sc">::</span><span class="fu">data</span>(<span class="st">"varespec"</span>, <span class="at">package =</span> <span class="st">'vegan'</span>)</span>
+<span id="cb2-3"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Make some columns of known number of groups</span></span>
+<span id="cb2-5"><a aria-hidden="true" tabindex="-1"></a>treatment <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="fu">rep.int</span>(<span class="st">"Trt1"</span>, (<span class="fu">nrow</span>(varespec)<span class="sc">/</span><span class="dv">4</span>)),</span>
+<span id="cb2-6"><a aria-hidden="true" tabindex="-1"></a>               <span class="fu">rep.int</span>(<span class="st">"Trt2"</span>, (<span class="fu">nrow</span>(varespec)<span class="sc">/</span><span class="dv">4</span>)),</span>
+<span id="cb2-7"><a aria-hidden="true" tabindex="-1"></a>               <span class="fu">rep.int</span>(<span class="st">"Trt3"</span>, (<span class="fu">nrow</span>(varespec)<span class="sc">/</span><span class="dv">4</span>)),</span>
+<span id="cb2-8"><a aria-hidden="true" tabindex="-1"></a>               <span class="fu">rep.int</span>(<span class="st">"Trt4"</span>, (<span class="fu">nrow</span>(varespec)<span class="sc">/</span><span class="dv">4</span>)))</span>
+<span id="cb2-9"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-10"><a aria-hidden="true" tabindex="-1"></a><span class="co"># And combine them into a single data object</span></span>
+<span id="cb2-11"><a aria-hidden="true" tabindex="-1"></a>lichen_df <span class="ot">&lt;-</span> <span class="fu">cbind</span>(treatment, varespec)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="data-structure" class="slide level2 smaller" data-background-color="#222222">
+<h2>Data Structure</h2>
+<ul>
+<li>This data object now has the following structure:</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Check lichen data structure</span></span>
+<span id="cb3-2"><a aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(lichen_df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>'data.frame':   24 obs. of  45 variables:
+ $ treatment: chr  "Trt1" "Trt1" "Trt1" "Trt1" ...
+ $ Callvulg : num  0.55 0.67 0.1 0 0 ...
+ $ Empenigr : num  11.13 0.17 1.55 15.13 12.68 ...
+ $ Rhodtome : num  0 0 0 2.42 0 0 1.55 0 0.35 0.07 ...
+ $ Vaccmyrt : num  0 0.35 0 5.92 0 ...
+ $ Vaccviti : num  17.8 12.1 13.5 16 23.7 ...
+ $ Pinusylv : num  0.07 0.12 0.25 0 0.03 0.12 0.1 0.1 0.05 0.12 ...
+ $ Descflex : num  0 0 0 3.7 0 0.02 0.78 0 0.4 0 ...
+ $ Betupube : num  0 0 0 0 0 0 0.02 0 0 0 ...
+ $ Vacculig : num  1.6 0 0 1.12 0 0 2 0 0.2 0 ...
+ $ Diphcomp : num  2.07 0 0 0 0 0 0 0 0 0.07 ...
+ $ Dicrsp   : num  0 0.33 23.43 0 0 ...
+ $ Dicrfusc : num  1.62 10.92 0 3.63 3.42 ...
+ $ Dicrpoly : num  0 0.02 1.68 0 0.02 0.02 0 0.23 0.2 0 ...
+ $ Hylosple : num  0 0 0 6.7 0 0 0 0 9.97 0 ...
+ $ Pleuschr : num  4.67 37.75 32.92 58.07 19.42 ...
+ $ Polypili : num  0.02 0.02 0 0 0.02 0.02 0 0 0 0 ...
+ $ Polyjuni : num  0.13 0.23 0.23 0 2.12 1.58 0 0.02 0.08 0.02 ...
+ $ Polycomm : num  0 0 0 0.13 0 0.18 0 0 0 0 ...
+ $ Pohlnuta : num  0.13 0.03 0.32 0.02 0.17 0.07 0.1 0.13 0.07 0.03 ...
+ $ Ptilcili : num  0.12 0.02 0.03 0.08 1.8 0.27 0.03 0.1 0.03 0.25 ...
+ $ Barbhatc : num  0 0 0 0.08 0.02 0.02 0 0 0 0.07 ...
+ $ Cladarbu : num  21.73 12.05 3.58 1.42 9.08 ...
+ $ Cladrang : num  21.47 8.13 5.52 7.63 9.22 ...
+ $ Cladstel : num  3.5 0.18 0.07 2.55 0.05 ...
+ $ Cladunci : num  0.3 2.65 8.93 0.15 0.73 0.25 2.38 0.82 0.05 0.95 ...
+ $ Cladcocc : num  0.18 0.13 0 0 0.08 0.1 0.17 0.15 0.02 0.17 ...
+ $ Cladcorn : num  0.23 0.18 0.2 0.38 1.42 0.25 0.13 0.05 0.03 0.05 ...
+ $ Cladgrac : num  0.25 0.23 0.48 0.12 0.5 0.18 0.18 0.22 0.07 0.23 ...
+ $ Cladfimb : num  0.25 0.25 0 0.1 0.17 0.1 0.2 0.22 0.1 0.18 ...
+ $ Cladcris : num  0.23 1.23 0.07 0.03 1.78 0.12 0.2 0.17 0.02 0.57 ...
+ $ Cladchlo : num  0 0 0.1 0 0.05 0.05 0.02 0 0 0.02 ...
+ $ Cladbotr : num  0 0 0.02 0.02 0.05 0.02 0 0 0.02 0.07 ...
+ $ Cladamau : num  0.08 0 0 0 0 0 0 0 0 0 ...
+ $ Cladsp   : num  0.02 0 0 0.02 0 0 0.02 0.02 0 0.07 ...
+ $ Cetreric : num  0.02 0.15 0.78 0 0 0 0.02 0.18 0 0.18 ...
+ $ Cetrisla : num  0 0.03 0.12 0 0 0 0 0.08 0.02 0.02 ...
+ $ Flavniva : num  0.12 0 0 0 0.02 0.02 0 0 0 0 ...
+ $ Nepharct : num  0.02 0 0 0 0 0 0 0 0 0 ...
+ $ Stersp   : num  0.62 0.85 0.03 0 1.58 0.28 0 0.03 0.02 0.03 ...
+ $ Peltapht : num  0.02 0 0 0.07 0.33 0 0 0 0 0.02 ...
+ $ Icmaeric : num  0 0 0 0 0 0 0 0.07 0 0 ...
+ $ Cladcerv : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ Claddefo : num  0.25 1 0.33 0.15 1.97 0.37 0.15 0.67 0.08 0.47 ...
+ $ Cladphyl : num  0 0 0 0 0 0 0 0 0 0 ...</code></pre>
+</div>
+</div>
+<ul>
+<li>Each column is an abbreviated lichen species name and the values are % cover</li>
+</ul>
+</section>
+<section id="permutation-analysis" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-orange">Permutation Analysis</span></h2>
+<ul>
+<li>First, we’ll use the <code>RRPP</code> package to use permutation analysis
+<ul>
+<li>H<sub>A</sub>: lichen community composition differs between at least two groups</li>
+<li>H<sub>0</sub>: lichen community composition <em>does not</em> differ</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<ul>
+<li>Note that <code>RRPP</code> does require a special class of data object to perform analysis</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Make the special data object class required by RRPP</span></span>
+<span id="cb5-2"><a aria-hidden="true" tabindex="-1"></a>lichen_rpdf <span class="ot">&lt;-</span> RRPP<span class="sc">::</span><span class="fu">rrpp.data.frame</span>(<span class="st">"community"</span> <span class="ot">=</span> <span class="fu">as.matrix</span>(varespec),</span>
+<span id="cb5-3"><a aria-hidden="true" tabindex="-1"></a>                                     <span class="st">"treatment"</span> <span class="ot">=</span> lichen_df<span class="sc">$</span>treatment)</span>
+<span id="cb5-4"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-5"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Fit permutation model</span></span>
+<span id="cb5-6"><a aria-hidden="true" tabindex="-1"></a>lich_fit <span class="ot">&lt;-</span> RRPP<span class="sc">::</span><span class="fu">lm.rrpp</span>(community <span class="sc">~</span> treatment, <span class="at">data =</span> lichen_rpdf, <span class="at">iter =</span> <span class="dv">999</span>, <span class="at">RRPP =</span> T)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<ul>
+<li>Quick argument explanation:
+<ul>
+<li>The <code>iter</code> argument is the number of permutations</li>
+<li>The <code>RRPP</code> <em>argument</em> is whether to permute residuals (<code>TRUE</code>) or the full data (<code>FALSE</code>)</li>
+</ul></li>
+</ul>
+</section>
+<section id="permutation-analysis-results" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-orange">Permutation Analysis Results</span></h2>
+<ul>
+<li>To check the results, we can use the <code>anova</code> function
+<ul>
+<li>This also allows us to specify the desired effect type</li>
+</ul></li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Check out the results of the analysis!</span></span>
+<span id="cb6-2"><a aria-hidden="true" tabindex="-1"></a>RRPP<span class="sc">::</span><span class="fu">anova.lm.rrpp</span>(lich_fit, <span class="at">effect.type =</span> <span class="st">"F"</span>, <span class="at">print.progress =</span> F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+Analysis of Variance, using Residual Randomization
+Permutation procedure: Randomization of null model residuals 
+Number of permutations: 1000 
+Estimation method: Ordinary Least Squares 
+Sums of Squares and Cross-products: Type I 
+Effect sizes (Z) based on F distributions
+
+          Df    SS     MS     Rsq      F     Z Pr(&gt;F)   
+treatment  3 19602 6533.9 0.46682 5.8369 3.655  0.001 **
+Residuals 20 22388 1119.4 0.53318                       
+Total     23 41990                                      
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Call: RRPP::lm.rrpp(f1 = community ~ treatment, iter = 999, RRPP = T,  
+    data = lichen_rpdf)</code></pre>
+</div>
+</div>
+<ul>
+<li>Now we get a fairly standard ANOVA table
+<ul>
+<li>The <code>Z</code> column is the “Z score” and is essentially the effect size</li>
+</ul></li>
+</ul>
+</section>
+<section id="permutation-pairwise-comparisons" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-orange">Permutation Pairwise Comparisons</span></h2>
+<ul>
+<li>Once we have our main results, we can also get pairwise comparison results</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Perform pairwise comparisons</span></span>
+<span id="cb8-2"><a aria-hidden="true" tabindex="-1"></a>lich_pairs <span class="ot">&lt;-</span> RRPP<span class="sc">::</span><span class="fu">pairwise</span>(<span class="at">fit =</span> lich_fit, <span class="at">groups =</span> treatment)</span>
+<span id="cb8-3"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-4"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Check results</span></span>
+<span id="cb8-5"><a aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(lich_pairs)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+Pairwise comparisons
+
+Groups: Trt1 Trt2 Trt3 Trt4 
+
+RRPP: 1000 permutations
+
+LS means:
+Vectors hidden (use show.vectors = TRUE to view)
+
+Pairwise distances between means, plus statistics
+                 d UCL (95%)          Z Pr &gt; d
+Trt1:Trt2 16.48128  39.64863 -0.7289177  0.760
+Trt1:Trt3 38.04299  40.10757  1.5478150  0.067
+Trt1:Trt4 59.41369  38.99550  2.9255939  0.001
+Trt2:Trt3 37.15261  38.01919  1.5148939  0.063
+Trt2:Trt4 62.40360  39.28595  3.0093479  0.001
+Trt3:Trt4 50.44284  40.37863  2.2553908  0.005</code></pre>
+</div>
+</div>
+<ul>
+<li>These show that the fourth treatment significantly differs from the other three
+<ul>
+<li>And the third marginally differs from the first and second</li>
+</ul></li>
+</ul>
+</section>
+<section id="multivariate-data-visualization-1" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-gold">Multivariate Data Visualization</span></h2>
+<ul>
+<li>There are a few non-ordination ways of doing multivariate visualization
+<ul>
+<li>Note that these are mostly for exploratory purposes</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<ul>
+<li>They’re still helpful for checking the general ‘vibe’ of the data
+<ul>
+<li>but they may not hold up to formal review processes</li>
+</ul></li>
+</ul>
+</section>
+<section id="d-scatterplot" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-gold">3D Scatterplot</span></h2>
+<ul>
+<li>Perhaps the simplest mode of multivariate data visualization is just to make a 3D scatterplot!
+<ul>
+<li>Still technically counts as “multivariate” visualization</li>
+</ul></li>
+</ul>
+<p><br>
+</p>
+<ul>
+<li>Primary benefit is that interpretation is pretty straightforward</li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Make 3D scatterplot with `scatterplot3d` library</span></span>
+<span id="cb10-2"><a aria-hidden="true" tabindex="-1"></a>scatterplot3d<span class="sc">::</span><span class="fu">scatterplot3d</span>(lichen_df<span class="sc">$</span>Callvulg, lichen_df<span class="sc">$</span>Empenigr, lichen_df<span class="sc">$</span>Rhodtome,</span>
+<span id="cb10-3"><a aria-hidden="true" tabindex="-1"></a>                     <span class="at">xlab =</span> <span class="st">"Callvulg"</span>, <span class="at">ylab =</span> <span class="st">"Empenigr"</span>, <span class="at">zlab =</span> <span class="st">"Rhodtome"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+</div>
+<img data-src="tutorial_multivar-stats_files/figure-revealjs/viz-3d-1.png" class="quarto-figure quarto-figure-center r-stretch" width="960"></section>
+<section id="chernoff-faces" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-gold">Chernoff Faces</span></h2>
+<ul>
+<li>Some people have tried to make human’s capacity for comparing faces into a tool for data visualization
+<ul>
+<li>Data are transformed into human(-ish) faces with different dimensions</li>
+<li>I find these <em>very</em> scary</li>
+</ul></li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Make a matrix out of your desired data</span></span>
+<span id="cb11-2"><a aria-hidden="true" tabindex="-1"></a>lich_mat <span class="ot">&lt;-</span> <span class="fu">data.matrix</span>(varespec)</span>
+<span id="cb11-3"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-4"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Generate Chernoff face graph</span></span>
+<span id="cb11-5"><a aria-hidden="true" tabindex="-1"></a>TeachingDemos<span class="sc">::</span><span class="fu">faces2</span>(lich_mat, <span class="at">labels =</span> lichen_df<span class="sc">$</span>treatment, <span class="at">scale =</span> <span class="st">"center"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+</div>
+<img data-src="tutorial_multivar-stats_files/figure-revealjs/viz-faces-1.png" class="quarto-figure quarto-figure-center r-stretch" width="960"></section>
+<section id="star-plots" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-gold">Star Plots</span></h2>
+<ul>
+<li>Perhaps most usefully, you can just make “star plots” to check multivariate data</li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Create star plots</span></span>
+<span id="cb12-2"><a aria-hidden="true" tabindex="-1"></a>graphics<span class="sc">::</span><span class="fu">stars</span>(<span class="at">x =</span> varespec, <span class="at">labels =</span> lichen_df<span class="sc">$</span>treatment, <span class="at">key.loc =</span> <span class="fu">c</span>(<span class="dv">16</span>, <span class="dv">9</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+</div>
+<img data-src="tutorial_multivar-stats_files/figure-revealjs/viz-stars-1.png" class="quarto-figure quarto-figure-center r-stretch" width="960"></section>
+<section id="principal-components" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-pink">Principal Components</span></h2>
+<ul>
+<li>Before we can visualize PCA results, we need to actually identify PC axes!</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Perform Principal Components Analysis</span></span>
+<span id="cb13-2"><a aria-hidden="true" tabindex="-1"></a>lich_pc <span class="ot">&lt;-</span> <span class="fu">prcomp</span>(<span class="at">x =</span> varespec)</span>
+<span id="cb13-3"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-4"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Summarize it to calculate '% variation explained' for each PC axis</span></span>
+<span id="cb13-5"><a aria-hidden="true" tabindex="-1"></a>lich_pc_smry <span class="ot">&lt;-</span> <span class="fu">summary</span>(lich_pc)</span>
+<span id="cb13-6"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-7"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Check the structure of the summarized object</span></span>
+<span id="cb13-8"><a aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(lich_pc_smry)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>List of 6
+ $ sdev      : num [1:24] 31.35 21.55 11.5 8.6 6.96 ...
+ $ rotation  : num [1:44, 1:24] -0.01399 0.01566 -0.00646 -0.05168 0.00858 ...
+  ..- attr(*, "dimnames")=List of 2
+  .. ..$ : chr [1:44] "Callvulg" "Empenigr" "Rhodtome" "Vaccmyrt" ...
+  .. ..$ : chr [1:24] "PC1" "PC2" "PC3" "PC4" ...
+ $ center    : Named num [1:44] 1.88 6.33 0.35 2.11 11.46 ...
+  ..- attr(*, "names")= chr [1:44] "Callvulg" "Empenigr" "Rhodtome" "Vaccmyrt" ...
+ $ scale     : logi FALSE
+ $ x         : num [1:24, 1:24] -10.8 -27.8 -25.7 -31.8 -19.6 ...
+  ..- attr(*, "dimnames")=List of 2
+  .. ..$ : chr [1:24] "18" "15" "24" "27" ...
+  .. ..$ : chr [1:24] "PC1" "PC2" "PC3" "PC4" ...
+ $ importance: num [1:3, 1:24] 31.352 0.538 0.538 21.548 0.254 ...
+  ..- attr(*, "dimnames")=List of 2
+  .. ..$ : chr [1:3] "Standard deviation" "Proportion of Variance" "Cumulative Proportion"
+  .. ..$ : chr [1:24] "PC1" "PC2" "PC3" "PC4" ...
+ - attr(*, "class")= chr "summary.prcomp"</code></pre>
+</div>
+</div>
+</section>
+<section id="principal-components-ordination" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-pink">Principal Components Ordination</span></h2>
+<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># With that done, we can make a graph of that information!</span></span>
+<span id="cb15-2"><a aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="at">x =</span> lich_pc<span class="sc">$</span>x[,<span class="dv">1</span>], <span class="at">y =</span> lich_pc<span class="sc">$</span>x[,<span class="dv">2</span>], <span class="at">pch =</span> <span class="dv">20</span>, </span>
+<span id="cb15-3"><a aria-hidden="true" tabindex="-1"></a>     <span class="do">## And do some fancy axis labels to get 'variation explained' in the plot</span></span>
+<span id="cb15-4"><a aria-hidden="true" tabindex="-1"></a>     <span class="at">xlab =</span> <span class="fu">paste0</span>(<span class="st">"PC1 ("</span>, (lich_pc_smry<span class="sc">$</span>importance[<span class="dv">2</span>, <span class="dv">1</span>] <span class="sc">*</span> <span class="dv">100</span>), <span class="st">" % variation explained)"</span>), </span>
+<span id="cb15-5"><a aria-hidden="true" tabindex="-1"></a>     <span class="at">ylab =</span> <span class="fu">paste0</span>(<span class="st">"PC2 ("</span>, (lich_pc_smry<span class="sc">$</span>importance[<span class="dv">2</span>, <span class="dv">2</span>] <span class="sc">*</span> <span class="dv">100</span>), <span class="st">" % variation explained)"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+</div>
+<img data-src="tutorial_multivar-stats_files/figure-revealjs/pca-ord-1.png" class="quarto-figure quarto-figure-center r-stretch" width="960"></section>
+<section id="non-metric-multidimensional-scaling-1" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-blue">Non-Metric Multidimensional Scaling</span></h2>
+<ul>
+<li>Just like PCA, we need to start by actually performing the scaling step</li>
+</ul>
+<p><br>
+</p>
+<ul>
+<li>See here:</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Perform NMS ordination</span></span>
+<span id="cb16-2"><a aria-hidden="true" tabindex="-1"></a>lich_mds <span class="ot">&lt;-</span> vegan<span class="sc">::</span><span class="fu">metaMDS</span>(<span class="at">comm =</span> varespec, <span class="at">distance =</span> <span class="st">"bray"</span>, <span class="at">k =</span> <span class="dv">2</span>, <span class="at">try =</span> <span class="dv">50</span>,</span>
+<span id="cb16-3"><a aria-hidden="true" tabindex="-1"></a>                           <span class="at">autotransform =</span> F, <span class="at">expand =</span> F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p><br>
+</p>
+<ul>
+<li>Quick explanation of (some of) the arguments
+<ul>
+<li><code>distance</code> is your preferred metric for dissimilarity</li>
+<li><code>k</code> is the number of axes to scale to (typically 2 for standard plotting)</li>
+<li><code>try</code> is the number of starting data configurations (remember the helicopter analogy!)</li>
+</ul></li>
+</ul>
+</section>
+<section id="nms-ordination" class="slide level2 smaller" data-background-color="#222222">
+<h2><span class="edu-blue">NMS Ordination</span></h2>
+<ul>
+<li>Fortunately, we can use a nice ordination function from the <code>supportR</code> package to make the graph</li>
+</ul>
+<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a aria-hidden="true" tabindex="-1"></a><span class="co"># Create NMS ordination</span></span>
+<span id="cb17-2"><a aria-hidden="true" tabindex="-1"></a>supportR<span class="sc">::</span><span class="fu">nms_ord</span>(<span class="at">mod =</span> lich_mds, <span class="at">groupcol =</span> lichen_df<span class="sc">$</span>treatment)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+</div>
+<img data-src="tutorial_multivar-stats_files/figure-revealjs/nms-ord-1.png" class="quarto-figure quarto-figure-center r-stretch" width="960"></section>
+<section id="thanks-questions" class="slide level2" data-background-image="images_general/pic-flea-beetle.jpg">
+<h2><span class="cream">Thanks! Questions?</span></h2>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
 </div>
 </div>
-</section>
+</section></section>
     </div>
   </div>
 
