@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Lyon Presentations"
+  favicon: images/logo_lyon.png
   repo-url: https://github.com/njlyon0/lyon_talks
   repo-actions: [issue]
   navbar:
